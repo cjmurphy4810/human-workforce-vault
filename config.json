@@ -1,0 +1,33 @@
+{
+  "channel_url": "PASTE_YOUR_YOUTUBE_CHANNEL_OR_PLAYLIST_URL_HERE",
+  "model_bulk": "claude-haiku-4-5-20251001",
+  "model_report": "claude-sonnet-4-6",
+  "speakers": [
+    "Simon Carver",
+    "Lachlan Reed",
+    "CJ Murphy",
+    "Jack Burns",
+    "Dr. Zara Sterling",
+    "Jacques San Dimas",
+    "Mariana Costa",
+    "Sofia Navarro"
+  ],
+  "primary_categories": [
+    "Agentic AI",
+    "Generative AI",
+    "Future of Work",
+    "Business Continuity",
+    "Operational Resilience",
+    "Risk Management",
+    "Cybersecurity",
+    "Governance",
+    "Compliance",
+    "Leadership",
+    "Productivity",
+    "Enterprise Transformation",
+    "Automation",
+    "Digital Labor",
+    "Human Skills",
+    "Organizational Design"
+  ]
+}
