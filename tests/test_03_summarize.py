@@ -26,4 +26,5 @@ def test_summarize_skips_when_no_api_key(tmp_path, monkeypatch):
         [sys.executable, str(Path(__file__).parents[1] / "scripts" / "03_summarize_episodes.py")],
         cwd=tmp_path, capture_output=True, text=True, env=env
     )
-    assert result.returncode != 0 or "no transcripts" in result.stdout.lower() or "skip" in result.stdout.lower()
+    assert result.returncode != 0
+    assert "ANTHROPIC_API_KEY" in result.stderr or "ANTHROPIC_API_KEY" in result.stdout

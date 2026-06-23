@@ -2,10 +2,17 @@
 """Phase 7: Build a knowledge graph from entity and topic co-occurrence."""
 
 import json
+import sys
 from collections import defaultdict
 from pathlib import Path
 
+DRY_RUN = "--dry-run" in sys.argv
+
 ROOT = Path(__file__).parent.parent
+_cwd = Path.cwd()
+if (_cwd / "youtube" / "metadata").exists():
+    ROOT = _cwd
+
 INDEX_PATH = ROOT / "youtube" / "metadata" / "index.json"
 ENTITIES_PATH = ROOT / "taxonomy" / "entities.json"
 TOPICS_PATH = ROOT / "taxonomy" / "topics.json"
@@ -94,8 +101,11 @@ def main() -> None:
     topics = json.loads(TOPICS_PATH.read_text()) if TOPICS_PATH.exists() else {}
 
     graph = build_graph(index, entities, topics)
-    OUTPUT_PATH.write_text(json.dumps(graph, indent=2))
     print(f"Knowledge graph: {len(graph['nodes'])} nodes, {len(graph['edges'])} edges")
+    if DRY_RUN:
+        print(f"[dry-run] Would write knowledge graph to {OUTPUT_PATH}")
+        return
+    OUTPUT_PATH.write_text(json.dumps(graph, indent=2))
     print(f"Saved to {OUTPUT_PATH}")
 
 

@@ -3,8 +3,11 @@
 
 import json
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
+
+DRY_RUN = "--dry-run" in sys.argv
 
 ROOT = Path(__file__).parent.parent
 _config_path = Path.cwd() / "config.json" if (Path.cwd() / "config.json").exists() else ROOT / "config.json"
@@ -109,13 +112,20 @@ def compile_topic_guides(index: list, topics: dict, categories: list) -> dict[st
 
 
 def main() -> None:
-    NLM_DIR.mkdir(parents=True, exist_ok=True)
-    (NLM_DIR / "topic-guides").mkdir(exist_ok=True)
-
     index = json.loads(INDEX_PATH.read_text())
     topics = json.loads(TOPICS_PATH.read_text()) if TOPICS_PATH.exists() else {}
     entities = json.loads(ENTITIES_PATH.read_text()) if ENTITIES_PATH.exists() else {}
     categories = json.loads(_config_path.read_text())["primary_categories"]
+
+    if DRY_RUN:
+        guides = compile_topic_guides(index, topics, categories)
+        print(f"[dry-run] Would write master-source.md, episode-index.md, glossary.md, frameworks.md")
+        print(f"[dry-run] Would write {len(guides)} topic guide(s) to {NLM_DIR / 'topic-guides'}")
+        print(f"[dry-run] Skipping all file writes.")
+        return
+
+    NLM_DIR.mkdir(parents=True, exist_ok=True)
+    (NLM_DIR / "topic-guides").mkdir(exist_ok=True)
 
     print("Compiling master-source.md...")
     (NLM_DIR / "master-source.md").write_text(compile_master_source(index), encoding="utf-8")

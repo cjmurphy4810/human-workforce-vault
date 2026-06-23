@@ -40,6 +40,8 @@ def save_state(state: dict) -> None:
 def main() -> None:
     state = load_state()
     completed = set(state["completed"]) if RESUME else set()
+    if not RESUME:
+        state["completed"] = []  # reset for this run, preserve run history
 
     run_record = {"started": datetime.now().isoformat(), "steps": []}
     state["runs"].append(run_record)

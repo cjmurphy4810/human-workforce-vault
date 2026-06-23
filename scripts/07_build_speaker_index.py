@@ -4,8 +4,11 @@
 import json
 import re
 import os
+import sys
 from collections import defaultdict
 from pathlib import Path
+
+DRY_RUN = "--dry-run" in sys.argv
 
 # Use cwd if running from tests, otherwise use script location
 ROOT = Path.cwd() if (Path.cwd() / "youtube" / "metadata").exists() else Path(__file__).parent.parent
@@ -69,6 +72,9 @@ def main() -> None:
             lines.append(f"- [Episode {ep['index']:03d}: {ep['title']}]({ep['url']}) — {topic_str}")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    if DRY_RUN:
+        print(f"[dry-run] Would write speaker index to {OUTPUT_PATH}")
+        return
     OUTPUT_PATH.write_text("\n".join(lines), encoding="utf-8")
     print(f"Speaker index saved to {OUTPUT_PATH}")
 

@@ -9,6 +9,9 @@ from pathlib import Path
 
 import anthropic
 
+FORCE = "--force" in sys.argv
+DRY_RUN = "--dry-run" in sys.argv
+
 ROOT = Path(__file__).parent.parent
 
 # cwd-first config pattern for testability
@@ -81,6 +84,12 @@ Topic distribution:
 
 
 def main() -> None:
+    if DRY_RUN:
+        print(f"[dry-run] Would generate intelligence report -> {OUTPUT_PATH}")
+        print(f"[dry-run] MASTER_SOURCE exists: {MASTER_SOURCE.exists()}")
+        print(f"[dry-run] Skipping API call and file write.")
+        return
+
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
         print("ERROR: ANTHROPIC_API_KEY not set.", file=sys.stderr)
@@ -91,6 +100,10 @@ def main() -> None:
             "ERROR: master-source.md not found. Run script 09 first.", file=sys.stderr
         )
         sys.exit(1)
+
+    if OUTPUT_PATH.exists() and not FORCE:
+        print(f"SKIP: {OUTPUT_PATH} already exists. Use --force to overwrite.")
+        return
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     client = anthropic.Anthropic(api_key=api_key)
