@@ -16,8 +16,6 @@ def build_graph(index: list, entities: dict, topics: dict) -> dict:
     nodes = []
     edges = []
 
-    episode_map = {e["video_id"]: e for e in index}
-
     # Episode nodes
     for entry in index:
         nodes.append({
