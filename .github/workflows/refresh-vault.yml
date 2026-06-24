@@ -1,0 +1,101 @@
+name: Refresh Knowledge Vault
+
+# Triggered manually via the "Refresh Data" button (GitHub Actions UI)
+# or automatically every Monday at 6 AM UTC.
+#
+# REQUIRED SECRET: Add ANTHROPIC_API_KEY in repo Settings → Secrets → Actions.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_report:
+        description: 'Force-regenerate intelligence report even if unchanged'
+        required: false
+        default: 'false'
+        type: boolean
+  schedule:
+    - cron: '0 6 * * 1'   # Weekly Monday 06:00 UTC
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect YouTube metadata
+        run: python3 scripts/01_collect_metadata.py
+
+      - name: Download transcripts
+        run: python3 scripts/02_collect_transcripts.py
+
+      - name: Summarise episodes (incremental — skips existing)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/03_summarize_episodes.py
+
+      - name: Extract entities and topics (incremental)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/04_extract_entities_topics.py
+
+      - name: Build knowledge graph
+        run: python3 scripts/05_build_knowledge_graph.py
+
+      - name: Build master index
+        run: python3 scripts/06_build_master_index.py
+
+      - name: Build speaker index
+        run: python3 scripts/07_build_speaker_index.py
+
+      - name: Generate shorts ideas (incremental)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/08_generate_shorts.py
+
+      - name: Prepare NotebookLM files
+        run: python3 scripts/09_prepare_notebooklm.py
+
+      - name: Generate intelligence report
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.force_report }}" = "true" ]; then
+            python3 scripts/10_generate_report.py --force
+          else
+            python3 scripts/10_generate_report.py --force
+          fi
+
+      - name: Regenerate GitHub Pages HTML
+        run: python3 scripts/11_generate_html.py
+
+      - name: Commit and push updated vault
+        run: |
+          git config user.name  "Human Workforce Vault Bot"
+          git config user.email "vault-bot@users.noreply.github.com"
+          git add docs/index.html
+          git add youtube/metadata/
+          git add taxonomy/
+          git add exports/
+          git add notebooklm/
+          git add topic-index/
+          git add speaker-index/
+          git add shorts/ || true
+          # Only commit if there are changes
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore: refresh vault $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

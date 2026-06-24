@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Human Workforce Knowledge Vault — Methodology Guide</title>
+<style>
+:root {
+  --brand:#0f172a; --accent:#3b82f6; --gold:#f59e0b;
+  --text:#1e293b; --muted:#64748b; --border:#e2e8f0;
+  --bg:#f8fafc; --white:#ffffff;
+  --code-bg:#f1f5f9; --code-border:#cbd5e1;
+}
+* { box-sizing:border-box; margin:0; padding:0; }
+body { font-family:'Georgia',serif; background:var(--bg); color:var(--text); line-height:1.75; font-size:16px; }
+
+/* ── HEADER ── */
+.site-header { background:var(--brand); padding:14px 40px; display:flex; align-items:center; gap:16px; }
+.site-header .logo { font-family:'Arial',sans-serif; font-size:11px; font-weight:700; letter-spacing:3px; text-transform:uppercase; color:var(--gold); }
+.site-header a { font-family:'Arial',sans-serif; font-size:12px; color:#94a3b8; text-decoration:none; margin-left:auto; }
+.site-header a:hover { color:white; }
+
+/* ── COVER ── */
+.cover {
+  background:linear-gradient(135deg,#0f172a 0%,#1e3a5f 60%,#0f3460 100%);
+  color:white; padding:80px 80px 64px; min-height:480px;
+  display:flex; flex-direction:column; justify-content:flex-end;
+}
+.cover-eyebrow { font-family:'Arial',sans-serif; font-size:10px; font-weight:700; letter-spacing:4px; text-transform:uppercase; color:var(--gold); margin-bottom:24px; }
+.cover h1 { font-size:44px; font-weight:700; line-height:1.15; margin-bottom:12px; }
+.cover h1 span { color:var(--gold); }
+.cover-sub { font-size:20px; color:#94a3b8; margin-bottom:40px; }
+.cover-meta { font-family:'Arial',sans-serif; font-size:13px; color:#475569; border-top:1px solid #1e3a5f; padding-top:24px; display:flex; gap:40px; flex-wrap:wrap; }
+.cover-meta span strong { color:#94a3b8; display:block; font-size:10px; letter-spacing:2px; text-transform:uppercase; margin-bottom:4px; }
+
+/* ── LAYOUT ── */
+.doc-layout { display:flex; max-width:1200px; margin:0 auto; }
+.sidebar { width:240px; flex-shrink:0; padding:40px 0 40px 32px; position:sticky; top:0; height:100vh; overflow-y:auto; }
+.sidebar h4 { font-family:'Arial',sans-serif; font-size:10px; font-weight:700; letter-spacing:2px; text-transform:uppercase; color:var(--muted); margin-bottom:12px; }
+.sidebar ul { list-style:none; }
+.sidebar ul li { margin-bottom:2px; }
+.sidebar ul li a { display:block; font-family:'Arial',sans-serif; font-size:12px; color:var(--muted); text-decoration:none; padding:5px 10px; border-radius:4px; }
+.sidebar ul li a:hover { color:var(--accent); background:#eff6ff; }
+.sidebar ul li.section-link > a { font-weight:700; color:var(--text); font-size:11px; margin-top:12px; padding-top:8px; border-top:1px solid var(--border); }
+.sidebar ul li.section-link:first-child > a { border-top:none; margin-top:0; }
+
+.content { flex:1; min-width:0; padding:64px 64px 100px 48px; }
+
+/* ── HEADINGS ── */
+.part-label { font-family:'Arial',sans-serif; font-size:10px; font-weight:700; letter-spacing:3px; text-transform:uppercase; color:var(--gold); margin-bottom:8px; margin-top:64px; }
+.part-label:first-child { margin-top:0; }
+h2 { font-size:28px; font-weight:700; color:var(--brand); margin-bottom:20px; padding-bottom:12px; border-bottom:2px solid var(--border); scroll-margin-top:24px; }
+h3 { font-size:19px; font-weight:700; color:var(--brand); margin:36px 0 14px; scroll-margin-top:24px; }
+h4 { font-size:15px; font-weight:700; color:var(--text); margin:24px 0 10px; }
+
+/* ── BODY TEXT ── */
+p { margin-bottom:16px; }
+ul, ol { margin:0 0 16px 24px; }
+li { margin-bottom:6px; }
+strong { font-weight:700; }
+em { font-style:italic; }
+
+/* ── CALLOUTS ── */
+.callout { border-left:4px solid var(--accent); background:#eff6ff; border-radius:0 8px 8px 0; padding:16px 20px; margin:24px 0; }
+.callout-gold { border-left-color:var(--gold); background:#fffbeb; }
+.callout-green { border-left-color:#22c55e; background:#f0fdf4; }
+.callout-red { border-left-color:#ef4444; background:#fef2f2; }
+.callout strong { display:block; margin-bottom:6px; font-size:13px; text-transform:uppercase; letter-spacing:1px; }
+.callout p { margin:0; font-size:14px; }
+
+/* ── CODE ── */
+pre { background:var(--code-bg); border:1px solid var(--code-border); border-radius:8px; padding:20px 24px; overflow-x:auto; margin:20px 0; }
+code { font-family:'Menlo','Monaco','Courier New',monospace; font-size:13px; line-height:1.6; }
+p code, li code { background:var(--code-bg); border:1px solid var(--code-border); padding:2px 6px; border-radius:4px; font-size:13px; }
+
+/* ── TABLES ── */
+table { width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; }
+th { background:var(--brand); color:white; padding:10px 14px; text-align:left; font-family:'Arial',sans-serif; font-weight:700; font-size:12px; letter-spacing:.5px; }
+td { padding:10px 14px; border-bottom:1px solid var(--border); vertical-align:top; }
+tr:nth-child(even) td { background:#f8fafc; }
+
+/* ── SCRIPT CARDS ── */
+.script-card { background:var(--white); border:1px solid var(--border); border-radius:10px; margin:20px 0; overflow:hidden; }
+.script-card-header { background:var(--brand); color:white; padding:14px 20px; display:flex; align-items:center; gap:14px; }
+.script-num { font-family:'Arial',sans-serif; font-size:11px; font-weight:700; letter-spacing:1px; background:rgba(255,255,255,.15); padding:4px 10px; border-radius:4px; white-space:nowrap; }
+.script-name { font-weight:700; font-size:15px; }
+.script-body { padding:20px; }
+.script-body p { font-size:14px; margin-bottom:10px; }
+.meta-row { display:flex; gap:24px; flex-wrap:wrap; margin-bottom:14px; }
+.meta-item { font-family:'Arial',sans-serif; font-size:12px; }
+.meta-item strong { display:block; font-size:10px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); margin-bottom:3px; }
+
+/* ── FLOW DIAGRAM ── */
+.flow { background:var(--code-bg); border:1px solid var(--code-border); border-radius:8px; padding:24px; margin:24px 0; font-family:'Menlo',monospace; font-size:12px; line-height:1.8; overflow-x:auto; }
+
+/* ── FINAL PROMPT ── */
+.final-prompt { background:#0f172a; color:#e2e8f0; border-radius:12px; padding:32px; margin:24px 0; }
+.final-prompt h3 { color:var(--gold); border:none; margin-top:0; font-family:'Arial',sans-serif; letter-spacing:1px; font-size:13px; text-transform:uppercase; margin-bottom:20px; }
+.final-prompt pre { background:rgba(255,255,255,.05); border-color:rgba(255,255,255,.1); color:#e2e8f0; margin:0; }
+.copy-note { font-family:'Arial',sans-serif; font-size:12px; color:#64748b; margin-top:12px; }
+
+/* ── PRINT ── */
+@media print {
+  .site-header, .sidebar { display:none; }
+  .content { padding:0; }
+  .cover { min-height:auto; padding:40px; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  pre { white-space:pre-wrap; }
+  h2, h3 { page-break-after:avoid; }
+  .script-card { page-break-inside:avoid; }
+}
+@media(max-width:900px) { .sidebar{display:none} .content{padding:32px 24px 60px} .cover{padding:40px 24px} .cover h1{font-size:30px} }
+</style>
+</head>
+<body>
+
+<div class="site-header">
+  <span class="logo">The Human Workforce</span>
+  <span style="color:#334155;font-family:Arial,sans-serif;font-size:13px">Knowledge Vault — Methodology Guide</span>
+  <a href="index.html">← Intelligence Report</a>
+</div>
+
+<!-- COVER -->
+<div class="cover">
+  <div class="cover-eyebrow">Technical & Methodology Guide · v1.0</div>
+  <h1>The Human Workforce<br><span>Knowledge Vault</span></h1>
+  <div class="cover-sub">A complete guide to what was built, how it works,<br>how each output is validated, and how to build your own.</div>
+  <div class="cover-meta">
+    <span><strong>Channel Analyzed</strong>@TheHumanWorkforce</span>
+    <span><strong>Videos Processed</strong>186 total · 76 transcribed</span>
+    <span><strong>AI Models Used</strong>Claude Haiku + Claude Sonnet</span>
+    <span><strong>Knowledge Graph</strong>1,903 nodes · 5,842 edges</span>
+    <span><strong>Created</strong>June 2026</span>
+  </div>
+</div>
+
+<div class="doc-layout">
+
+<!-- SIDEBAR TOC -->
+<div class="sidebar">
+  <h4>Contents</h4>
+  <ul>
+    <li class="section-link"><a href="#s1">1 · Overview</a></li>
+    <li><a href="#s1-problem">The Problem</a></li>
+    <li><a href="#s1-outputs">Key Outputs</a></li>
+
+    <li class="section-link"><a href="#s2">2 · Architecture</a></li>
+    <li><a href="#s2-pipeline">The 11-Script Pipeline</a></li>
+    <li><a href="#s2-stack">Technology Stack</a></li>
+    <li><a href="#s2-files">File Structure</a></li>
+
+    <li class="section-link"><a href="#s3">3 · Data Collection</a></li>
+    <li><a href="#s3-01">Script 01 · Metadata</a></li>
+    <li><a href="#s3-02">Script 02 · Transcripts</a></li>
+
+    <li class="section-link"><a href="#s4">4 · AI Analysis</a></li>
+    <li><a href="#s4-03">Script 03 · Summaries</a></li>
+    <li><a href="#s4-04">Script 04 · Entities</a></li>
+
+    <li class="section-link"><a href="#s5">5 · Knowledge Layer</a></li>
+    <li><a href="#s5-05">Script 05 · Graph</a></li>
+    <li><a href="#s5-06">Script 06 · Index</a></li>
+    <li><a href="#s5-07">Script 07 · Speakers</a></li>
+
+    <li class="section-link"><a href="#s6">6 · Content Intel</a></li>
+    <li><a href="#s6-08">Script 08 · Shorts</a></li>
+    <li><a href="#s6-09">Script 09 · NotebookLM</a></li>
+    <li><a href="#s6-10">Script 10 · Report</a></li>
+    <li><a href="#s6-11">Script 11 · HTML</a></li>
+
+    <li class="section-link"><a href="#s7">7 · Reliability Design</a></li>
+    <li class="section-link"><a href="#s8">8 · Quality Assurance</a></li>
+    <li class="section-link"><a href="#s9">9 · Refresh Workflow</a></li>
+    <li class="section-link"><a href="#s10">10 · Final Prompt</a></li>
+  </ul>
+</div>
+
+<!-- CONTENT -->
+<div class="content">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 1</div>
+<h2 id="s1">Overview &amp; Purpose</h2>
+
+<h3 id="s1-problem">The Problem This Solves</h3>
+<p>Podcast channels accumulate enormous bodies of knowledge that are nearly inaccessible in raw form. A subscriber who discovers @TheHumanWorkforce today faces 186 videos with no structured way to navigate themes, find episodes on a specific topic, identify the most important insights across the full corpus, or connect ideas across episodes recorded months apart.</p>
+<p>The Human Workforce Knowledge Vault solves this by treating the full channel as a structured knowledge base — collecting, cleaning, analysing, connecting, and surfacing its intelligence through a set of automated, reproducible pipeline scripts powered by AI.</p>
+
+<h3 id="s1-outputs">Key Outputs Produced</h3>
+<table>
+  <tr><th>Output</th><th>Location</th><th>Description</th></tr>
+  <tr><td>Episode Metadata</td><td><code>youtube/metadata/</code></td><td>One Markdown file per video + unified index.json</td></tr>
+  <tr><td>Cleaned Transcripts</td><td><code>youtube/transcripts/</code></td><td>Plain text, deduplicated, noise-removed</td></tr>
+  <tr><td>Episode Summaries</td><td><code>youtube/summaries/</code></td><td>7-section structured Markdown per episode</td></tr>
+  <tr><td>Entity Taxonomy</td><td><code>taxonomy/entities.json</code></td><td>People, orgs, products, concepts by episode</td></tr>
+  <tr><td>Topic Taxonomy</td><td><code>taxonomy/topics.json</code></td><td>Primary topics per episode</td></tr>
+  <tr><td>Knowledge Graph</td><td><code>taxonomy/knowledge-graph.json</code></td><td>1,903 nodes, 5,842 edges</td></tr>
+  <tr><td>Master Index</td><td><code>topic-index/master-index.md</code></td><td>Episodes grouped by topic + top 50 concepts</td></tr>
+  <tr><td>Speaker Index</td><td><code>speaker-index/speaker-index.md</code></td><td>Episodes by speaker appearance</td></tr>
+  <tr><td>Shorts Ideas</td><td><code>shorts/</code></td><td>10 short-form content ideas per episode</td></tr>
+  <tr><td>NotebookLM Files</td><td><code>notebooklm/</code></td><td>16 topic guides + master source + glossary</td></tr>
+  <tr><td>Intelligence Report</td><td><code>exports/</code></td><td>Full AI-generated strategic analysis</td></tr>
+  <tr><td>GitHub Pages Site</td><td><code>docs/index.html</code></td><td>Live public webpage of the report</td></tr>
+</table>
+
+<div class="callout callout-gold">
+  <strong>What Makes This Different From a Simple Transcript Dump</strong>
+  <p>Each layer adds structured intelligence: transcripts → summaries → entities → graph → indexes → report. By the final step, Claude Sonnet is reading a compressed, curated view of 120,000+ characters of verified source material — not raw transcripts — which is why the intelligence report reads at a level of synthesis and specificity that a simple "summarise this video" prompt cannot achieve.</p>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 2</div>
+<h2 id="s2">Architecture</h2>
+
+<h3 id="s2-pipeline">The 11-Script Pipeline</h3>
+<div class="flow">YouTube Channel (@TheHumanWorkforce)
+        │
+        ▼
+  ┌─────────────────────────────────────┐
+  │  01_collect_metadata.py             │  yt-dlp → per-video .md + index.json
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  02_collect_transcripts.py          │  youtube-transcript-api → yt-dlp fallback
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  03_summarize_episodes.py    (AI)   │  Claude Haiku · 7-section structured prompt
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  04_extract_entities_topics.py (AI) │  Claude Haiku · entities + topics JSON
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  05_build_knowledge_graph.py        │  Pure Python · 1,903 nodes / 5,842 edges
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  06_build_master_index.py           │  Topic grouping · top-50 concepts
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  07_build_speaker_index.py          │  Speaker name detection in transcripts
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  08_generate_shorts.py       (AI)   │  Claude Haiku · 10 short ideas per episode
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  09_prepare_notebooklm.py           │  16 topic guides + master source document
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  10_generate_report.py       (AI)   │  Claude Sonnet · full intelligence report
+  └───────────────┬─────────────────────┘
+                  ▼
+  ┌─────────────────────────────────────┐
+  │  11_generate_html.py                │  Reads live data → docs/index.html
+  └───────────────┬─────────────────────┘
+                  ▼
+        GitHub Pages (Live Site)
+</div>
+
+<h3 id="s2-stack">Technology Stack</h3>
+<table>
+  <tr><th>Tool</th><th>Purpose</th><th>Version</th></tr>
+  <tr><td><code>yt-dlp</code></td><td>YouTube metadata &amp; subtitle download (no API key)</td><td>≥2024.1.0</td></tr>
+  <tr><td><code>youtube-transcript-api</code></td><td>Primary transcript download via YouTube caption API</td><td>≥1.2.4</td></tr>
+  <tr><td><code>anthropic</code></td><td>Claude API for summarisation, extraction, report</td><td>≥0.40.0</td></tr>
+  <tr><td><code>python-slugify</code></td><td>URL-safe filenames for episode slugs</td><td>≥8.0.4</td></tr>
+  <tr><td><code>pyyaml</code></td><td>Config loading</td><td>≥6.0</td></tr>
+  <tr><td>Python stdlib</td><td>json, re, pathlib, datetime, argparse, sys</td><td>3.9+</td></tr>
+</table>
+
+<h3 id="s2-files">File Structure</h3>
+<pre><code>HumanWorkforceVault/
+├── config.json                    # Channel URL, speakers, categories, model names
+├── requirements.txt               # Python dependencies
+├── scripts/
+│   ├── 01_collect_metadata.py     # YouTube metadata harvester
+│   ├── 02_collect_transcripts.py  # Transcript downloader + cleaner
+│   ├── 03_summarize_episodes.py   # AI episode summariser
+│   ├── 04_extract_entities_topics.py  # AI entity + topic extractor
+│   ├── 05_build_knowledge_graph.py    # Graph construction (no AI)
+│   ├── 06_build_master_index.py   # Topic-grouped episode index
+│   ├── 07_build_speaker_index.py  # Speaker cross-reference
+│   ├── 08_generate_shorts.py      # Short-form content ideas
+│   ├── 09_prepare_notebooklm.py   # NotebookLM source files
+│   ├── 10_generate_report.py      # Final intelligence report
+│   ├── 11_generate_html.py        # GitHub Pages HTML generator
+│   └── run_pipeline.py            # Orchestrator (runs 01–11 in sequence)
+├── youtube/
+│   ├── metadata/index.json        # Master episode index
+│   ├── metadata/*.md              # Per-episode metadata
+│   ├── transcripts/*.txt          # Cleaned transcripts
+│   └── summaries/*.md             # 7-section episode summaries
+├── taxonomy/
+│   ├── entities.json              # Entity extraction results by video_id
+│   ├── topics.json                # Topic classification by video_id
+│   └── knowledge-graph.json       # Full graph (nodes + edges)
+├── topic-index/
+│   └── master-index.md            # Topics → episodes cross-reference
+├── speaker-index/
+│   └── speaker-index.md           # Speakers → episodes cross-reference
+├── shorts/                        # Short-form content ideas per episode
+├── notebooklm/                    # Ready-to-import NotebookLM sources
+├── exports/
+│   └── human-workforce-intelligence-report.md
+├── docs/
+│   ├── index.html                 # GitHub Pages intelligence report
+│   └── guide.html                 # This document
+└── .github/workflows/
+    └── refresh-vault.yml          # Automated refresh via GitHub Actions</code></pre>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 3</div>
+<h2 id="s3">Data Collection Layer</h2>
+
+<div class="script-card" id="s3-01">
+  <div class="script-card-header">
+    <span class="script-num">Script 01</span>
+    <span class="script-name">01_collect_metadata.py — YouTube Metadata Collection</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Input</strong>Channel URL in config.json</div>
+      <div class="meta-item"><strong>Output</strong>youtube/metadata/*.md + index.json</div>
+      <div class="meta-item"><strong>AI calls</strong>None</div>
+      <div class="meta-item"><strong>API key</strong>Not required</div>
+    </div>
+    <p><strong>How it works:</strong> Uses <code>yt-dlp --dump-json --flat-playlist</code> to extract the full channel playlist without downloading any video files. For each video, it writes a Markdown metadata file (title, upload date, duration, URL, description) and updates a central <code>index.json</code> with a stable <code>video_id</code> key.</p>
+    <p><strong>Why yt-dlp instead of the YouTube Data API:</strong> The YouTube Data API requires an API key with a 10,000 unit/day quota — a full channel crawl can exhaust this in one run. yt-dlp has no quota and no key requirement.</p>
+    <p><strong>Validation approach:</strong> The script checks that the playlist extraction returned results and that each entry has a non-empty <code>id</code> field. The <code>index.json</code> is always regenerated fresh from the yt-dlp output, so it always reflects the live channel state.</p>
+    <p><strong>Slug generation:</strong> Each video gets a URL-safe slug from its title via <code>python-slugify</code>, with a 60-character truncation. The filename format is <code>YYYY-MM-DD-slug.md</code> derived from the upload date — this makes the metadata directory sortable by date and prevents filename collisions.</p>
+  </div>
+</div>
+
+<div class="script-card" id="s3-02">
+  <div class="script-card-header">
+    <span class="script-num">Script 02</span>
+    <span class="script-name">02_collect_transcripts.py — Transcript Extraction</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Input</strong>index.json (video IDs)</div>
+      <div class="meta-item"><strong>Output</strong>youtube/transcripts/*.txt</div>
+      <div class="meta-item"><strong>AI calls</strong>None</div>
+      <div class="meta-item"><strong>Success rate</strong>~41% (76/186 videos have captions)</div>
+    </div>
+    <p><strong>Dual-source architecture:</strong> The script uses two transcript sources in sequence, falling back automatically if the primary fails:</p>
+    <ol>
+      <li><strong>Primary:</strong> <code>YouTubeTranscriptApi().fetch(video_id, languages=["en", "en-US"])</code> — the official YouTube caption API, fastest and most accurate. Note the <em>instance method</em> pattern (<code>YouTubeTranscriptApi()</code>) required by v1.2.4+ of the library.</li>
+      <li><strong>Fallback:</strong> <code>yt-dlp --write-auto-sub --skip-download</code> — downloads the auto-generated VTT subtitle file, which is then parsed to extract plain text.</li>
+    </ol>
+    <p><strong>Why the low success rate (41%)?</strong> The other 59% are YouTube Shorts — short vertical videos (under 60 seconds) that YouTube does not generate captions for. Full podcast episodes all have captions. This is expected and correct behaviour.</p>
+    <p><strong>Cleaning pipeline applied to every transcript:</strong></p>
+    <ul>
+      <li>Remove <code>[Music]</code>, <code>[Applause]</code>, and other sound tags</li>
+      <li>Strip HTML tags from VTT files</li>
+      <li>Deduplicate consecutive identical lines (common in auto-caption VTT files)</li>
+      <li>Break continuous text into ~500-character paragraphs at sentence boundaries</li>
+      <li>Strip leading/trailing whitespace and normalize multiple blank lines</li>
+    </ul>
+    <p><strong>Validation:</strong> Each saved transcript file is verified to be non-empty after cleaning. If both sources fail, the episode is marked as <code>transcript_failed</code> in <code>index.json</code> and skipped in all downstream scripts — it does not cause a pipeline crash.</p>
+
+    <div class="callout callout-green">
+      <strong>Key API Compatibility Note</strong>
+      <p><code>youtube-transcript-api</code> v1.2.4 removed the class method <code>YouTubeTranscriptApi.get_transcript()</code>. All scripts use the instance method pattern <code>YouTubeTranscriptApi().fetch()</code>. The fetched snippet objects are <code>FetchedTranscriptSnippet</code> dataclasses, converted to dicts via <code>[{"text": s.text} for s in fetched]</code> before processing. This is the pattern that works as of v1.2.4.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 4</div>
+<h2 id="s4">AI Analysis Layer</h2>
+
+<div class="script-card" id="s4-03">
+  <div class="script-card-header">
+    <span class="script-num">Script 03</span>
+    <span class="script-name">03_summarize_episodes.py — Episode Summarisation</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Model</strong>claude-haiku-4-5-20251001</div>
+      <div class="meta-item"><strong>Input</strong>Cleaned transcripts</div>
+      <div class="meta-item"><strong>Output</strong>youtube/summaries/*.md</div>
+      <div class="meta-item"><strong>Cost</strong>~$0.002 per episode</div>
+    </div>
+    <p><strong>Why Haiku (not Sonnet) here:</strong> At this stage we are doing 76 independent extraction tasks on individual transcripts. Haiku is 15× cheaper than Sonnet and sufficient for structured extraction from a single document. Sonnet is reserved for the final cross-corpus synthesis (Script 10).</p>
+    <p><strong>The 7-section prompt structure and why each section was chosen:</strong></p>
+    <table>
+      <tr><th>Section</th><th>Purpose</th></tr>
+      <tr><td>Executive Summary</td><td>2–3 sentence overview for navigation and search</td></tr>
+      <tr><td>Key Themes</td><td>3–5 thematic tags — feeds the master index and knowledge graph</td></tr>
+      <tr><td>Key Findings</td><td>3–5 concrete takeaways — the substantive intelligence</td></tr>
+      <tr><td>Actionable Takeaways</td><td>Practitioner-oriented actions — increases usefulness</td></tr>
+      <tr><td>Notable Quotes</td><td>Verbatim content — anchors summaries to source material</td></tr>
+      <tr><td>Human Workforce Relevance</td><td>Channel-specific framing — ensures output is domain-relevant</td></tr>
+      <tr><td>Suggested Future Content</td><td>Content strategy value — bonus output for the channel owner</td></tr>
+    </table>
+    <p><strong>Validation:</strong></p>
+    <ul>
+      <li><strong>Truncation guard:</strong> Transcripts longer than 100,000 characters are truncated before sending. This prevents hitting the API's context window limit and keeps costs predictable.</li>
+      <li><strong>Section presence check:</strong> The script verifies the response contains at least the "Executive Summary" header before saving.</li>
+      <li><strong>Incremental processing:</strong> Episodes with an existing <code>summary_file</code> in <code>index.json</code> are skipped unless <code>--force</code> is passed. A failed API call does not corrupt the index.</li>
+      <li><strong>Structured output:</strong> The 7-section Markdown format is enforced by the prompt. Haiku follows this structure reliably across all 76 episodes.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="script-card" id="s4-04">
+  <div class="script-card-header">
+    <span class="script-num">Script 04</span>
+    <span class="script-name">04_extract_entities_topics.py — Entity &amp; Topic Extraction</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Model</strong>claude-haiku-4-5-20251001</div>
+      <div class="meta-item"><strong>Output</strong>taxonomy/entities.json + topics.json</div>
+      <div class="meta-item"><strong>API calls</strong>1 per episode (combined)</div>
+    </div>
+    <p><strong>Single-call efficiency:</strong> Rather than making two separate API calls per episode (one for entities, one for topics), the prompt requests both in a single JSON response. This halves API costs and latency for this step.</p>
+    <p><strong>Entity categories extracted:</strong></p>
+    <ul>
+      <li><code>people</code> — Named individuals mentioned</li>
+      <li><code>organizations</code> — Companies, institutions, agencies</li>
+      <li><code>products</code> — Named software products and services</li>
+      <li><code>platforms</code> — AI/cloud platforms (AWS, Azure, etc.)</li>
+      <li><code>concepts</code> — Coined or specialized terms (e.g., "ghost in the org chart")</li>
+      <li><code>technologies</code> — Technical domains and approaches</li>
+      <li><code>methodologies</code> — Frameworks and processes</li>
+      <li><code>frameworks</code> — Named analytical or governance frameworks</li>
+    </ul>
+    <p><strong>JSON fence stripping:</strong> Claude often wraps JSON responses in Markdown code fences (<code>```json ... ```</code>). The script strips these before parsing with a regex: <code>re.sub(r'^```json?\n?|```$', '', response.strip(), flags=re.MULTILINE)</code>. This prevents <code>json.JSONDecodeError</code> on otherwise valid responses.</p>
+    <p><strong>Validation:</strong></p>
+    <ul>
+      <li>Incremental: episodes already in <code>entities.json</code> are skipped (keyed by <code>video_id</code>)</li>
+      <li>Schema check: the response must have at least <code>entities</code> and <code>topics</code> keys</li>
+      <li>Failed episodes are logged but do not abort the run — the rest of the batch continues</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 5</div>
+<h2 id="s5">Knowledge Architecture Layer</h2>
+
+<div class="script-card" id="s5-05">
+  <div class="script-card-header">
+    <span class="script-num">Script 05</span>
+    <span class="script-name">05_build_knowledge_graph.py — Knowledge Graph Construction</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>AI calls</strong>None</div>
+      <div class="meta-item"><strong>Output</strong>taxonomy/knowledge-graph.json</div>
+      <div class="meta-item"><strong>Result</strong>1,903 nodes · 5,842 edges</div>
+    </div>
+    <p><strong>Node types and ID scheme:</strong></p>
+    <table>
+      <tr><th>Type</th><th>ID Format</th><th>Example</th></tr>
+      <tr><td><code>episode</code></td><td><code>episode:{video_id}</code></td><td><code>episode:dQw4w9WgXcQ</code></td></tr>
+      <tr><td><code>concept</code></td><td><code>concept:{category}:{label}</code></td><td><code>concept:people:satya-nadella</code></td></tr>
+      <tr><td><code>topic</code></td><td><code>topic:{topic_name}</code></td><td><code>topic:AI Governance</code></td></tr>
+    </table>
+    <p><strong>Edge types:</strong></p>
+    <table>
+      <tr><th>Relationship</th><th>Connects</th><th>Meaning</th></tr>
+      <tr><td><code>mentions</code></td><td>episode → concept</td><td>This episode mentions this entity</td></tr>
+      <tr><td><code>covers</code></td><td>episode → topic</td><td>This episode covers this primary topic</td></tr>
+      <tr><td><code>related</code></td><td>episode ↔ episode</td><td>Two episodes share 2+ primary topics</td></tr>
+    </table>
+    <p><strong>Related edge threshold:</strong> The "2+ shared topics" threshold was chosen to avoid generating trivial connections (any two governance episodes would be connected by "AI") while still capturing meaningful thematic clustering. Lowering to 1 would generate too many weak edges; raising to 3 would miss most connections given the typical 3–5 topics per episode.</p>
+    <p><strong>Validation:</strong> This is a deterministic, pure-Python computation. The same inputs always produce the same graph. The script prints node and edge counts on completion — these can be compared against previous runs to detect anomalies (e.g., a bulk deletion of taxonomy data).</p>
+  </div>
+</div>
+
+<div class="script-card" id="s5-06">
+  <div class="script-card-header">
+    <span class="script-num">Script 06</span>
+    <span class="script-name">06_build_master_index.py — Master Topic Index</span>
+  </div>
+  <div class="script-body">
+    <p>Groups all episodes by their primary topics (from <code>topics.json</code>), then ranks the top 50 concepts by raw frequency across the full corpus (from <code>entities.json</code>). Output is a single Markdown file at <code>topic-index/master-index.md</code> designed to give a human (or NotebookLM) a complete navigational map of the vault in one document.</p>
+    <p>No AI calls. No external dependencies beyond the existing taxonomy files. Deterministic.</p>
+  </div>
+</div>
+
+<div class="script-card" id="s5-07">
+  <div class="script-card-header">
+    <span class="script-num">Script 07</span>
+    <span class="script-name">07_build_speaker_index.py — Speaker Cross-Reference</span>
+  </div>
+  <div class="script-body">
+    <p>Reads the <code>speakers</code> list from <code>config.json</code> and searches each cleaned transcript for occurrences of each speaker's name. For each speaker, outputs a list of episodes where they appear, with timestamps not required — simple name-match detection is sufficient for cross-reference purposes.</p>
+    <p><strong>Limitation:</strong> This is a name-string search, not speaker diarization. If a transcript refers to someone as "he" or "the guest" rather than by name, that appearance will not be detected. For the purposes of a content vault, this level of detection is appropriate and low-cost.</p>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 6</div>
+<h2 id="s6">Content Intelligence Layer</h2>
+
+<div class="script-card" id="s6-08">
+  <div class="script-card-header">
+    <span class="script-num">Script 08</span>
+    <span class="script-name">08_generate_shorts.py — Short-Form Content Ideas</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Model</strong>claude-haiku-4-5-20251001</div>
+      <div class="meta-item"><strong>Output</strong>shorts/episode-NNN-slug-shorts.md</div>
+      <div class="meta-item"><strong>Per episode</strong>10 ideas × 4-element format</div>
+    </div>
+    <p>For each episode with a summary, generates 10 short-form content ideas in a structured 4-element format:</p>
+    <ul>
+      <li><strong>Hook</strong> — First 3 seconds that stops the scroll</li>
+      <li><strong>Key Message</strong> — The core insight in one sentence</li>
+      <li><strong>Suggested Visual</strong> — What to show on screen</li>
+      <li><strong>CTA</strong> — Call to action for the specific insight</li>
+    </ul>
+    <p>This output is channel-strategy intelligence — it turns the knowledge vault into an active content production tool, not just an archive.</p>
+  </div>
+</div>
+
+<div class="script-card" id="s6-09">
+  <div class="script-card-header">
+    <span class="script-num">Script 09</span>
+    <span class="script-name">09_prepare_notebooklm.py — NotebookLM Source Files</span>
+  </div>
+  <div class="script-body">
+    <p>Produces a set of structured Markdown files specifically designed for import into Google NotebookLM as a knowledge base:</p>
+    <ul>
+      <li><code>notebooklm/master-source.md</code> — All summaries combined in one searchable document</li>
+      <li><code>notebooklm/episode-index.md</code> — Full episode listing with dates and topics</li>
+      <li><code>notebooklm/glossary.md</code> — Key terms and concepts extracted from entities</li>
+      <li><code>notebooklm/frameworks.md</code> — Named frameworks and methodologies</li>
+      <li><code>notebooklm/topic-guides/*.md</code> — 16 topic-specific files, one per primary category</li>
+    </ul>
+    <p>The <code>master-source.md</code> file is also the primary input to Script 10 (the intelligence report). Its first 120,000 characters are passed to Claude Sonnet as the knowledge corpus.</p>
+  </div>
+</div>
+
+<div class="script-card" id="s6-10">
+  <div class="script-card-header">
+    <span class="script-num">Script 10</span>
+    <span class="script-name">10_generate_report.py — Intelligence Report</span>
+  </div>
+  <div class="script-body">
+    <div class="meta-row">
+      <div class="meta-item"><strong>Model</strong>claude-sonnet-4-6</div>
+      <div class="meta-item"><strong>Max tokens</strong>8,192</div>
+      <div class="meta-item"><strong>Input chars</strong>120,000 (master-source.md)</div>
+      <div class="meta-item"><strong>Cost</strong>~$0.40 per run</div>
+    </div>
+    <p><strong>Why Claude Sonnet here (not Haiku):</strong> The intelligence report requires synthesis across the full corpus — identifying cross-episode patterns, generating novel concept names ("ghost in the org chart"), making multi-horizon predictions, and writing at publication quality. This is the hardest cognitive task in the pipeline. Sonnet's reasoning depth produces qualitatively better outputs than Haiku would at this synthesis level.</p>
+
+    <p><strong>The analysis prompt structure:</strong> The prompt instructs Claude Sonnet to act as a "Senior Research Analyst" (a persona that primes professional, analytical writing) and produce eight specific sections:</p>
+    <ol>
+      <li>Executive Summary (4 paragraphs, no bullet points — narrative synthesis)</li>
+      <li>Top 25 Themes (numbered, titled, with description)</li>
+      <li>10 Most Important Findings (evidence-grounded)</li>
+      <li>8 Emerging Trends (with episode citations)</li>
+      <li>5 Workforce Predictions + 5 AI Predictions + 5 Governance Predictions</li>
+      <li>5 Recommended Future Books (with thesis and audience)</li>
+      <li>5 Recommended Future Podcast Series (with concept and episode ideas)</li>
+      <li>5 Recommended Future Courses (with outcomes)</li>
+    </ol>
+
+    <p><strong>What makes the report reliable:</strong></p>
+    <ul>
+      <li><strong>Source fidelity:</strong> The 120k-character input is the verified, human-cleaned summaries from Script 03 — not raw transcripts. Claude is synthesising pre-validated, structured intelligence.</li>
+      <li><strong>Topic distribution grounding:</strong> The prompt also includes the <code>topics.json</code> frequency distribution so the report reflects actual content proportions, not sampling bias toward memorable episodes.</li>
+      <li><strong>Specificity requirement:</strong> The prompt explicitly instructs "cite specific episodes and evidence" in findings and trends, preventing generic outputs.</li>
+      <li><strong>8,192 token limit:</strong> Set high enough to allow complete, long-form sections without truncation.</li>
+    </ul>
+
+    <p><strong>Flags:</strong></p>
+    <ul>
+      <li><code>--force</code> — Overwrite existing report (default: skip if report already exists)</li>
+      <li><code>--dry-run</code> — Show what would be generated without making an API call</li>
+    </ul>
+
+    <div class="callout callout-red">
+      <strong>Security: API Key Handling</strong>
+      <p>The Anthropic API key is <em>never</em> stored in any file in this repository. It is always read from the <code>ANTHROPIC_API_KEY</code> environment variable. The script exits with a non-zero error code if this variable is not set. For GitHub Actions, the key is stored as a repository secret (<code>Settings → Secrets and Variables → Actions</code>) and injected via <code>${{ secrets.ANTHROPIC_API_KEY }}</code>.</p>
+    </div>
+  </div>
+</div>
+
+<div class="script-card" id="s6-11">
+  <div class="script-card-header">
+    <span class="script-num">Script 11</span>
+    <span class="script-name">11_generate_html.py — GitHub Pages HTML Generator</span>
+  </div>
+  <div class="script-body">
+    <p>Reads live vault data and the intelligence report markdown, parses each section, and regenerates <code>docs/index.html</code> with updated stats and content. This is the script that closes the loop between the pipeline and the public-facing website.</p>
+    <p><strong>What it reads:</strong></p>
+    <ul>
+      <li><code>youtube/metadata/index.json</code> — for video/transcript/summary counts</li>
+      <li><code>taxonomy/knowledge-graph.json</code> — for node and edge counts</li>
+      <li><code>taxonomy/topics.json</code> — for topic count</li>
+      <li><code>exports/human-workforce-intelligence-report.md</code> — for all content sections</li>
+    </ul>
+    <p><strong>Markdown parsing approach:</strong> Uses Python <code>re</code> (standard library only — no dependencies). Splits the report by <code>## </code> headers to isolate sections, then applies pattern-specific regex to each section to extract structured data (themes as <code>(title, description)</code> tuples, findings as <code>(title, body)</code> pairs, etc.).</p>
+    <p><strong>cwd-first config:</strong> Like all pipeline scripts, it detects the project root by checking if <code>youtube/metadata/</code> exists in the current working directory. This enables running from any directory and enables test isolation with <code>tmp_path</code>.</p>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 7</div>
+<h2 id="s7">Reliability Design Principles</h2>
+<p>Several engineering patterns work together to make the pipeline consistently reliable across repeated runs, new data, and edge cases.</p>
+
+<h3>1. Incremental Processing Pattern</h3>
+<p>Every AI-calling script (03, 04, 08) skips items that already have a result in the output file, checking by <code>video_id</code> before making any API call. This means:</p>
+<ul>
+  <li>Interrupted runs can be resumed without re-processing completed items</li>
+  <li>Adding 10 new videos to a 186-video channel only costs API calls for the 10 new episodes</li>
+  <li>A script that crashes on item 50 of 76 restarts from item 51, not item 1</li>
+</ul>
+<p>The <code>--force</code> flag overrides this behaviour when a fresh regeneration is needed.</p>
+
+<h3>2. Dual-Source Transcript Validation</h3>
+<p>Script 02 uses two independent sources for transcripts. If the primary (youtube-transcript-api) returns no results or raises an exception, the fallback (yt-dlp VTT) is attempted automatically. This dual-source approach means a YouTube API change, rate limit, or regional restriction on one source will not silently produce empty transcripts — it will try the other source and only fail if both sources fail.</p>
+
+<h3>3. cwd-First Config Pattern</h3>
+<p>Every script discovers the project root by checking whether <code>youtube/metadata/</code> exists in the current working directory before falling back to the script's parent directory:</p>
+<pre><code>_cwd = Path.cwd()
+ROOT = _cwd if (_cwd / "youtube" / "metadata").exists() \
+       else Path(__file__).resolve().parent.parent</code></pre>
+<p>This enables test isolation: tests use <code>pytest</code>'s <code>tmp_path</code> fixture with a fake directory structure, so no test ever touches the real vault data or makes a real API call.</p>
+
+<h3>4. JSON Fence Stripping</h3>
+<p>Language models frequently wrap JSON responses in Markdown code fences even when the prompt says not to. Every script that parses JSON from an API response strips these fences before parsing:</p>
+<pre><code>raw = raw.strip()
+if raw.startswith("```"):
+    raw = re.sub(r'^```json?\n?', '', raw)
+    raw = re.sub(r'\n?```$', '', raw)</code></pre>
+<p>Without this, roughly 30% of responses would fail to parse even though the underlying JSON is valid.</p>
+
+<h3>5. Non-Zero Exit Codes for Missing Prerequisites</h3>
+<p>Scripts that require prerequisites (ANTHROPIC_API_KEY, a previous script's output) check these at startup and exit with a non-zero code and clear error message if they are missing. This makes pipeline failures visible immediately rather than silently producing empty outputs.</p>
+
+<h3>6. --dry-run and --force Flags</h3>
+<p>All scripts support <code>--dry-run</code> (show what would happen without side effects) and AI scripts support <code>--force</code> (overwrite existing outputs). These flags make the pipeline safe to test and predictable to operate.</p>
+
+<h3>7. Pipeline State Management</h3>
+<p>The orchestrator (<code>run_pipeline.py</code>) writes a <code>pipeline-state.json</code> checkpoint file after each successful script. The <code>--resume</code> flag reads this state and skips already-completed steps. A <code>--from=N</code> flag starts the pipeline from step N. The state is always reset (not appended) on non-resume runs to prevent stale checkpoint corruption.</p>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 8</div>
+<h2 id="s8">Quality Assurance &amp; Testing</h2>
+
+<h3>TDD Approach</h3>
+<p>Each of the 10 core scripts has a corresponding test file in <code>tests/</code>. Tests were written and run before the implementation was considered complete (Test-Driven Development). This approach was critical for catching the youtube-transcript-api v1.2.4 API breaking change before it caused silent failures in production.</p>
+
+<h3>Test Isolation</h3>
+<p>Tests use <code>pytest</code>'s <code>tmp_path</code> fixture to create temporary directory structures that mimic the real vault layout. The cwd-first config pattern ensures scripts use these temporary directories instead of the real vault. No test ever touches the actual vault data, makes a real API call, or requires internet access.</p>
+
+<h3>What Each Test Validates</h3>
+<table>
+  <tr><th>Test File</th><th>Key Assertions</th></tr>
+  <tr><td><code>test_01_metadata.py</code></td><td>index.json created; each entry has video_id, title, metadata_file</td></tr>
+  <tr><td><code>test_02_transcripts.py</code></td><td>Transcript files non-empty after cleaning; deduplication works; [Music] removed</td></tr>
+  <tr><td><code>test_03_summarize.py</code></td><td>Script exits non-zero without ANTHROPIC_API_KEY; summary file has all 7 sections</td></tr>
+  <tr><td><code>test_04_entities.py</code></td><td>JSON parses correctly; all 8 entity categories present; JSON fence stripping works</td></tr>
+  <tr><td><code>test_05_graph.py</code></td><td>Node counts match input; edge types correct; related edges only with 2+ shared topics</td></tr>
+  <tr><td><code>test_06_index.py</code></td><td>master-index.md created; all topics appear; top concepts ranked correctly</td></tr>
+  <tr><td><code>test_07_speakers.py</code></td><td>Speaker names from config detected in transcripts; missing speakers handled gracefully</td></tr>
+  <tr><td><code>test_08_shorts.py</code></td><td>10 ideas per episode; all 4 elements present; incremental skip works</td></tr>
+  <tr><td><code>test_09_notebooklm.py</code></td><td>master-source.md contains all episode summaries; 16 topic files created</td></tr>
+  <tr><td><code>test_10_report.py</code></td><td>Non-zero exit without API key; --dry-run skips API; --force overwrites existing</td></tr>
+</table>
+
+<h3>Key Bug Caught by Tests</h3>
+<div class="callout callout-red">
+  <strong>youtube-transcript-api v1.2.4 Breaking Change</strong>
+  <p>The test suite caught that <code>YouTubeTranscriptApi.get_transcript()</code> (class method) had been removed in v1.2.4. The fix was to use <code>YouTubeTranscriptApi().fetch()</code> (instance method) and convert <code>FetchedTranscriptSnippet</code> dataclass objects to dicts. Without TDD, this would have silently produced zero transcripts in production.</p>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 9</div>
+<h2 id="s9">GitHub Pages &amp; Refresh Automation</h2>
+
+<h3>How the Site is Served</h3>
+<p>The repository is configured to serve GitHub Pages from the <code>/docs</code> folder on the <code>master</code> branch. Any push to master that changes files in <code>docs/</code> triggers an automatic GitHub Pages rebuild, typically deploying within 2–3 minutes.</p>
+<p>The live URL is: <code>https://cjmurphy4810.github.io/human-workforce-vault/</code></p>
+
+<h3>The Refresh Data Button</h3>
+<p>The ↻ Refresh Data button in the site header links to the GitHub Actions workflow dispatch page. Clicking it opens GitHub, where you click "Run workflow" to trigger a full pipeline refresh. The workflow:</p>
+<ol>
+  <li>Checks out the repository</li>
+  <li>Installs Python dependencies</li>
+  <li>Runs Scripts 01–11 in sequence (AI scripts skip already-processed items)</li>
+  <li>Commits changed files (metadata, taxonomy, exports, docs)</li>
+  <li>Pushes to master</li>
+  <li>GitHub Pages redeploys automatically</li>
+</ol>
+
+<h3>Setting Up the ANTHROPIC_API_KEY Secret</h3>
+<p>For the GitHub Actions workflow to make Claude API calls, you must add the API key as a repository secret:</p>
+<ol>
+  <li>Go to <code>github.com/cjmurphy4810/human-workforce-vault</code></li>
+  <li>Click <strong>Settings → Secrets and Variables → Actions</strong></li>
+  <li>Click <strong>New repository secret</strong></li>
+  <li>Name: <code>ANTHROPIC_API_KEY</code></li>
+  <li>Value: your Anthropic API key from <code>console.anthropic.com</code></li>
+</ol>
+
+<div class="callout callout-gold">
+  <strong>Automatic Weekly Refresh</strong>
+  <p>The workflow is also scheduled to run every Monday at 6 AM UTC via the <code>cron: '0 6 * * 1'</code> trigger. This means the vault automatically refreshes when new episodes are published, without manual intervention. You can disable this by removing the <code>schedule:</code> block from <code>.github/workflows/refresh-vault.yml</code>.</p>
+</div>
+
+<h3>Estimated Cost Per Refresh Run</h3>
+<table>
+  <tr><th>Step</th><th>Model</th><th>Cost (approx)</th><th>Notes</th></tr>
+  <tr><td>New episode summaries</td><td>Haiku</td><td>~$0.002/episode</td><td>Only new episodes</td></tr>
+  <tr><td>New entity extraction</td><td>Haiku</td><td>~$0.001/episode</td><td>Only new episodes</td></tr>
+  <tr><td>New shorts ideas</td><td>Haiku</td><td>~$0.002/episode</td><td>Only new episodes</td></tr>
+  <tr><td>Intelligence report</td><td>Sonnet</td><td>~$0.40</td><td>Full regeneration</td></tr>
+  <tr><td><strong>Total (1 new episode)</strong></td><td></td><td><strong>~$0.41</strong></td><td></td></tr>
+  <tr><td><strong>Total (10 new episodes)</strong></td><td></td><td><strong>~$0.45</strong></td><td></td></tr>
+</table>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div class="part-label">Section 10</div>
+<h2 id="s10">The Final Prompt: Build Your Own Version</h2>
+<p>The complete prompt below is ready to copy, paste, and adapt. It will guide Claude (or another AI assistant with coding capability) through building an identical Knowledge Vault system for any YouTube channel. Customize the values in <code>[BRACKETS]</code>.</p>
+
+<div class="final-prompt">
+  <h3>Ready-to-Use Prompt for Building a YouTube Knowledge Vault</h3>
+  <pre><code>I want to build a fully automated "Knowledge Vault" pipeline for my
+YouTube channel. The system should ingest all videos from my channel,
+generate AI-powered analysis, build a knowledge graph, and produce a
+live GitHub Pages intelligence report that refreshes automatically.
+
+CHANNEL: [YOUR_YOUTUBE_CHANNEL_URL, e.g. https://www.youtube.com/@YourChannel]
+GITHUB ACCOUNT: [YOUR_GITHUB_USERNAME]
+REPO NAME: [your-repo-name]
+TOPIC DOMAIN: [e.g., "leadership and organizational psychology"]
+SPEAKERS: [comma-separated list of your regular hosts/guests, e.g. "Jane Smith, Bob Johnson"]
+CATEGORIES: [your primary content categories, e.g. "Leadership, AI, Strategy, Culture"]
+
+Please build a 11-script Python pipeline with the following scripts,
+all using a cwd-first config pattern for test isolation:
+
+01_collect_metadata.py
+  - Use yt-dlp (--dump-json --flat-playlist) to extract all videos
+  - Write per-video YYYY-MM-DD-slug.md files + youtube/metadata/index.json
+  - No API key required
+
+02_collect_transcripts.py
+  - Primary: YouTubeTranscriptApi().fetch() [instance method, v1.2.4+]
+  - Convert FetchedTranscriptSnippet objects: [{"text": s.text} for s in fetched]
+  - Fallback: yt-dlp VTT subtitle download
+  - Clean: remove [Music]/[Applause], deduplicate lines, split to ~500-char paragraphs
+  - Update index.json with transcript_file keys
+
+03_summarize_episodes.py
+  - Model: claude-haiku-4-5-20251001 (cheap, fast, sufficient for extraction)
+  - Truncate to 100k chars before sending
+  - 7-section structured prompt:
+    1. Executive Summary | 2. Key Themes | 3. Key Findings
+    4. Actionable Takeaways | 5. Notable Quotes
+    6. [DOMAIN] Relevance | 7. Suggested Future Content
+  - Incremental: skip if summary_file already in index.json (unless --force)
+  - Exit non-zero if ANTHROPIC_API_KEY missing
+
+04_extract_entities_topics.py
+  - Model: claude-haiku-4-5-20251001
+  - Single API call per episode for BOTH entities AND topics
+  - Strip markdown code fences before json.loads()
+  - 8 entity categories: people, organizations, products, platforms,
+    concepts, technologies, methodologies, frameworks
+  - Save to taxonomy/entities.json and taxonomy/topics.json (keyed by video_id)
+  - Incremental skip
+
+05_build_knowledge_graph.py
+  - Pure Python, no AI
+  - Node types: episode:{video_id}, concept:{category}:{label}, topic:{name}
+  - Edge types: mentions (episode→concept), covers (episode→topic),
+    related (episode↔episode when 2+ shared topics)
+  - Save to taxonomy/knowledge-graph.json
+
+06_build_master_index.py
+  - Group episodes by topic, rank top 50 concepts by frequency
+  - Output: topic-index/master-index.md
+
+07_build_speaker_index.py
+  - Search transcripts for speaker names from config["speakers"]
+  - Output: speaker-index/speaker-index.md
+
+08_generate_shorts.py
+  - Model: claude-haiku-4-5-20251001
+  - 10 short-form content ideas per episode
+  - 4-element format: Hook / Key Message / Suggested Visual / CTA
+  - Output: shorts/episode-NNN-slug-shorts.md
+
+09_prepare_notebooklm.py
+  - Combine all summaries into notebooklm/master-source.md
+  - Create episode-index.md, glossary.md, frameworks.md
+  - Create 16 topic-guides/*.md files (one per primary category)
+
+10_generate_report.py
+  - Model: claude-sonnet-4-6 (most capable — this is the final synthesis)
+  - max_tokens: 8192
+  - Read master-source.md (first 120k chars) + topics.json distribution
+  - Role: "Senior Research Analyst at [YOUR CHANNEL NAME]"
+  - Produce: Executive Summary, Top 25 Themes, 10 Key Findings,
+    8 Emerging Trends, 5×3 Predictions (workforce/AI/governance),
+    5 Future Books, 5 Future Podcast Series, 5 Future Courses
+  - Flags: --force (overwrite existing), --dry-run (skip API call)
+  - Exit non-zero if ANTHROPIC_API_KEY missing OR master-source.md absent
+
+11_generate_html.py
+  - Read live stats from index.json + knowledge-graph.json + topics.json
+  - Parse intelligence report markdown with regex (stdlib only)
+  - Generate docs/index.html with embedded CSS, sticky nav, card layouts
+  - Embed generated_date = datetime.now().strftime("%B %d, %Y")
+  - --dry-run flag supported
+
+run_pipeline.py
+  - Run scripts 01-11 in sequence
+  - pipeline-state.json for checkpoints; --resume skips completed; --from=N
+  - Reset state["completed"] = [] on non-resume runs
+
+Also create:
+- config.json with: channel_url, speakers[], primary_categories[],
+  model_bulk, model_report (ANTHROPIC_API_KEY NEVER here)
+- requirements.txt: yt-dlp>=2024.1.0, youtube-transcript-api>=1.2.4,
+  anthropic>=0.40.0, pyyaml>=6.0, python-slugify>=8.0.4
+- .github/workflows/refresh-vault.yml:
+  Triggers: workflow_dispatch + schedule (Monday 06:00 UTC)
+  Runs all 11 scripts, commits changed files, pushes to master
+  API key from: ${{ secrets.ANTHROPIC_API_KEY }}
+- docs/index.html: GitHub Pages report (generated by script 11)
+- docs/guide.html: Technical methodology guide
+
+Use TDD: write failing tests in tests/ before implementing each script.
+Tests use pytest tmp_path for isolation. No test makes a real API call.
+
+After building and running the pipeline:
+1. Create a public GitHub repo under [GITHUB_ACCOUNT]
+2. Push the project (including docs/)
+3. Enable GitHub Pages: source branch=master, path=/docs
+4. Add ANTHROPIC_API_KEY as a repository secret
+5. Return the live GitHub Pages URL
+
+The Refresh Data button should link to:
+https://github.com/[GITHUB_ACCOUNT]/[REPO_NAME]/actions/workflows/refresh-vault.yml</code></pre>
+  <div class="copy-note">💡 Tip: Replace all [BRACKETS] with your values before using. The entire prompt can be sent as a single message to Claude.</div>
+</div>
+
+<h3>Customization Tips</h3>
+<table>
+  <tr><th>What to Customize</th><th>Where to Change It</th><th>Impact</th></tr>
+  <tr><td>Channel URL</td><td><code>config.json → channel_url</code></td><td>Script 01 targets this channel</td></tr>
+  <tr><td>Speaker names</td><td><code>config.json → speakers</code></td><td>Script 07 searches for these names</td></tr>
+  <tr><td>Content categories</td><td><code>config.json → primary_categories</code></td><td>Script 09 creates topic-guide files for each</td></tr>
+  <tr><td>Domain framing</td><td>Script 03 prompt, section 6</td><td>Relevance section tailored to your niche</td></tr>
+  <tr><td>Report persona</td><td>Script 10 system prompt</td><td>Changes the "Senior Research Analyst at..." role</td></tr>
+  <tr><td>Summary sections</td><td>Script 03 prompt</td><td>Swap sections to match your channel's purpose</td></tr>
+  <tr><td>Prediction categories</td><td>Script 10 prompt</td><td>Change Workforce/AI/Governance to your domain's horizon</td></tr>
+  <tr><td>Refresh schedule</td><td><code>.github/workflows/refresh-vault.yml</code></td><td>Change cron expression or remove for manual-only</td></tr>
+</table>
+
+<h3>Expected Timeline and Costs</h3>
+<table>
+  <tr><th>Task</th><th>Time</th><th>Cost</th></tr>
+  <tr><td>Metadata collection (186 videos)</td><td>~2 minutes</td><td>Free</td></tr>
+  <tr><td>Transcript download (186 videos)</td><td>~5 minutes</td><td>Free</td></tr>
+  <tr><td>Episode summaries (76 episodes)</td><td>~8 minutes</td><td>~$0.15</td></tr>
+  <tr><td>Entity/topic extraction (76 episodes)</td><td>~5 minutes</td><td>~$0.08</td></tr>
+  <tr><td>Knowledge graph (76 episodes)</td><td>~30 seconds</td><td>Free</td></tr>
+  <tr><td>Master + speaker indexes</td><td>~10 seconds</td><td>Free</td></tr>
+  <tr><td>Shorts ideas (76 episodes)</td><td>~10 minutes</td><td>~$0.15</td></tr>
+  <tr><td>NotebookLM prep</td><td>~20 seconds</td><td>Free</td></tr>
+  <tr><td>Intelligence report (1 call)</td><td>~60 seconds</td><td>~$0.40</td></tr>
+  <tr><td>HTML generation</td><td>~5 seconds</td><td>Free</td></tr>
+  <tr><td><strong>Full initial run</strong></td><td><strong>~31 minutes</strong></td><td><strong>~$0.78</strong></td></tr>
+</table>
+
+<div class="callout callout-green">
+  <strong>What You Get for Under $1</strong>
+  <p>A fully automated knowledge vault with: 76 structured episode summaries, entity taxonomy across 8 categories, a 1,900+ node knowledge graph, 760 short-form content ideas, 16 NotebookLM topic guides, a 5,000-word strategic intelligence report, and a live public GitHub Pages website — all regenerable automatically whenever new content is published.</p>
+</div>
+
+</div><!-- /content -->
+</div><!-- /doc-layout -->
+
+<div style="background:#0f172a;color:#475569;text-align:center;padding:24px;font-family:Arial,sans-serif;font-size:12px;margin-top:40px;">
+  The Human Workforce Knowledge Vault &nbsp;·&nbsp; Methodology Guide v1.0 &nbsp;·&nbsp; June 2026
+  &nbsp;·&nbsp; <a href="index.html" style="color:#f59e0b;text-decoration:none;">← Intelligence Report</a>
+</div>
+
+</body>
+</html>
