@@ -1,5 +1,5 @@
 {
-  "channel_url": "PASTE_YOUR_YOUTUBE_CHANNEL_OR_PLAYLIST_URL_HERE",
+  "channel_url": "https://www.youtube.com/@TheHumanWorkforce",
   "model_bulk": "claude-haiku-4-5-20251001",
   "model_report": "claude-sonnet-4-6",
   "speakers": [
