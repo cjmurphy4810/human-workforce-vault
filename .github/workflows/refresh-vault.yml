@@ -77,7 +77,7 @@ jobs:
           if [ "${{ github.event.inputs.force_report }}" = "true" ]; then
             python3 scripts/10_generate_report.py --force
           else
-            python3 scripts/10_generate_report.py --force
+            python3 scripts/10_generate_report.py
           fi
 
       - name: Regenerate GitHub Pages HTML
