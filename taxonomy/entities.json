@@ -1,0 +1,80 @@
+{
+  "YXxf_3euA8c": {
+    "people": [
+      "Simon Carber",
+      "Lochlan Reed",
+      "Lara Rowan Croft",
+      "Jim Cavallo"
+    ],
+    "organizations": [
+      "Goldman Sachs"
+    ],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "AI infrastructure",
+      "data centers",
+      "AI hallucination",
+      "economic efficiency",
+      "operational efficiency",
+      "AI theater",
+      "human control layer",
+      "workflow engineering",
+      "labor replacement",
+      "corporate paralysis"
+    ],
+    "technologies": [
+      "AI systems",
+      "AI models",
+      "chips",
+      "power grids",
+      "API calls",
+      "risk models"
+    ],
+    "methodologies": [
+      "quality assurance",
+      "governance",
+      "data quality validation",
+      "risk management"
+    ],
+    "frameworks": [
+      "human control layer"
+    ]
+  },
+  "_4Cayu-GHMc": {
+    "people": [
+      "Lochlan Reed",
+      "Simon Carver"
+    ],
+    "organizations": [],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "automation arms race",
+      "labor displacement",
+      "deadweight loss",
+      "consumer demand",
+      "human dignity",
+      "meaningful work",
+      "drudgery",
+      "busywork"
+    ],
+    "technologies": [
+      "AI",
+      "large language models",
+      "machine learning"
+    ],
+    "methodologies": [
+      "management by spreadsheet",
+      "redesign"
+    ],
+    "frameworks": [
+      "UBI",
+      "upskilling"
+    ]
+  }
+}
