@@ -3,20 +3,8 @@
 
 ## Simon Carver
 
-**Episodes mentioned in:** 1
+_Not yet mentioned in transcripts._
 
-
-**Primary Expertise Areas:**
-
-- Generative AI (1 episodes)
-- Future of Work (1 episodes)
-- Operational Resilience (1 episodes)
-- Risk Management (1 episodes)
-- Leadership (1 episodes)
-
-**Episodes:**
-
-- [Episode 077: When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Generative AI, Future of Work, Operational Resilience
 
 ## Lachlan Reed
 
