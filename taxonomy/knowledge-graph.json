@@ -918,591 +918,612 @@
       "video_id": "0_t1wqxTMYg"
     },
     {
+      "id": "episode:VS3-fT2FpDE",
+      "type": "episode",
+      "label": "unknown",
+      "index": 132,
+      "video_id": "VS3-fT2FpDE"
+    },
+    {
+      "id": "episode:7G0fVOVsx3g",
+      "type": "episode",
+      "label": "unknown",
+      "index": 133,
+      "video_id": "7G0fVOVsx3g"
+    },
+    {
+      "id": "episode:9ffas669WKs",
+      "type": "episode",
+      "label": "unknown",
+      "index": 134,
+      "video_id": "9ffas669WKs"
+    },
+    {
       "id": "episode:4NJddMWiEAE",
       "type": "episode",
       "label": "What If AI Decided You Couldn't Buy a Home?",
-      "index": 132,
+      "index": 135,
       "video_id": "4NJddMWiEAE"
     },
     {
       "id": "episode:IOklfra1qQQ",
       "type": "episode",
       "label": "I Learned to Fly a Helicopter in 15 Seconds. (Sort Of.)",
-      "index": 133,
+      "index": 136,
       "video_id": "IOklfra1qQQ"
     },
     {
       "id": "episode:cJcoLUiiIbo",
       "type": "episode",
       "label": "Watch the Human Workforce Podcast Series Today.",
-      "index": 134,
+      "index": 137,
       "video_id": "cJcoLUiiIbo"
     },
     {
       "id": "episode:89srBtWSe7Y",
       "type": "episode",
       "label": "Trade Speed for Wisdom?",
-      "index": 135,
+      "index": 138,
       "video_id": "89srBtWSe7Y"
     },
     {
       "id": "episode:E5xqUHtIRdI",
       "type": "episode",
       "label": "250 Years of Freedom, Innovation, and Hope",
-      "index": 136,
+      "index": 139,
       "video_id": "E5xqUHtIRdI"
     },
     {
       "id": "episode:qIHosLvu7iA",
       "type": "episode",
       "label": "Browse to Wear The Human Workforce",
-      "index": 137,
+      "index": 140,
       "video_id": "qIHosLvu7iA"
     },
     {
       "id": "episode:QjqsbhAB92o",
       "type": "episode",
       "label": "Checkout the  Human Workforce  Store",
-      "index": 138,
+      "index": 141,
       "video_id": "QjqsbhAB92o"
     },
     {
       "id": "episode:QTwdqtq_XTQ",
       "type": "episode",
       "label": "AI Replacement?  We don't think so.",
-      "index": 139,
+      "index": 142,
       "video_id": "QTwdqtq_XTQ"
     },
     {
       "id": "episode:yetRf0-1Wk0",
       "type": "episode",
       "label": "Wear the Future. Lead the Conversation.",
-      "index": 140,
+      "index": 143,
       "video_id": "yetRf0-1Wk0"
     },
     {
       "id": "episode:i9GrH4wOMiM",
       "type": "episode",
       "label": "The Recruiter Who Became a Program",
-      "index": 141,
+      "index": 144,
       "video_id": "i9GrH4wOMiM"
     },
     {
       "id": "episode:Rrq3-JkTcec",
       "type": "episode",
       "label": "Shop The Human Workforce",
-      "index": 142,
+      "index": 145,
       "video_id": "Rrq3-JkTcec"
     },
     {
       "id": "episode:ImVGkKkvI8k",
       "type": "episode",
       "label": "Reclaim Human Judgment in the age of AI",
-      "index": 143,
+      "index": 146,
       "video_id": "ImVGkKkvI8k"
     },
     {
       "id": "episode:pj4Wnvx0QUo",
       "type": "episode",
       "label": "Your AI Employee Worked All Night. Nobody Noticed.",
-      "index": 144,
+      "index": 147,
       "video_id": "pj4Wnvx0QUo"
     },
     {
       "id": "episode:ZRkiE2_1LIE",
       "type": "episode",
       "label": "Are You Still Yourself at Work?",
-      "index": 145,
+      "index": 148,
       "video_id": "ZRkiE2_1LIE"
     },
     {
       "id": "episode:32PEG3pSalw",
       "type": "episode",
       "label": "Dont Fear the AI Threat",
-      "index": 146,
+      "index": 149,
       "video_id": "32PEG3pSalw"
     },
     {
       "id": "episode:qqsEaniT650",
       "type": "episode",
       "label": "The Future Belongs to People Who Learn This",
-      "index": 147,
+      "index": 150,
       "video_id": "qqsEaniT650"
     },
     {
       "id": "episode:CQ6bdSnTu-4",
       "type": "episode",
       "label": "The Hidden Trait Shared by Extraordinary Leaders",
-      "index": 148,
+      "index": 151,
       "video_id": "CQ6bdSnTu-4"
     },
     {
       "id": "episode:1JoBDQdff8s",
       "type": "episode",
       "label": "The Job You Lose May Never Be Posted Again",
-      "index": 149,
+      "index": 152,
       "video_id": "1JoBDQdff8s"
     },
     {
       "id": "episode:udO-8H3__JE",
       "type": "episode",
       "label": "How Many Versions of Yourself Exist at Work?",
-      "index": 150,
+      "index": 153,
       "video_id": "udO-8H3__JE"
     },
     {
       "id": "episode:ccBJlt_Tflo",
       "type": "episode",
       "label": "The Rise of Synthetic Media and AI Content",
-      "index": 151,
+      "index": 154,
       "video_id": "ccBJlt_Tflo"
     },
     {
       "id": "episode:k826P54OnVk",
       "type": "episode",
       "label": "Governing the Agentic Workforce",
-      "index": 152,
+      "index": 155,
       "video_id": "k826P54OnVk"
     },
     {
       "id": "episode:oNkptqgg6VY",
       "type": "episode",
       "label": "What If Experience Becomes Your Greatest Advantage?",
-      "index": 153,
+      "index": 156,
       "video_id": "oNkptqgg6VY"
     },
     {
       "id": "episode:XoEvGOkNtNQ",
       "type": "episode",
       "label": "Do AI Employees need to be managed?",
-      "index": 154,
+      "index": 157,
       "video_id": "XoEvGOkNtNQ"
     },
     {
       "id": "episode:5eWMCKKNABc",
       "type": "episode",
       "label": "Are you ready to manage AI employees?",
-      "index": 155,
+      "index": 158,
       "video_id": "5eWMCKKNABc"
     },
     {
       "id": "episode:mqcZCrwZ_wM",
       "type": "episode",
       "label": "Are You Ready to Manage Employees That Aren't Human",
-      "index": 156,
+      "index": 159,
       "video_id": "mqcZCrwZ_wM"
     },
     {
       "id": "episode:lmaGFMQd_b0",
       "type": "episode",
       "label": "Learn to Thrive working alongside of AI",
-      "index": 157,
+      "index": 160,
       "video_id": "lmaGFMQd_b0"
     },
     {
       "id": "episode:v6imM-nfmy0",
       "type": "episode",
       "label": "Why Some Organizations Always Win",
-      "index": 158,
+      "index": 161,
       "video_id": "v6imM-nfmy0"
     },
     {
       "id": "episode:cGHl9V-qvo4",
       "type": "episode",
       "label": "AI Won't Replace You. This Might.",
-      "index": 159,
+      "index": 162,
       "video_id": "cGHl9V-qvo4"
     },
     {
       "id": "episode:NoOzZQuUzrY",
       "type": "episode",
       "label": "Beat them at their own Game - Infinite Leverage",
-      "index": 160,
+      "index": 163,
       "video_id": "NoOzZQuUzrY"
     },
     {
       "id": "episode:767LRTYF4to",
       "type": "episode",
       "label": "Thrive with AI",
-      "index": 161,
+      "index": 164,
       "video_id": "767LRTYF4to"
     },
     {
       "id": "episode:vCd4IvacHus",
       "type": "episode",
       "label": "The Day The Insider Stopped Being Human",
-      "index": 162,
+      "index": 165,
       "video_id": "vCd4IvacHus"
     },
     {
       "id": "episode:Ia2DU6MU2lQ",
       "type": "episode",
       "label": "The Silent Reduction Strategy - Listen and Learn",
-      "index": 163,
+      "index": 166,
       "video_id": "Ia2DU6MU2lQ"
     },
     {
       "id": "episode:OOJuo5p54Ns",
       "type": "episode",
       "label": "The Agentic Insider June 2026",
-      "index": 164,
+      "index": 167,
       "video_id": "OOJuo5p54Ns"
     },
     {
       "id": "episode:YHqXhcVFLk0",
       "type": "episode",
       "label": "The Silent Front",
-      "index": 165,
+      "index": 168,
       "video_id": "YHqXhcVFLk0"
     },
     {
       "id": "episode:87QH-JQBsEg",
       "type": "episode",
       "label": "Always watch your AI",
-      "index": 166,
+      "index": 169,
       "video_id": "87QH-JQBsEg"
     },
     {
       "id": "episode:tYruV_XD7gw",
       "type": "episode",
       "label": "Don't leave work without The Human Workforce.",
-      "index": 167,
+      "index": 170,
       "video_id": "tYruV_XD7gw"
     },
     {
       "id": "episode:abb9z-xmwCQ",
       "type": "episode",
       "label": "Get Your Daily Dose of The Human Workforce",
-      "index": 168,
+      "index": 171,
       "video_id": "abb9z-xmwCQ"
     },
     {
       "id": "episode:VyIUAyvih28",
       "type": "episode",
       "label": "Transform Yourself",
-      "index": 169,
+      "index": 172,
       "video_id": "VyIUAyvih28"
     },
     {
       "id": "episode:iQ5XwLslkVY",
       "type": "episode",
       "label": "Thriving with AI at Work and in Life.",
-      "index": 170,
+      "index": 173,
       "video_id": "iQ5XwLslkVY"
     },
     {
       "id": "episode:gL8rNVaCo1w",
       "type": "episode",
       "label": "KZAK Endorses The Human Workforce Podcast Series",
-      "index": 171,
+      "index": 174,
       "video_id": "gL8rNVaCo1w"
     },
     {
       "id": "episode:dGzO4UjaJGw",
       "type": "episode",
       "label": "Don't leave work without The Human Workforce.",
-      "index": 172,
+      "index": 175,
       "video_id": "dGzO4UjaJGw"
     },
     {
       "id": "episode:12EsnHgZv3A",
       "type": "episode",
       "label": "Control your own AI",
-      "index": 173,
+      "index": 176,
       "video_id": "12EsnHgZv3A"
     },
     {
       "id": "episode:h9kzFqWObwc",
       "type": "episode",
       "label": "I am not an AI, I am a Human!",
-      "index": 174,
+      "index": 177,
       "video_id": "h9kzFqWObwc"
     },
     {
       "id": "episode:Xg3SLukLw-M",
       "type": "episode",
       "label": "Breaking News from The Human Workforce",
-      "index": 175,
+      "index": 178,
       "video_id": "Xg3SLukLw-M"
     },
     {
       "id": "episode:wf93FdfCSUw",
       "type": "episode",
       "label": "Thrive in the age of AI",
-      "index": 176,
+      "index": 179,
       "video_id": "wf93FdfCSUw"
     },
     {
       "id": "episode:I3--Bac_6Cw",
       "type": "episode",
       "label": "The Human Workforce, where humans drive the bus.",
-      "index": 177,
+      "index": 180,
       "video_id": "I3--Bac_6Cw"
     },
     {
       "id": "episode:fpOFPHPIDUA",
       "type": "episode",
       "label": "New Book,  The Agentic Insider - July 2026",
-      "index": 178,
+      "index": 181,
       "video_id": "fpOFPHPIDUA"
     },
     {
       "id": "episode:qtABWs8updY",
       "type": "episode",
       "label": "Human Wisdom Matters More in the Age of AI",
-      "index": 179,
+      "index": 182,
       "video_id": "qtABWs8updY"
     },
     {
       "id": "episode:Qwp8KpXVt04",
       "type": "episode",
       "label": "Checkout The Human Workforce",
-      "index": 180,
+      "index": 183,
       "video_id": "Qwp8KpXVt04"
     },
     {
       "id": "episode:KEn2EDFl-eQ",
       "type": "episode",
       "label": "New Book Coming in July 2026, The Agentic Insider.",
-      "index": 181,
+      "index": 184,
       "video_id": "KEn2EDFl-eQ"
     },
     {
       "id": "episode:zYvbgp5n_vg",
       "type": "episode",
       "label": "Use AI as a Teammate, not an Enemy.",
-      "index": 182,
+      "index": 185,
       "video_id": "zYvbgp5n_vg"
     },
     {
       "id": "episode:iE6CaCswpS0",
       "type": "episode",
       "label": "Check out the Podcasts on The Human Workforce",
-      "index": 183,
+      "index": 186,
       "video_id": "iE6CaCswpS0"
     },
     {
       "id": "episode:U43XW09bys4",
       "type": "episode",
       "label": "Dont Leave Work Without The Human Workforce",
-      "index": 184,
+      "index": 187,
       "video_id": "U43XW09bys4"
     },
     {
       "id": "episode:smRqKqgcFnA",
       "type": "episode",
       "label": "New Book - The Human Disadvantage",
-      "index": 185,
+      "index": 188,
       "video_id": "smRqKqgcFnA"
     },
     {
       "id": "episode:gABVU6S5Yuo",
       "type": "episode",
       "label": "The Human Workforce - Wisdom is Rare",
-      "index": 186,
+      "index": 189,
       "video_id": "gABVU6S5Yuo"
     },
     {
       "id": "episode:kgfqUdMTGZ0",
       "type": "episode",
       "label": "Expert Insights on The Human Workforce Podcast",
-      "index": 187,
+      "index": 190,
       "video_id": "kgfqUdMTGZ0"
     },
     {
       "id": "episode:zMX_cTe9BT4",
       "type": "episode",
       "label": "How to Future-Proof Your Career Against AI",
-      "index": 188,
+      "index": 191,
       "video_id": "zMX_cTe9BT4"
     },
     {
       "id": "episode:Qjx6VlR8v1o",
       "type": "episode",
       "label": "AI Won't Replace You. But This Might.",
-      "index": 189,
+      "index": 192,
       "video_id": "Qjx6VlR8v1o"
     },
     {
       "id": "episode:qN_RvW8-uoI",
       "type": "episode",
       "label": "The Human Advantage in an AI Economy",
-      "index": 190,
+      "index": 193,
       "video_id": "qN_RvW8-uoI"
     },
     {
       "id": "episode:20GUMXxiT90",
       "type": "episode",
       "label": "The Career Survival Guide for the Age of AI",
-      "index": 191,
+      "index": 194,
       "video_id": "20GUMXxiT90"
     },
     {
       "id": "episode:RPtRYaR9luo",
       "type": "episode",
       "label": "Checkout the human workforce podcast series",
-      "index": 192,
+      "index": 195,
       "video_id": "RPtRYaR9luo"
     },
     {
       "id": "episode:TF5LGT--SH8",
       "type": "episode",
       "label": "Order The Human Disadvantage - Book       #books",
-      "index": 193,
+      "index": 196,
       "video_id": "TF5LGT--SH8"
     },
     {
       "id": "episode:_GiAI9stH7s",
       "type": "episode",
       "label": "Checkout The Human Workforce Podcast",
-      "index": 194,
+      "index": 197,
       "video_id": "_GiAI9stH7s"
     },
     {
       "id": "episode:dBH7bYLY_vk",
       "type": "episode",
       "label": "The Human Workforce Podcast Information - Subscribe Today",
-      "index": 195,
+      "index": 198,
       "video_id": "dBH7bYLY_vk"
     },
     {
       "id": "episode:iGZW5P0LnC8",
       "type": "episode",
       "label": "The Human Workforce Information",
-      "index": 196,
+      "index": 199,
       "video_id": "iGZW5P0LnC8"
     },
     {
       "id": "episode:NqVuxvUQS_U",
       "type": "episode",
       "label": "Your Human Potential",
-      "index": 197,
+      "index": 200,
       "video_id": "NqVuxvUQS_U"
     },
     {
       "id": "episode:-m1bNLvkQXA",
       "type": "episode",
       "label": "The Hidden Skill AI Can\u2019t Replace",
-      "index": 198,
+      "index": 201,
       "video_id": "-m1bNLvkQXA"
     },
     {
       "id": "episode:mUaVultbrHk",
       "type": "episode",
       "label": "The Human Disadvantage  - New Book, Now Available",
-      "index": 199,
+      "index": 202,
       "video_id": "mUaVultbrHk"
     },
     {
       "id": "episode:pleXqB0kqQc",
       "type": "episode",
       "label": "The Career Advice Nobody Is Giving",
-      "index": 200,
+      "index": 203,
       "video_id": "pleXqB0kqQc"
     },
     {
       "id": "episode:G3dcBK3U1xw",
       "type": "episode",
       "label": "The Human Workforce Podcast help define AI.",
-      "index": 201,
+      "index": 204,
       "video_id": "G3dcBK3U1xw"
     },
     {
       "id": "episode:705wfqD27CQ",
       "type": "episode",
       "label": "Humans Define Work",
-      "index": 202,
+      "index": 205,
       "video_id": "705wfqD27CQ"
     },
     {
       "id": "episode:RClgb3bcmhg",
       "type": "episode",
       "label": "Understanding AI in the Modern Workforce",
-      "index": 203,
+      "index": 206,
       "video_id": "RClgb3bcmhg"
     },
     {
       "id": "episode:iJBkSb1Luns",
       "type": "episode",
       "label": "Human Workforce with AI",
-      "index": 204,
+      "index": 207,
       "video_id": "iJBkSb1Luns"
     },
     {
       "id": "episode:3vODeyNSnOQ",
       "type": "episode",
       "label": "Honor of Memorial Day",
-      "index": 205,
+      "index": 208,
       "video_id": "3vODeyNSnOQ"
     },
     {
       "id": "episode:pxSq38VWjC8",
       "type": "episode",
       "label": "Understanding AI",
-      "index": 206,
+      "index": 209,
       "video_id": "pxSq38VWjC8"
     },
     {
       "id": "episode:SYRkP0qTFTM",
       "type": "episode",
       "label": "Honoring Memorial Day",
-      "index": 207,
+      "index": 210,
       "video_id": "SYRkP0qTFTM"
     },
     {
       "id": "episode:zgF2KHhBVoo",
       "type": "episode",
       "label": "The AI Work Advantage",
-      "index": 208,
+      "index": 211,
       "video_id": "zgF2KHhBVoo"
     },
     {
       "id": "episode:HDXPbgBvhIE",
       "type": "episode",
       "label": "AI with less stress.",
-      "index": 209,
+      "index": 212,
       "video_id": "HDXPbgBvhIE"
     },
     {
       "id": "episode:daHAnK6JJ28",
       "type": "episode",
       "label": "AI's Essence of Work is Shifting",
-      "index": 210,
+      "index": 213,
       "video_id": "daHAnK6JJ28"
     },
     {
       "id": "episode:E0wKFjVR_0I",
       "type": "episode",
       "label": "Automation is not the Enemy!",
-      "index": 211,
+      "index": 214,
       "video_id": "E0wKFjVR_0I"
     },
     {
       "id": "episode:gIZUw45R-kQ",
       "type": "episode",
       "label": "The Human Workforce Insights.",
-      "index": 212,
+      "index": 215,
       "video_id": "gIZUw45R-kQ"
     },
     {
       "id": "episode:mqtWdDGzjCQ",
       "type": "episode",
       "label": "Humans Define Work",
-      "index": 213,
+      "index": 216,
       "video_id": "mqtWdDGzjCQ"
     },
     {
       "id": "episode:zj98MPWYmCI",
       "type": "episode",
       "label": "Short Video on the human workforce",
-      "index": 214,
+      "index": 217,
       "video_id": "zj98MPWYmCI"
     },
     {
       "id": "episode:afsP1GkSOPI",
       "type": "episode",
       "label": "The Last Job You'll Ever Hate",
-      "index": 215,
+      "index": 218,
       "video_id": "afsP1GkSOPI"
     },
     {
