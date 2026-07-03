@@ -93,7 +93,7 @@ def parse_books(text):
     items = []
     for block in re.split(r'\n\n(?=\*\*Book)', text):
         m = re.search(
-            r'\*\*Book\s+\d+:\s+"(.+?)"\*\*\n\*Thesis:\*\s*(.+?)\n\*Target Audience:\*\s*(.+)',
+            r'\*\*Book\s+\d+\*\*\n\*Working Title:\*\s+\*\*(.+?)\*\*\n\*Thesis:\*\s*(.+?)\n\*Target Audience:\*\s*(.+)',
             block, re.DOTALL
         )
         if m:
@@ -117,7 +117,7 @@ def parse_courses(text):
     """Return [(title, audience, [outcomes]), ...]"""
     items = []
     for block in re.split(r'\n\n(?=\*\*Course)', text):
-        m = re.search(r'\*\*Course\s+\d+:\s+"(.+?)".*?\*\*\n\*Audience:\*\s*(.+)', block, re.DOTALL)
+        m = re.search(r'\*\*Course\s+\d+\*\*\n\*Title:\*\s+\*\*(.+?)\*\*\n\*Audience:\*\s*(.+)', block, re.DOTALL)
         if m:
             title    = m.group(1).strip()
             audience = m.group(2).strip().split('\n')[0].strip()
