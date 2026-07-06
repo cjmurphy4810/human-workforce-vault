@@ -1,6 +1,6 @@
 # Human Workforce Master Index
 
-**Total Episodes:** 218
+**Total Episodes:** 225
 
 **Topics Covered:** 12
 
@@ -11,61 +11,61 @@
 
 ### Automation
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Digital Labor
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Enterprise Transformation
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Future of Work
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Generative AI
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Governance
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Human Skills
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Leadership
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Operational Resilience
 
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Organizational Design
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Productivity
 
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 ### Risk Management
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 058
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 083
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
 
 
 ## Most Referenced Concepts
