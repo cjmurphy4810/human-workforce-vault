@@ -1,78 +1,114 @@
 # Human Workforce Master Index
 
-**Total Episodes:** 225
+**Total Episodes:** 233
 
-**Topics Covered:** 12
+**Topics Covered:** 15
 
 ---
 
 ## Episodes by Topic
 
 
+### Agentic AI
+
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
+
 ### Automation
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
+
+### Compliance
+
+- [The Rise of Synthetic Media and AI Content](youtube/summaries/episode-169-the-rise-of-synthetic-media-and-ai-content.md) — Episode 169
+
+### Cybersecurity
+
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
 
 ### Digital Labor
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Enterprise Transformation
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Future of Work
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [The Rise of Synthetic Media and AI Content](youtube/summaries/episode-169-the-rise-of-synthetic-media-and-ai-content.md) — Episode 169
+- [KZAK Endorses The Human Workforce Podcast Series](youtube/summaries/episode-189-kzak-endorses-the-human-workforce-podcast-series.md) — Episode 189
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Generative AI
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [The Rise of Synthetic Media and AI Content](youtube/summaries/episode-169-the-rise-of-synthetic-media-and-ai-content.md) — Episode 169
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Governance
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [The Rise of Synthetic Media and AI Content](youtube/summaries/episode-169-the-rise-of-synthetic-media-and-ai-content.md) — Episode 169
 
 ### Human Skills
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [KZAK Endorses The Human Workforce Podcast Series](youtube/summaries/episode-189-kzak-endorses-the-human-workforce-podcast-series.md) — Episode 189
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Leadership
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
 
 ### Operational Resilience
 
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
 
 ### Organizational Design
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [Use AI as a Teammate, not an Enemy.](youtube/summaries/episode-200-use-ai-as-a-teammate-not-an-enemy.md) — Episode 200
 
 ### Productivity
 
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
 
 ### Risk Management
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 061
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 086
+- [Agentic AI and the Swarm Attack Era](youtube/summaries/episode-027-agentic-ai-and-the-swarm-attack-era.md) — Episode 027
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 063
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 088
+- [The Rise of Synthetic Media and AI Content](youtube/summaries/episode-169-the-rise-of-synthetic-media-and-ai-content.md) — Episode 169
 
 
 ## Most Referenced Concepts
 
+- **youtube** (6 episodes)
+- **ai** (3 episodes)
 - **lochlan reed** (2 episodes)
-- **youtube** (2 episodes)
 - **human control layer** (2 episodes)
+- **synthetic media** (2 episodes)
+- **artificial intelligence** (2 episodes)
+- **human workforce** (2 episodes)
 - **simon carber** (1 episodes)
 - **lara rowan croft** (1 episodes)
 - **jim cavallo** (1 episodes)
@@ -105,10 +141,14 @@
 - **meaningful work** (1 episodes)
 - **drudgery** (1 episodes)
 - **busywork** (1 episodes)
-- **ai** (1 episodes)
 - **large language models** (1 episodes)
 - **machine learning** (1 episodes)
 - **management by spreadsheet** (1 episodes)
 - **redesign** (1 episodes)
 - **ubi** (1 episodes)
 - **upskilling** (1 episodes)
+- **lockland reed** (1 episodes)
+- **chris j. murphy** (1 episodes)
+- **jack burns** (1 episodes)
+- **simon** (1 episodes)
+- **cfo** (1 episodes)

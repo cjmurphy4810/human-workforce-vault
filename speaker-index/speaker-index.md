@@ -18,8 +18,20 @@ _Not yet mentioned in transcripts._
 
 ## Jack Burns
 
-_Not yet mentioned in transcripts._
+**Episodes mentioned in:** 1
 
+
+**Primary Expertise Areas:**
+
+- Agentic AI (1 episodes)
+- Cybersecurity (1 episodes)
+- Governance (1 episodes)
+- Risk Management (1 episodes)
+- Operational Resilience (1 episodes)
+
+**Episodes:**
+
+- [Episode 027: Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Agentic AI, Cybersecurity, Governance
 
 ## Dr. Zara Sterling
 

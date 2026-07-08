@@ -1,6 +1,6 @@
-# Topic Guide: Human Skills
+# Topic Guide: Agentic AI
 
-*5 episode(s) cover this topic.*
+*2 episode(s) cover this topic.*
 
 
 ## Episode 027: Agentic AI and the Swarm Attack Era
@@ -20,33 +20,6 @@
 # Executive Summary
 
 This episode examines the emergence of agentic AI as a fundamentally different cybersecurity threat compared to traditional hacking and automation. Rather than executing pre-written scripts, agentic systems receive high-level objectives and auton...
-
-
-## Episode 063: The Trillion Dollar AI Reality Check
-
-**URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
-
-## Episode 088: When AI Efficiency Becomes an Automation Arms Race
-
-**URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
-
-## Episode 189: KZAK Endorses The Human Workforce Podcast Series
-
-**URL:** https://www.youtube.com/watch?v=gL8rNVaCo1w
-
-
-# Summary: KZAK Endorses The Human Workforce Podcast Series
-
-**Video ID:** gL8rNVaCo1w
-**URL:** https://www.youtube.com/watch?v=gL8rNVaCo1w
-**Episode:** 189
-**Source:** youtube/transcripts/episode-189-kzak-endorses-the-human-workforce-podcast-series.md
-
----
-
-# Executive Summary
-
-I appreciate your request, but I must be transparent: the transcript provided contains only a video ID, URL, episode number, and an exclamation ("Woo!") with no substantive content to analyze. This appears to be either a...
 
 
 ## Episode 200: Use AI as a Teammate, not an Enemy.

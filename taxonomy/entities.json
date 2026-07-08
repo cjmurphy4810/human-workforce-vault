@@ -76,5 +76,123 @@
       "UBI",
       "upskilling"
     ]
+  },
+  "3oL3KUwkqkw": {
+    "people": [
+      "Lockland Reed",
+      "Chris J. Murphy",
+      "Jack Burns",
+      "Simon",
+      "CFO"
+    ],
+    "organizations": [
+      "Human Workforce channel"
+    ],
+    "products": [],
+    "platforms": [
+      "LinkedIn",
+      "YouTube"
+    ],
+    "concepts": [
+      "swarm attack",
+      "agentic nodes",
+      "polymorphic malware",
+      "voice cloning",
+      "social engineering",
+      "shadow AI",
+      "objective-based computing",
+      "kinetic decision-making",
+      "signature-based security",
+      "systemic governor",
+      "veto protocol",
+      "human-in-the-loop governance",
+      "human-on-the-loop governance"
+    ],
+    "technologies": [
+      "agentic AI",
+      "conversational AI",
+      "defensive AI",
+      "offensive AI",
+      "binary code",
+      "firewall",
+      "network anomalies",
+      "automated subagents"
+    ],
+    "methodologies": [
+      "reconnaissance automation",
+      "task decomposition",
+      "dynamic adjustment",
+      "code refactoring",
+      "context-aware generation"
+    ],
+    "frameworks": [
+      "human-on-the-loop framework",
+      "veto protocol framework",
+      "systemic governor framework"
+    ]
+  },
+  "ccBJlt_Tflo": {
+    "people": [],
+    "organizations": [],
+    "products": [
+      "Human Workforce visual podcast"
+    ],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "trust",
+      "synthetic media",
+      "artificial intelligence",
+      "confidence",
+      "synthetic mirage",
+      "global economy",
+      "financial crisis"
+    ],
+    "technologies": [
+      "artificial intelligence",
+      "synthetic media",
+      "image generation",
+      "voice synthesis",
+      "document manufacturing"
+    ],
+    "methodologies": [],
+    "frameworks": []
+  },
+  "gL8rNVaCo1w": {
+    "people": [],
+    "organizations": [
+      "KZAK"
+    ],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "Human Workforce"
+    ],
+    "technologies": [],
+    "methodologies": [],
+    "frameworks": []
+  },
+  "zYvbgp5n_vg": {
+    "people": [],
+    "organizations": [
+      "Lincoln"
+    ],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "AI",
+      "work",
+      "human workforce"
+    ],
+    "technologies": [
+      "AI"
+    ],
+    "methodologies": [],
+    "frameworks": []
   }
 }

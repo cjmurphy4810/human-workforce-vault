@@ -1,6 +1,6 @@
-# Topic Guide: Operational Resilience
+# Topic Guide: Cybersecurity
 
-*2 episode(s) cover this topic.*
+*1 episode(s) cover this topic.*
 
 
 ## Episode 027: Agentic AI and the Swarm Attack Era
@@ -20,8 +20,3 @@
 # Executive Summary
 
 This episode examines the emergence of agentic AI as a fundamentally different cybersecurity threat compared to traditional hacking and automation. Rather than executing pre-written scripts, agentic systems receive high-level objectives and auton...
-
-
-## Episode 088: When AI Efficiency Becomes an Automation Arms Race
-
-**URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
