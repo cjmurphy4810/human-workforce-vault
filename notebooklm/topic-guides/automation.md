@@ -1,32 +1,35 @@
 # Topic Guide: Automation
 
-*3 episode(s) cover this topic.*
+*4 episode(s) cover this topic.*
 
 
-## Episode 063: The Trillion Dollar AI Reality Check
+## Episode 003: AI vs Corruption  The Invisible Handshake
 
-**URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
-
-## Episode 088: When AI Efficiency Becomes an Automation Arms Race
-
-**URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
-
-## Episode 200: Use AI as a Teammate, not an Enemy.
-
-**URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
 
-# Summary: Use AI as a Teammate, not an Enemy.
+# Summary: AI vs Corruption  The Invisible Handshake
 
-**Video ID:** zYvbgp5n_vg
-**URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
-**Episode:** 200
-**Source:** youtube/transcripts/episode-200-use-ai-as-a-teammate-not-an-enemy.md
+**Video ID:** hLcQfL5VSk4
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
+**Episode:** 003
+**Source:** youtube/transcripts/episode-003-ai-vs-corruption-the-invisible-handshake.md
 
 ---
 
 # Executive Summary
 
-**Unable to Complete Analysis**
+This episode explores how corruption has evolved from visible, crude methods to sophisticated schemes designed to appear legitimate within normal transaction flows—and why traditional compliance programs fail to detect them. Modern bri...
 
-I appreciate the task, but I must be transparent: the transcript provided contains only metadata and a brief tagline ("AI is redefining work. The human workforce helps you thrive with free expert resources."). There...
+
+## Episode 067: The Trillion Dollar AI Reality Check
+
+**URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
+
+## Episode 092: When AI Efficiency Becomes an Automation Arms Race
+
+**URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
+
+## Episode 208: Use AI as a Teammate, not an Enemy.
+
+**URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg

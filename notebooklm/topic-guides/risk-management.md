@@ -1,49 +1,39 @@
 # Topic Guide: Risk Management
 
-*4 episode(s) cover this topic.*
+*5 episode(s) cover this topic.*
 
 
-## Episode 027: Agentic AI and the Swarm Attack Era
+## Episode 003: AI vs Corruption  The Invisible Handshake
 
-**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
 
-# Summary: Agentic AI and the Swarm Attack Era
+# Summary: AI vs Corruption  The Invisible Handshake
 
-**Video ID:** 3oL3KUwkqkw
-**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
-**Episode:** 027
-**Source:** youtube/transcripts/episode-027-agentic-ai-and-the-swarm-attack-era.md
+**Video ID:** hLcQfL5VSk4
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
+**Episode:** 003
+**Source:** youtube/transcripts/episode-003-ai-vs-corruption-the-invisible-handshake.md
 
 ---
 
 # Executive Summary
 
-This episode examines the emergence of agentic AI as a fundamentally different cybersecurity threat compared to traditional hacking and automation. Rather than executing pre-written scripts, agentic systems receive high-level objectives and auton...
+This episode explores how corruption has evolved from visible, crude methods to sophisticated schemes designed to appear legitimate within normal transaction flows—and why traditional compliance programs fail to detect them. Modern bri...
 
 
-## Episode 063: The Trillion Dollar AI Reality Check
+## Episode 031: Agentic AI and the Swarm Attack Era
+
+**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
+
+## Episode 067: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 088: When AI Efficiency Becomes an Automation Arms Race
+## Episode 092: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
-## Episode 169: The Rise of Synthetic Media and AI Content
+## Episode 177: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
-
-
-# Summary: The Rise of Synthetic Media and AI Content
-
-**Video ID:** ccBJlt_Tflo
-**URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
-**Episode:** 169
-**Source:** youtube/transcripts/episode-169-the-rise-of-synthetic-media-and-ai-content.md
-
----
-
-# Executive Summary
-
-Episode 169 explores the existential challenge posed by synthetic media and AI's ability to perfectly replicate reality—images, voices, and documents—fundamentally undermining the trust infrastructure that has anchored the global ec...

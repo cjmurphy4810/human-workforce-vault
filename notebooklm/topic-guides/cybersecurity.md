@@ -1,22 +1,27 @@
 # Topic Guide: Cybersecurity
 
-*1 episode(s) cover this topic.*
+*2 episode(s) cover this topic.*
 
 
-## Episode 027: Agentic AI and the Swarm Attack Era
+## Episode 003: AI vs Corruption  The Invisible Handshake
 
-**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
 
-# Summary: Agentic AI and the Swarm Attack Era
+# Summary: AI vs Corruption  The Invisible Handshake
 
-**Video ID:** 3oL3KUwkqkw
-**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
-**Episode:** 027
-**Source:** youtube/transcripts/episode-027-agentic-ai-and-the-swarm-attack-era.md
+**Video ID:** hLcQfL5VSk4
+**URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
+**Episode:** 003
+**Source:** youtube/transcripts/episode-003-ai-vs-corruption-the-invisible-handshake.md
 
 ---
 
 # Executive Summary
 
-This episode examines the emergence of agentic AI as a fundamentally different cybersecurity threat compared to traditional hacking and automation. Rather than executing pre-written scripts, agentic systems receive high-level objectives and auton...
+This episode explores how corruption has evolved from visible, crude methods to sophisticated schemes designed to appear legitimate within normal transaction flows—and why traditional compliance programs fail to detect them. Modern bri...
+
+
+## Episode 031: Agentic AI and the Swarm Attack Era
+
+**URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw

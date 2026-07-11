@@ -9,6 +9,9 @@
 - **human-on-the-loop framework** (1 episodes)
 - **veto protocol framework** (1 episodes)
 - **systemic governor framework** (1 episodes)
+- **intelligence framework** (1 episodes)
+- **governance framework** (1 episodes)
+- **disciplined augmentation** (1 episodes)
 
 
 ## Methodologies
@@ -24,3 +27,9 @@
 - **dynamic adjustment** (1 episodes)
 - **code refactoring** (1 episodes)
 - **context-aware generation** (1 episodes)
+- **compliance programs** (1 episodes)
+- **manual review** (1 episodes)
+- **relationship mapping** (1 episodes)
+- **behavioral anomaly analysis** (1 episodes)
+- **cross-reference analysis** (1 episodes)
+- **augmentation** (1 episodes)

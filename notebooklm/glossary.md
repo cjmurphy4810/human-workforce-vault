@@ -24,6 +24,20 @@ _Definition to be added._
 _Definition to be added._
 
 
+## Machine Learning
+
+*Referenced in 2 episode(s).*
+
+_Definition to be added._
+
+
+## Agentic Ai
+
+*Referenced in 2 episode(s).*
+
+_Definition to be added._
+
+
 ## Ai Infrastructure
 
 *Referenced in 1 episode(s).*
@@ -297,6 +311,125 @@ _Definition to be added._
 _Definition to be added._
 
 
+## Bribery
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Corruption
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Compliance
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Vendor Management
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Beneficial Ownership
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Sanctions Lists
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Anomaly Detection
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Pattern Recognition
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Financial Systems
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Payment Rails
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Escalation Thresholds
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Due Diligence
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Governance
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Surveillance
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Accountability
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Contestability
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Plausible Deniability
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
 ## Ai Systems
 
 *Referenced in 1 episode(s).*
@@ -340,20 +473,6 @@ _Definition to be added._
 
 
 ## Large Language Models
-
-*Referenced in 1 episode(s).*
-
-_Definition to be added._
-
-
-## Machine Learning
-
-*Referenced in 1 episode(s).*
-
-_Definition to be added._
-
-
-## Agentic Ai
 
 *Referenced in 1 episode(s).*
 
@@ -424,6 +543,41 @@ _Definition to be added._
 
 
 ## Document Manufacturing
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Data Analytics
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Dashboards
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Keyword Scanning
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Linguistic Analysis
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Behavioral Monitoring
 
 *Referenced in 1 episode(s).*
 

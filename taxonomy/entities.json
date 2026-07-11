@@ -194,5 +194,60 @@
     ],
     "methodologies": [],
     "frameworks": []
+  },
+  "hLcQfL5VSk4": {
+    "people": [
+      "Simon Carver",
+      "Lachland Reed",
+      "Jack Burns"
+    ],
+    "organizations": [
+      "bank",
+      "multinational",
+      "port authority"
+    ],
+    "products": [],
+    "platforms": [],
+    "concepts": [
+      "bribery",
+      "corruption",
+      "compliance",
+      "vendor management",
+      "beneficial ownership",
+      "sanctions lists",
+      "anomaly detection",
+      "pattern recognition",
+      "financial systems",
+      "payment rails",
+      "escalation thresholds",
+      "due diligence",
+      "governance",
+      "surveillance",
+      "accountability",
+      "contestability",
+      "plausible deniability"
+    ],
+    "technologies": [
+      "agentic AI",
+      "machine learning",
+      "data analytics",
+      "dashboards",
+      "keyword scanning",
+      "linguistic analysis",
+      "behavioral monitoring"
+    ],
+    "methodologies": [
+      "compliance programs",
+      "manual review",
+      "relationship mapping",
+      "behavioral anomaly analysis",
+      "cross-reference analysis",
+      "augmentation"
+    ],
+    "frameworks": [
+      "intelligence framework",
+      "governance framework",
+      "disciplined augmentation"
+    ]
   }
 }
