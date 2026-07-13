@@ -3,6 +3,6 @@
 *1 episode(s) cover this topic.*
 
 
-## Episode 092: When AI Efficiency Becomes an Automation Arms Race
+## Episode 093: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
