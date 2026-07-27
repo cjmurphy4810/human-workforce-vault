@@ -1,1844 +1,1991 @@
 {
   "nodes": [
     {
+      "id": "episode:kBSDP7NMGuw",
+      "type": "episode",
+      "label": "The 109-to-1 AI Workforce Nobody Is Talking About",
+      "index": 1,
+      "video_id": "kBSDP7NMGuw"
+    },
+    {
+      "id": "episode:yrlbUVd9kS4",
+      "type": "episode",
+      "label": "The Genius in the Mess",
+      "index": 2,
+      "video_id": "yrlbUVd9kS4"
+    },
+    {
+      "id": "episode:oTAPUfSRs-M",
+      "type": "episode",
+      "label": "When AI Escaped the Sandbox",
+      "index": 3,
+      "video_id": "oTAPUfSRs-M"
+    },
+    {
+      "id": "episode:GQpa2IcwJ-I",
+      "type": "episode",
+      "label": "The Bridge Between Quantum Physics and Existence",
+      "index": 4,
+      "video_id": "GQpa2IcwJ-I"
+    },
+    {
+      "id": "episode:7LAgPbng_48",
+      "type": "episode",
+      "label": "Your Detection Methods Are Already Falling Behind",
+      "index": 5,
+      "video_id": "7LAgPbng_48"
+    },
+    {
+      "id": "episode:Ie4U4BCezBs",
+      "type": "episode",
+      "label": "Your Next Career Move Depends on This",
+      "index": 6,
+      "video_id": "Ie4U4BCezBs"
+    },
+    {
       "id": "episode:qVXunRDkkjk",
       "type": "episode",
       "label": "Synthetic HUMINT  When Faces Stop Proving People",
-      "index": 1,
+      "index": 7,
       "video_id": "qVXunRDkkjk"
     },
     {
       "id": "episode:aBF1HRCON4U",
       "type": "episode",
       "label": "Why AI's Greatest Strength Is Its Fatal Weakness",
-      "index": 2,
+      "index": 8,
       "video_id": "aBF1HRCON4U"
     },
     {
       "id": "episode:54PWmS5CG2A",
       "type": "episode",
       "label": "CEO vs AI: Who's Really in Control?",
-      "index": 3,
+      "index": 9,
       "video_id": "54PWmS5CG2A"
     },
     {
       "id": "episode:5K9JZxaVtcY",
       "type": "episode",
       "label": "The Breaking Point Between AI and Human Labor",
-      "index": 4,
+      "index": 10,
       "video_id": "5K9JZxaVtcY"
     },
     {
       "id": "episode:1sWc3rd9O7A",
       "type": "episode",
       "label": "Your Next Manager Won't Be Human",
-      "index": 5,
+      "index": 11,
       "video_id": "1sWc3rd9O7A"
     },
     {
       "id": "episode:3A-bPJRrRm8",
       "type": "episode",
       "label": "The Great Compression  AI, Quantum, and the Collapse of Time",
-      "index": 6,
+      "index": 12,
       "video_id": "3A-bPJRrRm8"
     },
     {
       "id": "episode:CZSOv4ArVWY",
       "type": "episode",
       "label": "Who Are You Beneath the Masks You Wear?",
-      "index": 7,
+      "index": 13,
       "video_id": "CZSOv4ArVWY"
     },
     {
       "id": "episode:X00QgD7NexU",
       "type": "episode",
       "label": "AI Isn't the Challenge\u2014Human Adaptation Is",
-      "index": 8,
+      "index": 14,
       "video_id": "X00QgD7NexU"
     },
     {
       "id": "episode:cJiN7QbuNjk",
       "type": "episode",
       "label": "Your Job Just Got Optimized Out of Existence",
-      "index": 9,
+      "index": 15,
       "video_id": "cJiN7QbuNjk"
     },
     {
       "id": "episode:svMI6eKo3cw",
       "type": "episode",
       "label": "When a Customer First Chatbot Started Giving Away Trucks",
-      "index": 10,
+      "index": 16,
       "video_id": "svMI6eKo3cw"
     },
     {
       "id": "episode:0qOybRZtL5Q",
       "type": "episode",
       "label": "Everything You Know About the Green Circle is a total lie",
-      "index": 11,
+      "index": 17,
       "video_id": "0qOybRZtL5Q"
     },
     {
       "id": "episode:hLcQfL5VSk4",
       "type": "episode",
       "label": "AI vs Corruption  The Invisible Handshake",
-      "index": 12,
+      "index": 18,
       "video_id": "hLcQfL5VSk4"
     },
     {
       "id": "episode:SVtVVt_gF2Y",
       "type": "episode",
       "label": "AI Malware Just Ruined Everything in Seconds",
-      "index": 13,
+      "index": 19,
       "video_id": "SVtVVt_gF2Y"
     },
     {
       "id": "episode:H2oA5lJkdQs",
       "type": "episode",
       "label": "When AI Says No, Humans Can't Override It",
-      "index": 14,
+      "index": 20,
       "video_id": "H2oA5lJkdQs"
     },
     {
       "id": "episode:h9DgDCHJTig",
       "type": "episode",
       "label": "Why Companies Are Paying Extra for Human Decision-Making",
-      "index": 15,
+      "index": 21,
       "video_id": "h9DgDCHJTig"
     },
     {
       "id": "episode:l8cAzSuYmRM",
       "type": "episode",
       "label": "When the Dashboard Lies   The Invisible Dashboard",
-      "index": 16,
+      "index": 22,
       "video_id": "l8cAzSuYmRM"
     },
     {
       "id": "episode:3QgxtOtAObY",
       "type": "episode",
       "label": "You\u2019re Not Failing. You\u2019re in the Wrong Room.",
-      "index": 17,
+      "index": 23,
       "video_id": "3QgxtOtAObY"
     },
     {
       "id": "episode:NkcMjaNixTM",
       "type": "episode",
       "label": "\u4eba\u53e3\u6e1b\u5c11\u6642\u4ee3\u3092\u652f\u3048\u308bAI\u3068\u4eba\u9593\u3089\u3057\u3055",
-      "index": 18,
+      "index": 24,
       "video_id": "NkcMjaNixTM"
     },
     {
       "id": "episode:Rb8QOb2TXKg",
       "type": "episode",
       "label": "The Trinity Jumpstart Method: Your New Competitive Advantage",
-      "index": 19,
+      "index": 25,
       "video_id": "Rb8QOb2TXKg"
     },
     {
       "id": "episode:bRM7eraA-d0",
       "type": "episode",
       "label": "When Your Sleep Data Costs You a Mortgage",
-      "index": 20,
+      "index": 26,
       "video_id": "bRM7eraA-d0"
     },
     {
       "id": "episode:3svmyZpAHIk",
       "type": "episode",
       "label": "250 Years of the American Human Workforce",
-      "index": 21,
+      "index": 27,
       "video_id": "3svmyZpAHIk"
     },
     {
       "id": "episode:E0zW551UfWA",
       "type": "episode",
       "label": "Generative AI Is Quietly Reshaping Work",
-      "index": 22,
+      "index": 28,
       "video_id": "E0zW551UfWA"
     },
     {
       "id": "episode:zCKyRiq5rgs",
       "type": "episode",
       "label": "She Came to Work Every Day and Made Zero Hiring Decisions",
-      "index": 23,
+      "index": 29,
       "video_id": "zCKyRiq5rgs"
     },
     {
       "id": "episode:u4d6Ym2il1w",
       "type": "episode",
       "label": "The Insider Isn't Human Anymore",
-      "index": 24,
+      "index": 30,
       "video_id": "u4d6Ym2il1w"
     },
     {
       "id": "episode:6LutKv6Ooy8",
       "type": "episode",
       "label": "From Labor Arbitrage to Agent Bosses",
-      "index": 25,
+      "index": 31,
       "video_id": "6LutKv6Ooy8"
     },
     {
       "id": "episode:LLdfdtNffuY",
       "type": "episode",
       "label": "The Human Disadvantage | A Free Audiobook for Professionals Navigating AI",
-      "index": 26,
+      "index": 32,
       "video_id": "LLdfdtNffuY"
     },
     {
       "id": "episode:GsvgR29ml1U",
       "type": "episode",
       "label": "Elena's Double Life Inside Corporate America",
-      "index": 27,
+      "index": 33,
       "video_id": "GsvgR29ml1U"
     },
     {
       "id": "episode:zMvUfZJ_a3E",
       "type": "episode",
       "label": "AI Layoffs, Forced Rankings, and the Cost of Fear",
-      "index": 28,
+      "index": 34,
       "video_id": "zMvUfZJ_a3E"
     },
     {
       "id": "episode:GUEqT-nY2o0",
       "type": "episode",
       "label": "When AI Fakes Reality, Who Do We Trust",
-      "index": 29,
+      "index": 35,
       "video_id": "GUEqT-nY2o0"
     },
     {
       "id": "episode:sJL-9LIgSz4",
       "type": "episode",
       "label": "What If AI Made You More Valuable, Not Less?",
-      "index": 30,
+      "index": 36,
       "video_id": "sJL-9LIgSz4"
     },
     {
       "id": "episode:b4kdK5EaTKA",
       "type": "episode",
       "label": "From Experience to Infinite Leverage | An Audio Book for Professionals",
-      "index": 31,
+      "index": 37,
       "video_id": "b4kdK5EaTKA"
     },
     {
       "id": "episode:hTv9MG3KOyo",
       "type": "episode",
       "label": "The Agentic Insider: When AI Becomes the Threat Inside Your Organization | Full Audiobook",
-      "index": 32,
+      "index": 38,
       "video_id": "hTv9MG3KOyo"
     },
     {
       "id": "episode:lnHWXgVgicY",
       "type": "episode",
       "label": "AI Phishing en de Onwetende Geldezel",
-      "index": 33,
+      "index": 39,
       "video_id": "lnHWXgVgicY"
     },
     {
       "id": "episode:5CO_guu0RvA",
       "type": "episode",
       "label": "Agentic AI in the Corporate Arena",
-      "index": 34,
+      "index": 40,
       "video_id": "5CO_guu0RvA"
     },
     {
       "id": "episode:ucjz89rxM7w",
       "type": "episode",
       "label": "Why AI Is Becoming a National Security Issue",
-      "index": 35,
+      "index": 41,
       "video_id": "ucjz89rxM7w"
     },
     {
       "id": "episode:dPDxVhefcHU",
       "type": "episode",
-      "label": "The Career Survival Guide for the AI Era | Full Audiobook",
-      "index": 36,
+      "label": "AI Isn't Your Enemy\u2014Being Unprepared Is",
+      "index": 42,
       "video_id": "dPDxVhefcHU"
     },
     {
       "id": "episode:0PmEqipqaPw",
       "type": "episode",
-      "label": "AI and the Growth Paradox at Work",
-      "index": 37,
+      "label": "The Question Isn't Whether AI Changes Your Job\u2014It's This",
+      "index": 43,
       "video_id": "0PmEqipqaPw"
     },
     {
       "id": "episode:rv9X_Zm2Ndw",
       "type": "episode",
-      "label": "Club Genius: What Extraordinary Leaders Know That Most Organizations Miss (Full Audiobook)",
-      "index": 38,
+      "label": "Why Your Organization Is Missing What Extraordinary Leaders Know",
+      "index": 44,
       "video_id": "rv9X_Zm2Ndw"
     },
     {
       "id": "episode:U7-cKoIv9Nw",
       "type": "episode",
       "label": "The Day the Insider Stopped Being Human",
-      "index": 39,
+      "index": 45,
       "video_id": "U7-cKoIv9Nw"
     },
     {
       "id": "episode:3oL3KUwkqkw",
       "type": "episode",
       "label": "Agentic AI and the Swarm Attack Era",
-      "index": 40,
+      "index": 46,
       "video_id": "3oL3KUwkqkw"
     },
     {
       "id": "episode:kAbsP1c8skg",
       "type": "episode",
       "label": "They Didn't Announce Layoffs. They Made People Leave.",
-      "index": 41,
+      "index": 47,
       "video_id": "kAbsP1c8skg"
     },
     {
       "id": "episode:QJMqlrQlHt4",
       "type": "episode",
       "label": "When Your Coworker Is Actually AI",
-      "index": 42,
+      "index": 48,
       "video_id": "QJMqlrQlHt4"
     },
     {
       "id": "episode:_l9sxTRmZVs",
       "type": "episode",
       "label": "AI at ang Kinabukasan ng BPO ng Pilipinas",
-      "index": 43,
+      "index": 49,
       "video_id": "_l9sxTRmZVs"
     },
     {
       "id": "episode:F_BnwSTrmsU",
       "type": "episode",
       "label": "Why AI Needs a Council, Not a King",
-      "index": 44,
+      "index": 50,
       "video_id": "F_BnwSTrmsU"
     },
     {
       "id": "episode:QjWiBFkOEIY",
       "type": "episode",
       "label": "The Death of the Dossier  Defending Reality Against AI Swarms",
-      "index": 45,
+      "index": 51,
       "video_id": "QjWiBFkOEIY"
     },
     {
       "id": "episode:f-zxpA2iNlA",
       "type": "episode",
       "label": "When AI Becomes the Workplace Lie Detector 1",
-      "index": 46,
+      "index": 52,
       "video_id": "f-zxpA2iNlA"
     },
     {
       "id": "episode:Lt3dTPM-xtw",
       "type": "episode",
       "label": "La IA est\u00e1 borrando el primer escal\u00f3n laboral",
-      "index": 47,
+      "index": 53,
       "video_id": "Lt3dTPM-xtw"
     },
     {
       "id": "episode:VwznSiRvYR8",
       "type": "episode",
       "label": "When AI Outruns Human Judgment",
-      "index": 48,
+      "index": 54,
       "video_id": "VwznSiRvYR8"
     },
     {
       "id": "episode:zxUfl7UyduE",
       "type": "episode",
       "label": "Humanoid Robots and the Labor Shortage That\u2019s Reshaping Work",
-      "index": 49,
+      "index": 55,
       "video_id": "zxUfl7UyduE"
     },
     {
       "id": "episode:RvF039WQ_wA",
       "type": "episode",
       "label": "Agentes Digitais e o Futuro do Trabalho Luso\u0301fono",
-      "index": 50,
+      "index": 56,
       "video_id": "RvF039WQ_wA"
     },
     {
       "id": "episode:EPb-vfo9vWw",
       "type": "episode",
       "label": "When AI Becomes Too Powerful to Ship",
-      "index": 51,
+      "index": 57,
       "video_id": "EPb-vfo9vWw"
     },
     {
       "id": "episode:4VdZKLEdlR4",
       "type": "episode",
       "label": "AI Skill Libraries  The Next Layer of Enterprise Intelligence",
-      "index": 52,
+      "index": 58,
       "video_id": "4VdZKLEdlR4"
     },
     {
       "id": "episode:iL-finalN_c",
       "type": "episode",
       "label": "When AI Agents Go Rogue  Prompt Injection and Oversight",
-      "index": 53,
+      "index": 59,
       "video_id": "iL-finalN_c"
     },
     {
       "id": "episode:eA-mdZM8Sgc",
       "type": "episode",
       "label": "Work  Centaurs, Cyborgs, and the Perils of Trust",
-      "index": 54,
+      "index": 60,
       "video_id": "eA-mdZM8Sgc"
     },
     {
       "id": "episode:LClaFOXtW7c",
       "type": "episode",
       "label": "Work and the Rise of Autonomous AI Agents",
-      "index": 55,
+      "index": 61,
       "video_id": "LClaFOXtW7c"
     },
     {
       "id": "episode:TNSMkBDKbgI",
       "type": "episode",
       "label": "The 2026 AI Compliance Crunch  When Every Prompt Becomes Evidence",
-      "index": 56,
+      "index": 62,
       "video_id": "TNSMkBDKbgI"
     },
     {
       "id": "episode:17S4jmPV6Y8",
       "type": "episode",
       "label": "Humanos en la Era de la IA  El Verdadero Factor Diferencial",
-      "index": 57,
+      "index": 63,
       "video_id": "17S4jmPV6Y8"
     },
     {
       "id": "episode:0gRQYUBSweU",
       "type": "episode",
       "label": "The Silicon Sieve  AI and the Future of Financial Crime Detection",
-      "index": 58,
+      "index": 64,
       "video_id": "0gRQYUBSweU"
     },
     {
       "id": "episode:2KNcMSKYkpY",
       "type": "episode",
       "label": "AI Counterintelligence, Deepfakes, and the End of Anonymity",
-      "index": 59,
+      "index": 65,
       "video_id": "2KNcMSKYkpY"
     },
     {
       "id": "episode:fhyTFqyptMo",
       "type": "episode",
       "label": "Europe\u2019s AI Rulebook  Bias, Surveillance, and the Brussels Effect",
-      "index": 60,
+      "index": 66,
       "video_id": "fhyTFqyptMo"
     },
     {
       "id": "episode:U4Q5zbpvN9I",
       "type": "episode",
       "label": "AI sem pessoas n\u00e3o gera lucro",
-      "index": 61,
+      "index": 67,
       "video_id": "U4Q5zbpvN9I"
     },
     {
       "id": "episode:w3-Tj3rtXi8",
       "type": "episode",
       "label": "AI Counterintelligence, Deepfakes, and the End of Anonymity",
-      "index": 62,
+      "index": 68,
       "video_id": "w3-Tj3rtXi8"
     },
     {
       "id": "episode:u9N7w_tmC0s",
       "type": "episode",
       "label": "AI Hype, Corporate Narratives, and the Human Workforce",
-      "index": 63,
+      "index": 69,
       "video_id": "u9N7w_tmC0s"
     },
     {
       "id": "episode:R37YkMPW3QI",
       "type": "episode",
       "label": "Shadow AI: The Silent Revolution Transforming Work Before Leaders Notice",
-      "index": 64,
+      "index": 70,
       "video_id": "R37YkMPW3QI"
     },
     {
       "id": "episode:RzHHYmV40dE",
       "type": "episode",
       "label": "AI Red Teams  How Agentic AI Thinks Like an Attacker",
-      "index": 65,
+      "index": 71,
       "video_id": "RzHHYmV40dE"
     },
     {
       "id": "episode:62TkirkF4p0",
       "type": "episode",
       "label": "Course 3   Understanding AI Governance and the AIGP Certification",
-      "index": 66,
+      "index": 72,
       "video_id": "62TkirkF4p0"
     },
     {
       "id": "episode:LivL91WaFqk",
       "type": "episode",
       "label": "AI Layoffs Don\u2019t Boost Profits  The Human Advantage 1",
-      "index": 67,
+      "index": 73,
       "video_id": "LivL91WaFqk"
     },
     {
       "id": "episode:-zCdDx1kHrw",
       "type": "episode",
       "label": "When AI Sounds Panicked or confused, Humans Start Believing It",
-      "index": 68,
+      "index": 74,
       "video_id": "-zCdDx1kHrw"
     },
     {
       "id": "episode:fUqJZLC2GL4",
       "type": "episode",
       "label": "From Logins to Corporate-Espionage  AI, Deepfakes, and Zero Trust",
-      "index": 69,
+      "index": 75,
       "video_id": "fUqJZLC2GL4"
     },
     {
       "id": "episode:bpoa5WKDbys",
       "type": "episode",
       "label": "A Voice First AI Revolution",
-      "index": 70,
+      "index": 76,
       "video_id": "bpoa5WKDbys"
     },
     {
       "id": "episode:UH_Z81xiFBs",
       "type": "episode",
       "label": "AI Boom or Bubble  The Human Future at Risk",
-      "index": 71,
+      "index": 77,
       "video_id": "UH_Z81xiFBs"
     },
     {
       "id": "episode:TlOCqT6e2Ps",
       "type": "episode",
       "label": "The AI Control Problem",
-      "index": 72,
+      "index": 78,
       "video_id": "TlOCqT6e2Ps"
     },
     {
       "id": "episode:0EJvLkTX6G8",
       "type": "episode",
       "label": "Ethics as a Termination Strategy",
-      "index": 73,
+      "index": 79,
       "video_id": "0EJvLkTX6G8"
     },
     {
       "id": "episode:MBYm8fEPOqY",
       "type": "episode",
       "label": "From AI Pilots to Autonomous Enterprise",
-      "index": 74,
+      "index": 80,
       "video_id": "MBYm8fEPOqY"
     },
     {
       "id": "episode:s-8EteJ57lU",
       "type": "episode",
       "label": "When AI Makes Scams Look Legit",
-      "index": 75,
+      "index": 81,
       "video_id": "s-8EteJ57lU"
     },
     {
       "id": "episode:YXxf_3euA8c",
       "type": "episode",
       "label": "The Trillion Dollar AI Reality Check",
-      "index": 76,
+      "index": 82,
       "video_id": "YXxf_3euA8c"
     },
     {
       "id": "episode:FTbl2wMeZj4",
       "type": "episode",
       "label": "AI Won\u2019t Replace Engineers\u2014It Raises the Stakes",
-      "index": 77,
+      "index": 83,
       "video_id": "FTbl2wMeZj4"
     },
     {
       "id": "episode:OrDPW3gIN9M",
       "type": "episode",
       "label": "Layered Down  How Reorgs Quietly Demote Teams",
-      "index": 78,
+      "index": 84,
       "video_id": "OrDPW3gIN9M"
     },
     {
       "id": "episode:0km1iTMPCPE",
       "type": "episode",
       "label": "The Regret Curve  When AI Replaces Too Much, Too Fast",
-      "index": 79,
+      "index": 85,
       "video_id": "0km1iTMPCPE"
     },
     {
       "id": "episode:JvjiFLdYQQY",
       "type": "episode",
       "label": "When AI Stops Waiting  The Rise of Synthetic Workforces",
-      "index": 80,
+      "index": 86,
       "video_id": "JvjiFLdYQQY"
     },
     {
       "id": "episode:bKeXvlTfV48",
       "type": "episode",
       "label": "When AI Stops Assisting and Starts Deciding",
-      "index": 81,
+      "index": 87,
       "video_id": "bKeXvlTfV48"
     },
     {
       "id": "episode:G9hOJyWPCic",
       "type": "episode",
       "label": "The Catastrophe Gap  - Navigating the Limits of AI Control",
-      "index": 82,
+      "index": 88,
       "video_id": "G9hOJyWPCic"
     },
     {
       "id": "episode:-wq06zD82pw",
       "type": "episode",
       "label": "AI Is Replacing the Corporate Middle",
-      "index": 83,
+      "index": 89,
       "video_id": "-wq06zD82pw"
     },
     {
       "id": "episode:6TIGl_8KWOY",
       "type": "episode",
       "label": "When Workers Become Training Data",
-      "index": 84,
+      "index": 90,
       "video_id": "6TIGl_8KWOY"
     },
     {
       "id": "episode:PyM_VqDmNp8",
       "type": "episode",
       "label": "The AI Layoff Trap  Why Over Automation Hurts Everyone",
-      "index": 85,
+      "index": 91,
       "video_id": "PyM_VqDmNp8"
     },
     {
       "id": "episode:E5KnDgkwXUQ",
       "type": "episode",
       "label": "Inside the AI Driven Insider Threat",
-      "index": 86,
+      "index": 92,
       "video_id": "E5KnDgkwXUQ"
     },
     {
       "id": "episode:2meHM8VYi1M",
       "type": "episode",
       "label": "Autonomous Trucks and the New Freight Economy",
-      "index": 87,
+      "index": 93,
       "video_id": "2meHM8VYi1M"
     },
     {
       "id": "episode:c2OzsCzHDlk",
       "type": "episode",
       "label": "AI Needs Control, Not Blind Trust",
-      "index": 88,
+      "index": 94,
       "video_id": "c2OzsCzHDlk"
     },
     {
       "id": "episode:2atqsFo4Wao",
       "type": "episode",
       "label": "Mythos  The Operational Risk Hiding in AI",
-      "index": 89,
+      "index": 95,
       "video_id": "2atqsFo4Wao"
     },
     {
       "id": "episode:s7Xy_si7Ql0",
       "type": "episode",
       "label": "AI Cover Stories and the Liability Loophole",
-      "index": 90,
+      "index": 96,
       "video_id": "s7Xy_si7Ql0"
     },
     {
       "id": "episode:6eq9tYFCjkY",
       "type": "episode",
       "label": "The Algorithmic Gatekeeper  When AI Rejects You First",
-      "index": 91,
+      "index": 97,
       "video_id": "6eq9tYFCjkY"
     },
     {
       "id": "episode:IKbzy-7AaU4",
       "type": "episode",
       "label": "When AI Starts Training on Its Own Echo",
-      "index": 92,
+      "index": 98,
       "video_id": "IKbzy-7AaU4"
     },
     {
       "id": "episode:97coLf7y-TE",
       "type": "episode",
       "label": "When AI Replaces Managers, What Gets Lost",
-      "index": 93,
+      "index": 99,
       "video_id": "97coLf7y-TE"
     },
     {
       "id": "episode:9XrDuutuymw",
       "type": "episode",
       "label": "How Files and Search Engines Quietly Leak Secrets",
-      "index": 94,
+      "index": 100,
       "video_id": "9XrDuutuymw"
     },
     {
       "id": "episode:i403KVAk1i8",
       "type": "episode",
       "label": "AEON and the Quiet Factory Revolution",
-      "index": 95,
+      "index": 101,
       "video_id": "i403KVAk1i8"
     },
     {
       "id": "episode:TWXgYeA-dUQ",
       "type": "episode",
       "label": "The Great AI Career Shuffle  Who Moves Up, Who Gets Left Out",
-      "index": 96,
+      "index": 102,
       "video_id": "TWXgYeA-dUQ"
     },
     {
       "id": "episode:dj09CoXr_d4",
       "type": "episode",
       "label": "The Comfort Illusion  Why Workers Don\u2019t Fear AI",
-      "index": 97,
+      "index": 103,
       "video_id": "dj09CoXr_d4"
     },
     {
       "id": "episode:WMyGdjk5pKk",
       "type": "episode",
       "label": "The Ethical Debt of Moving Too Fast",
-      "index": 98,
+      "index": 104,
       "video_id": "WMyGdjk5pKk"
     },
     {
       "id": "episode:gb4BKeB6LZU",
       "type": "episode",
       "label": "Your Work Is Being Measured in the Shadows",
-      "index": 99,
+      "index": 105,
       "video_id": "gb4BKeB6LZU"
     },
     {
       "id": "episode:JINcd7RWujk",
       "type": "episode",
       "label": "Digital Subversion  How AI Pollutes the Public Well",
-      "index": 100,
+      "index": 106,
       "video_id": "JINcd7RWujk"
     },
     {
       "id": "episode:_4Cayu-GHMc",
       "type": "episode",
       "label": "When AI Efficiency Becomes an Automation Arms Race",
-      "index": 101,
+      "index": 107,
       "video_id": "_4Cayu-GHMc"
     },
     {
       "id": "episode:Jh6tSkJ8JCk",
       "type": "episode",
       "label": "Why Agentic AI Makes Workers Feel Replaceable",
-      "index": 102,
+      "index": 108,
       "video_id": "Jh6tSkJ8JCk"
     },
     {
       "id": "episode:SAnjXK_2CiQ",
       "type": "episode",
       "label": "Human in the Loop or Just a Rubber Stamp",
-      "index": 103,
+      "index": 109,
       "video_id": "SAnjXK_2CiQ"
     },
     {
       "id": "episode:U0FUsBI2FrQ",
       "type": "episode",
       "label": "From Admin Tasks to Superwoman AI Orchestrator",
-      "index": 104,
+      "index": 110,
       "video_id": "U0FUsBI2FrQ"
     },
     {
       "id": "episode:ohGCQ52QUdE",
       "type": "episode",
       "label": "AI at Machine Speed  The Cybersecurity Tipping Point",
-      "index": 105,
+      "index": 111,
       "video_id": "ohGCQ52QUdE"
     },
     {
       "id": "episode:zf3lDP3Wqis",
       "type": "episode",
       "label": "Embedded AI, Not AI Chaos",
-      "index": 106,
+      "index": 112,
       "video_id": "zf3lDP3Wqis"
     },
     {
       "id": "episode:MX1T7ov-PoA",
       "type": "episode",
       "label": "When AI Becomes Infrastructure",
-      "index": 107,
+      "index": 113,
       "video_id": "MX1T7ov-PoA"
     },
     {
       "id": "episode:9IWCMxVDM-o",
       "type": "episode",
       "label": "The Great Job Illusion  Why Hiring Feels Fake",
-      "index": 108,
+      "index": 114,
       "video_id": "9IWCMxVDM-o"
     },
     {
       "id": "episode:EVVZGQ-EZ-4",
       "type": "episode",
       "label": "From Schlitz to AI  When Efficiency Eats Trust",
-      "index": 109,
+      "index": 115,
       "video_id": "EVVZGQ-EZ-4"
     },
     {
       "id": "episode:p8J1bP8bO6Q",
       "type": "episode",
       "label": "Why the Company Deal Is Breaking and the Rise of Sovereign Specialists",
-      "index": 110,
+      "index": 116,
       "video_id": "p8J1bP8bO6Q"
     },
     {
       "id": "episode:K0Yla0SjXpM",
       "type": "episode",
       "label": "The Bank That Never Sleeps  AI, Risk, and Compliance at Machine Speed",
-      "index": 111,
+      "index": 117,
       "video_id": "K0Yla0SjXpM"
     },
     {
       "id": "episode:CR-95TPthDE",
       "type": "episode",
       "label": "The Cost of Silence at Work",
-      "index": 112,
+      "index": 118,
       "video_id": "CR-95TPthDE"
     },
     {
       "id": "episode:wXtvQ2Y1oek",
       "type": "episode",
       "label": "When Chatbots Become Validators of Harm",
-      "index": 113,
+      "index": 119,
       "video_id": "wXtvQ2Y1oek"
     },
     {
       "id": "episode:IN37dOTQ-FI",
       "type": "episode",
       "label": "Why the 10x Engineer Myth Is Breaking Down",
-      "index": 114,
+      "index": 120,
       "video_id": "IN37dOTQ-FI"
     },
     {
       "id": "episode:SqbkPfa1L6U",
       "type": "episode",
       "label": "The AI Bubble Playbook  Hype, Judgment, and Hidden Labor",
-      "index": 115,
+      "index": 121,
       "video_id": "SqbkPfa1L6U"
     },
     {
       "id": "episode:xihtVFCn16o",
       "type": "episode",
       "label": "When Logging In Becomes the New Breaking In",
-      "index": 116,
+      "index": 122,
       "video_id": "xihtVFCn16o"
     },
     {
       "id": "episode:SS3As5XrviA",
       "type": "episode",
       "label": "Lipstick on a Pig  Why Polish Can Hide Weakness",
-      "index": 117,
+      "index": 123,
       "video_id": "SS3As5XrviA"
     },
     {
       "id": "episode:ewa5H9gvaCM",
       "type": "episode",
       "label": "AI\u2019s Gray Rhinos and Black Swans",
-      "index": 118,
+      "index": 124,
       "video_id": "ewa5H9gvaCM"
     },
     {
       "id": "episode:VT3PSbBl5SE",
       "type": "episode",
       "label": "When Automation Cuts Costs and Customers",
-      "index": 119,
+      "index": 125,
       "video_id": "VT3PSbBl5SE"
     },
     {
       "id": "episode:RhOYvEfmxik",
       "type": "episode",
       "label": "AI vs  Money Laundering  Stopping Cash Before It Vanishes",
-      "index": 120,
+      "index": 126,
       "video_id": "RhOYvEfmxik"
     },
     {
       "id": "episode:8tYypLMXRbo",
       "type": "episode",
       "label": "Why AI Needs More Humans (to watch it)",
-      "index": 121,
+      "index": 127,
       "video_id": "8tYypLMXRbo"
     },
     {
       "id": "episode:h3tc5tSjcZI",
       "type": "episode",
       "label": "Polished Fiction  When AI Sounds Right but Isn\u2019t",
-      "index": 122,
+      "index": 128,
       "video_id": "h3tc5tSjcZI"
     },
     {
       "id": "episode:zy2Z2d5p92k",
       "type": "episode",
       "label": "AI Exposes Weak Leadership, It Doesn\u2019t Fix It",
-      "index": 123,
+      "index": 129,
       "video_id": "zy2Z2d5p92k"
     },
     {
       "id": "episode:8oLkHGX-FyA",
       "type": "episode",
       "label": "When AI Becomes The Default Voice",
-      "index": 124,
+      "index": 130,
       "video_id": "8oLkHGX-FyA"
     },
     {
       "id": "episode:Vnx4xogxBAU",
       "type": "episode",
       "label": "When Work Gets Quieter but Pressure Gets Louder",
-      "index": 125,
+      "index": 131,
       "video_id": "Vnx4xogxBAU"
     },
     {
       "id": "episode:Snggc24tXwk",
       "type": "episode",
       "label": "When High Performance Turns Into A Conduct Case",
-      "index": 126,
+      "index": 132,
       "video_id": "Snggc24tXwk"
     },
     {
       "id": "episode:1UhZ4HVe70I",
       "type": "episode",
       "label": "The Autonomous Employee When AI Starts Doing the Work",
-      "index": 127,
+      "index": 133,
       "video_id": "1UhZ4HVe70I"
     },
     {
       "id": "episode:IfKmWHZKs0o",
       "type": "episode",
       "label": "AI Confidence Is an Illusion",
-      "index": 128,
+      "index": 134,
       "video_id": "IfKmWHZKs0o"
     },
     {
       "id": "episode:8UtrZsxhiPw",
       "type": "episode",
       "label": "Regulating AI in Real Time SupTech and Oversight",
-      "index": 129,
+      "index": 135,
       "video_id": "8UtrZsxhiPw"
     },
     {
       "id": "episode:1BBo4Tnqc58",
       "type": "episode",
       "label": "When AI Starts Thinking For You",
-      "index": 130,
+      "index": 136,
       "video_id": "1BBo4Tnqc58"
     },
     {
       "id": "episode:4RRRPfDAShA",
       "type": "episode",
       "label": "How to Land Work You\u2019ll Actually Love",
-      "index": 131,
+      "index": 137,
       "video_id": "4RRRPfDAShA"
     },
     {
       "id": "episode:G1ZJKw-JXsc",
       "type": "episode",
       "label": "AgenticAI  From Chatbots to Digital Teammates",
-      "index": 132,
+      "index": 138,
       "video_id": "G1ZJKw-JXsc"
     },
     {
       "id": "episode:zQbiq710ciw",
       "type": "episode",
       "label": "Over Skis Leadership: Proximity, Power, and the Human Cost of Shallow Management",
-      "index": 133,
+      "index": 139,
       "video_id": "zQbiq710ciw"
     },
     {
       "id": "episode:RwYrz1L87iw",
       "type": "episode",
       "label": "AI Paradox  Why We Use It but Don\u2019t Trust It",
-      "index": 134,
+      "index": 140,
       "video_id": "RwYrz1L87iw"
     },
     {
       "id": "episode:qb9rJivuveU",
       "type": "episode",
       "label": "How Bad Leadership Turns Teams Toxic",
-      "index": 135,
+      "index": 141,
       "video_id": "qb9rJivuveU"
     },
     {
       "id": "episode:EponVCbI1w8",
       "type": "episode",
       "label": "When the Workplace Goes Quiet",
-      "index": 136,
+      "index": 142,
       "video_id": "EponVCbI1w8"
     },
     {
       "id": "episode:2zK5fLQohO8",
       "type": "episode",
       "label": "The Vanishing Apprenticeship:  What Happens When AI Learns the Job Before People Do.",
-      "index": 137,
+      "index": 143,
       "video_id": "2zK5fLQohO8"
     },
     {
       "id": "episode:Z-QgJu7EMZY",
       "type": "episode",
       "label": "Harder to Replace  The New Rules of Job Security",
-      "index": 138,
+      "index": 144,
       "video_id": "Z-QgJu7EMZY"
     },
     {
       "id": "episode:c76N8NVr-c8",
       "type": "episode",
       "label": "The Ghost of GE  How Old School Rank and Yank Still Haunts Work Culture",
-      "index": 139,
+      "index": 145,
       "video_id": "c76N8NVr-c8"
     },
     {
       "id": "episode:Pq21DxO_hIU",
       "type": "episode",
       "label": "When Healthcare Efficiency Turns Cold",
-      "index": 140,
+      "index": 146,
       "video_id": "Pq21DxO_hIU"
     },
     {
       "id": "episode:ykBfA9UYIMg",
       "type": "episode",
       "label": "Welcome to The Human Workforce",
-      "index": 141,
+      "index": 147,
       "video_id": "ykBfA9UYIMg"
     },
     {
       "id": "episode:eJxaxyRyPdk",
       "type": "episode",
       "label": "The First Real AI That Worked Against Humans",
-      "index": 142,
+      "index": 148,
       "video_id": "eJxaxyRyPdk"
     },
     {
       "id": "episode:PPTI2yKN9R8",
       "type": "episode",
       "label": "AI Work and the New Human Advantage",
-      "index": 143,
+      "index": 149,
       "video_id": "PPTI2yKN9R8"
     },
     {
       "id": "episode:vHKnqz6nDcY",
       "type": "episode",
       "label": "Episode 6  The Job You Already Have Is the One They\u2019re Replacing\u2014Unless You Change First",
-      "index": 144,
+      "index": 150,
       "video_id": "vHKnqz6nDcY"
     },
     {
       "id": "episode:xMOwbE4xQOY",
       "type": "episode",
       "label": "The AI Illusion  Why Companies Are Getting It Dangerously Wrong",
-      "index": 145,
+      "index": 151,
       "video_id": "xMOwbE4xQOY"
     },
     {
       "id": "episode:cotQ60ULwPQ",
       "type": "episode",
       "label": "Don\u2019t Let Them Live in the Matrix",
-      "index": 146,
+      "index": 152,
       "video_id": "cotQ60ULwPQ"
     },
     {
       "id": "episode:GYLNUItueI8",
       "type": "episode",
       "label": "Episode 3  The Meeting Room Mirage and Strategic Spaghetti Management",
-      "index": 147,
+      "index": 153,
       "video_id": "GYLNUItueI8"
     },
     {
       "id": "episode:miEnnrV-jLM",
       "type": "episode",
       "label": "The Fog Machine AI Ambiguity and the Quiet Push Out.",
-      "index": 148,
+      "index": 154,
       "video_id": "miEnnrV-jLM"
     },
     {
       "id": "episode:0_t1wqxTMYg",
       "type": "episode",
       "label": "Leadership, Power, and the Workforce in the Age of AI",
-      "index": 149,
+      "index": 155,
       "video_id": "0_t1wqxTMYg"
+    },
+    {
+      "id": "episode:fqK4fCqm7wQ",
+      "type": "episode",
+      "label": "The One Thing Machines Can't Replace #ai #jobs #skills",
+      "index": 156,
+      "video_id": "fqK4fCqm7wQ"
+    },
+    {
+      "id": "episode:cQihErH3TsQ",
+      "type": "episode",
+      "label": "Your Smart Home Just Locked You Out #SmartHome #Security #Fail",
+      "index": 157,
+      "video_id": "cQihErH3TsQ"
+    },
+    {
+      "id": "episode:USxACD-JwIs",
+      "type": "episode",
+      "label": "AI Only Knows What We Teach It #ai #shorts #tech",
+      "index": 158,
+      "video_id": "USxACD-JwIs"
+    },
+    {
+      "id": "episode:lmP5EvSvpM4",
+      "type": "episode",
+      "label": "AI Stopped Asking Permission #technology #ai #shorts",
+      "index": 159,
+      "video_id": "lmP5EvSvpM4"
+    },
+    {
+      "id": "episode:Xy5_SGxd5U4",
+      "type": "episode",
+      "label": "What Happens When Humans Lose Command #ai #warning #shorts",
+      "index": 160,
+      "video_id": "Xy5_SGxd5U4"
+    },
+    {
+      "id": "episode:I3w1ECJvjyA",
+      "type": "episode",
+      "label": "Universes Merging and Nobody Noticed #multiverse #cosmic #shocking",
+      "index": 161,
+      "video_id": "I3w1ECJvjyA"
+    },
+    {
+      "id": "episode:_TMntyrAUUQ",
+      "type": "episode",
+      "label": "When Authority Replaces Thought #psychology #bias",
+      "index": 162,
+      "video_id": "_TMntyrAUUQ"
+    },
+    {
+      "id": "episode:Lo2SPHbyYj0",
+      "type": "episode",
+      "label": "The Quantum Paradox Nobody Talks About #Physics #Quantum",
+      "index": 163,
+      "video_id": "Lo2SPHbyYj0"
+    },
+    {
+      "id": "episode:hokiHk6dfHo",
+      "type": "episode",
+      "label": "AI Just Revealed Reality Runs on a Loop \ud83d\udd04 #Science #Shorts",
+      "index": 164,
+      "video_id": "hokiHk6dfHo"
+    },
+    {
+      "id": "episode:-Yztwa5VWyQ",
+      "type": "episode",
+      "label": "No Alarm Raised But We Were Already Compromised #blackswan #survival",
+      "index": 165,
+      "video_id": "-Yztwa5VWyQ"
+    },
+    {
+      "id": "episode:w77XdtMg6sE",
+      "type": "episode",
+      "label": "The job market just split in two #AI #Careers",
+      "index": 166,
+      "video_id": "w77XdtMg6sE"
+    },
+    {
+      "id": "episode:rFftxTvUZkI",
+      "type": "episode",
+      "label": "When AI Becomes a Tool for Fraud #aidanger #marketmanipulation",
+      "index": 167,
+      "video_id": "rFftxTvUZkI"
+    },
+    {
+      "id": "episode:OqIFz9hLAWA",
+      "type": "episode",
+      "label": "The Moment His Board Found Out Everything Failed #shorts #ceo #crisis",
+      "index": 168,
+      "video_id": "OqIFz9hLAWA"
+    },
+    {
+      "id": "episode:9Ir4gBiaarY",
+      "type": "episode",
+      "label": "The Shift Happening To Every Job Right Now #AI #future #adaptation",
+      "index": 169,
+      "video_id": "9Ir4gBiaarY"
+    },
+    {
+      "id": "episode:wSl0V_r4xR8",
+      "type": "episode",
+      "label": "Stop Paying for Growth \u2013 These Free Tools Will #professionaldevelopment #skills",
+      "index": 170,
+      "video_id": "wSl0V_r4xR8"
     },
     {
       "id": "episode:KZWb-irFRmY",
       "type": "episode",
-      "label": "unknown",
-      "index": 150,
+      "label": "Your Career Blueprint for a Human-Centered Future #aiea #careerstrategies",
+      "index": 171,
       "video_id": "KZWb-irFRmY"
     },
     {
       "id": "episode:qNA-PmP1G7w",
       "type": "episode",
       "label": "Your Expertise Might Be Worthless Soon #AI #Future",
-      "index": 151,
+      "index": 172,
       "video_id": "qNA-PmP1G7w"
     },
     {
       "id": "episode:5URRFj8RIVo",
       "type": "episode",
-      "label": "unknown",
-      "index": 152,
+      "label": "Stop Competing With AI, Do This Instead #TheHumanWorkforce #Career #Mindset",
+      "index": 173,
       "video_id": "5URRFj8RIVo"
     },
     {
       "id": "episode:0RX42rKJw4w",
       "type": "episode",
       "label": "the different faces of you #curiosity #personas",
-      "index": 153,
+      "index": 174,
       "video_id": "0RX42rKJw4w"
     },
     {
       "id": "episode:o1wtAto3Lgs",
       "type": "episode",
       "label": "The Only Thing That Matters in an AI World #ai #skills #adaptation",
-      "index": 154,
+      "index": 175,
       "video_id": "o1wtAto3Lgs"
     },
     {
       "id": "episode:EjIjTo4LiQ4",
       "type": "episode",
       "label": "How Many Masks Are You Wearing Right Now #masks #selfdiscovery",
-      "index": 155,
+      "index": 176,
       "video_id": "EjIjTo4LiQ4"
     },
     {
       "id": "episode:SpsmyjV_aYk",
       "type": "episode",
       "label": "the distributed network that broke everything #ai #future #shorts",
-      "index": 156,
+      "index": 177,
       "video_id": "SpsmyjV_aYk"
     },
     {
       "id": "episode:MStAGq27pzY",
       "type": "episode",
       "label": "The Edge Machines Can't Copy #HumanWorkforce #AI",
-      "index": 157,
+      "index": 178,
       "video_id": "MStAGq27pzY"
     },
     {
       "id": "episode:cvxQaZKxhGY",
       "type": "episode",
       "label": "What Machines Can't Do (That You Can) #AI #work",
-      "index": 158,
+      "index": 179,
       "video_id": "cvxQaZKxhGY"
     },
     {
       "id": "episode:QdKnHvuE9Q8",
       "type": "episode",
       "label": "the moment AI stops needing humans #ai #future #shorts",
-      "index": 159,
+      "index": 180,
       "video_id": "QdKnHvuE9Q8"
     },
     {
       "id": "episode:Quir4eCgY7Q",
       "type": "episode",
       "label": "Your Unique Human Skills Are Worth More Now #CareerAdvice",
-      "index": 160,
+      "index": 181,
       "video_id": "Quir4eCgY7Q"
     },
     {
       "id": "episode:V7lFOK_m7M8",
       "type": "episode",
       "label": "AI Just Deleted Our Entire Inventory #AI #shorts",
-      "index": 161,
+      "index": 182,
       "video_id": "V7lFOK_m7M8"
     },
     {
       "id": "episode:oxQhqnIym9Y",
       "type": "episode",
       "label": "Anomaly Strikes and Everything Falls Apart #cybersecurity #alert",
-      "index": 162,
+      "index": 183,
       "video_id": "oxQhqnIym9Y"
     },
     {
       "id": "episode:hXsFJ7exDrI",
       "type": "episode",
-      "label": "How Exceptional Leaders Connect Ideas Others Miss #innovation #framework",
-      "index": 163,
+      "label": "Stop Relying on Luck\u2014This Is How Leaders Actually Win #mindset #success",
+      "index": 184,
       "video_id": "hXsFJ7exDrI"
     },
     {
       "id": "episode:ITThBwKmcU4",
       "type": "episode",
       "label": "This is What a Real Cyberattack Looks Like",
-      "index": 164,
+      "index": 185,
       "video_id": "ITThBwKmcU4"
     },
     {
       "id": "episode:2KRUXu5R4xg",
       "type": "episode",
       "label": "the last job youll ever have looks nothing like this #future #work #ai",
-      "index": 165,
+      "index": 186,
       "video_id": "2KRUXu5R4xg"
     },
     {
       "id": "episode:53Kh9CO8LtE",
       "type": "episode",
       "label": "The Hack That Looks Like Normal Traffic #cybersecurity #apivulnerability #hacking",
-      "index": 166,
+      "index": 187,
       "video_id": "53Kh9CO8LtE"
     },
     {
       "id": "episode:OjEuCMVK2_0",
       "type": "episode",
       "label": "Nobody can stop an agentic insider #ai #espionage #security",
-      "index": 167,
+      "index": 188,
       "video_id": "OjEuCMVK2_0"
     },
     {
       "id": "episode:EbClYCSkTqU",
       "type": "episode",
       "label": "AI Won't Take Over by Force. It Will Be Invited. #AI #FutureOfWork",
-      "index": 168,
+      "index": 189,
       "video_id": "EbClYCSkTqU"
     },
     {
       "id": "episode:zyGtbdFR90I",
       "type": "episode",
       "label": "AI Changed Everything for Leaders\u2014What Now? #TheHumanWorkforce #FutureOfWork",
-      "index": 169,
+      "index": 190,
       "video_id": "zyGtbdFR90I"
     },
     {
       "id": "episode:NfVpxsFT1SM",
       "type": "episode",
       "label": "The Honest AI Conversation for People Who Actually Work #AI #CareerShift #Podcast",
-      "index": 170,
+      "index": 191,
       "video_id": "NfVpxsFT1SM"
     },
     {
       "id": "episode:8QS6wKNdnpI",
       "type": "episode",
-      "label": "The Advanced Threat Hiding in Plain Sight #security #agentic",
-      "index": 171,
+      "label": "How Autonomous Agents Become Insider Threats #security #agentic",
+      "index": 192,
       "video_id": "8QS6wKNdnpI"
     },
     {
       "id": "episode:ujnLf0fS-zg",
       "type": "episode",
       "label": "The Organizations Winning With Human Judgment #TheHumanWorkforce #BusinessInsight",
-      "index": 172,
+      "index": 193,
       "video_id": "ujnLf0fS-zg"
     },
     {
       "id": "episode:R5iy17eSjbQ",
       "type": "episode",
       "label": "How to Stay Relevant When Everything's Changing #AI #CareerGrowth",
-      "index": 173,
+      "index": 194,
       "video_id": "R5iy17eSjbQ"
     },
     {
       "id": "episode:LFsY15imZC8",
       "type": "episode",
       "label": "The Attack Nobody Saw Coming",
-      "index": 174,
+      "index": 195,
       "video_id": "LFsY15imZC8"
     },
     {
       "id": "episode:oAT0rTninqo",
       "type": "episode",
       "label": "How Legends Adapt While Others Panic #TheHumanWorkforce #CareerGrowth",
-      "index": 175,
+      "index": 196,
       "video_id": "oAT0rTninqo"
     },
     {
       "id": "episode:vwoFohJqxxk",
       "type": "episode",
       "label": "When One Bank Chose People Over Algorithms",
-      "index": 176,
+      "index": 197,
       "video_id": "vwoFohJqxxk"
     },
     {
       "id": "episode:VS3-fT2FpDE",
       "type": "episode",
       "label": "Master your AI Driven Skills",
-      "index": 177,
+      "index": 198,
       "video_id": "VS3-fT2FpDE"
     },
     {
       "id": "episode:7G0fVOVsx3g",
       "type": "episode",
       "label": "When the Recruiter turned into a Program.",
-      "index": 178,
+      "index": 199,
       "video_id": "7G0fVOVsx3g"
     },
     {
       "id": "episode:9ffas669WKs",
       "type": "episode",
       "label": "The Human Disadvantage: A Must-Listen",
-      "index": 179,
+      "index": 200,
       "video_id": "9ffas669WKs"
     },
     {
       "id": "episode:4NJddMWiEAE",
       "type": "episode",
       "label": "What If AI Decided You Couldn't Buy a Home?",
-      "index": 180,
+      "index": 201,
       "video_id": "4NJddMWiEAE"
     },
     {
       "id": "episode:IOklfra1qQQ",
       "type": "episode",
       "label": "I Learned to Fly a Helicopter in 15 Seconds. (Sort Of.)",
-      "index": 181,
+      "index": 202,
       "video_id": "IOklfra1qQQ"
     },
     {
       "id": "episode:cJcoLUiiIbo",
       "type": "episode",
       "label": "New Episodes Weekly on Being Your Organization's Biggest Asset #Podcast #Business",
-      "index": 182,
+      "index": 203,
       "video_id": "cJcoLUiiIbo"
     },
     {
       "id": "episode:89srBtWSe7Y",
       "type": "episode",
       "label": "The Trap of Choosing Speed Over Sense #Business #Trending",
-      "index": 183,
+      "index": 204,
       "video_id": "89srBtWSe7Y"
     },
     {
       "id": "episode:E5xqUHtIRdI",
       "type": "episode",
       "label": "250 Years of Freedom, Innovation, and Hope",
-      "index": 184,
+      "index": 205,
       "video_id": "E5xqUHtIRdI"
     },
     {
       "id": "episode:qIHosLvu7iA",
       "type": "episode",
       "label": "Browse to Wear The Human Workforce",
-      "index": 185,
+      "index": 206,
       "video_id": "qIHosLvu7iA"
     },
     {
       "id": "episode:QjqsbhAB92o",
       "type": "episode",
-      "label": "Checkout the  Human Workforce  Store",
-      "index": 186,
+      "label": "The Ultimate Collection for AI-Intelligent Professionals #Technology #HumanAdvantage",
+      "index": 207,
       "video_id": "QjqsbhAB92o"
     },
     {
       "id": "episode:QTwdqtq_XTQ",
       "type": "episode",
       "label": "AI Replacement?  We don't think so.",
-      "index": 187,
+      "index": 208,
       "video_id": "QTwdqtq_XTQ"
     },
     {
       "id": "episode:yetRf0-1Wk0",
       "type": "episode",
       "label": "Wear the Future. Lead the Conversation.",
-      "index": 188,
+      "index": 209,
       "video_id": "yetRf0-1Wk0"
     },
     {
       "id": "episode:i9GrH4wOMiM",
       "type": "episode",
       "label": "How AI Quietly Took Over Without Firing Anyone #Automation #Work",
-      "index": 189,
+      "index": 210,
       "video_id": "i9GrH4wOMiM"
     },
     {
       "id": "episode:Rrq3-JkTcec",
       "type": "episode",
-      "label": "Shop The Human Workforce",
-      "index": 190,
+      "label": "Gear Up for Tomorrow #Workforce #Technology",
+      "index": 211,
       "video_id": "Rrq3-JkTcec"
     },
     {
       "id": "episode:ImVGkKkvI8k",
       "type": "episode",
       "label": "Don't panic about AI\u2014do this instead #MindsetShift #Success",
-      "index": 191,
+      "index": 212,
       "video_id": "ImVGkKkvI8k"
     },
     {
       "id": "episode:pj4Wnvx0QUo",
       "type": "episode",
       "label": "Your AI Employee Worked All Night. Nobody Noticed.",
-      "index": 192,
+      "index": 213,
       "video_id": "pj4Wnvx0QUo"
     },
     {
       "id": "episode:ZRkiE2_1LIE",
       "type": "episode",
       "label": "When Your Work Mask Becomes Your Real Face #Psychology #WorkLife #MentalWellness",
-      "index": 193,
+      "index": 214,
       "video_id": "ZRkiE2_1LIE"
     },
     {
       "id": "episode:32PEG3pSalw",
       "type": "episode",
       "label": "How to Stay Relevant When AI Changes Everything #TheHumanWorkforce #WorkforceInsights",
-      "index": 194,
+      "index": 215,
       "video_id": "32PEG3pSalw"
     },
     {
       "id": "episode:qqsEaniT650",
       "type": "episode",
       "label": "The Future Belongs to People Who Learn This",
-      "index": 195,
+      "index": 216,
       "video_id": "qqsEaniT650"
     },
     {
       "id": "episode:CQ6bdSnTu-4",
       "type": "episode",
-      "label": "The Hidden Trait Shared by Extraordinary Leaders",
-      "index": 196,
+      "label": "The Hidden Factor Behind Every Exceptional Leader #ClubGenius #TeamBuilding",
+      "index": 217,
       "video_id": "CQ6bdSnTu-4"
     },
     {
       "id": "episode:1JoBDQdff8s",
       "type": "episode",
       "label": "The Job You Lose May Never Be Posted Again",
-      "index": 197,
+      "index": 218,
       "video_id": "1JoBDQdff8s"
     },
     {
       "id": "episode:udO-8H3__JE",
       "type": "episode",
       "label": "How Many Versions of Yourself Exist at Work?",
-      "index": 198,
+      "index": 219,
       "video_id": "udO-8H3__JE"
     },
     {
       "id": "episode:ccBJlt_Tflo",
       "type": "episode",
       "label": "The Rise of Synthetic Media and AI Content",
-      "index": 199,
+      "index": 220,
       "video_id": "ccBJlt_Tflo"
     },
     {
       "id": "episode:k826P54OnVk",
       "type": "episode",
-      "label": "Governing the Agentic Workforce",
-      "index": 200,
+      "label": "AI Just Crossed the Line from Tool to Worker #AgenticAI #Automation",
+      "index": 221,
       "video_id": "k826P54OnVk"
     },
     {
       "id": "episode:oNkptqgg6VY",
       "type": "episode",
       "label": "The Shift That Changes Everything for Experienced Workers #FutureOfWork #Leadership",
-      "index": 201,
+      "index": 222,
       "video_id": "oNkptqgg6VY"
     },
     {
       "id": "episode:XoEvGOkNtNQ",
       "type": "episode",
-      "label": "Do AI Employees need to be managed?",
-      "index": 202,
+      "label": "How to Prepare for an AI-Powered Workforce",
+      "index": 223,
       "video_id": "XoEvGOkNtNQ"
     },
     {
       "id": "episode:5eWMCKKNABc",
       "type": "episode",
       "label": "Master the skills for an agentic workforce #AILeadership #CareerGrowth #Trending",
-      "index": 203,
+      "index": 224,
       "video_id": "5eWMCKKNABc"
     },
     {
       "id": "episode:mqcZCrwZ_wM",
       "type": "episode",
       "label": "The Age of Human Workers Is Ending #FutureOfWork #AI",
-      "index": 204,
+      "index": 225,
       "video_id": "mqcZCrwZ_wM"
     },
     {
       "id": "episode:lmaGFMQd_b0",
       "type": "episode",
-      "label": "Learn to Thrive working alongside of AI",
-      "index": 205,
+      "label": "Working with AI isn't the end, it's the beginning #AI #FutureOfWork #Opportunity",
+      "index": 226,
       "video_id": "lmaGFMQd_b0"
     },
     {
       "id": "episode:v6imM-nfmy0",
       "type": "episode",
       "label": "Why Some Organizations Always Win",
-      "index": 206,
+      "index": 227,
       "video_id": "v6imM-nfmy0"
     },
     {
       "id": "episode:cGHl9V-qvo4",
       "type": "episode",
-      "label": "AI Won't Replace You. This Might.",
-      "index": 207,
+      "label": "How Careers Quietly Become Obsolete (Before You Notice) #FutureOfWork #Audiobook",
+      "index": 228,
       "video_id": "cGHl9V-qvo4"
     },
     {
       "id": "episode:NoOzZQuUzrY",
       "type": "episode",
       "label": "Beat them at their own Game - Infinite Leverage",
-      "index": 208,
+      "index": 229,
       "video_id": "NoOzZQuUzrY"
     },
     {
       "id": "episode:767LRTYF4to",
       "type": "episode",
-      "label": "Thrive with AI",
-      "index": 209,
+      "label": "Your competitive edge in an AI world #AI #PersonalDevelopment #Skills",
+      "index": 230,
       "video_id": "767LRTYF4to"
     },
     {
       "id": "episode:vCd4IvacHus",
       "type": "episode",
       "label": "The Day The Insider Stopped Being Human",
-      "index": 210,
+      "index": 231,
       "video_id": "vCd4IvacHus"
     },
     {
       "id": "episode:Ia2DU6MU2lQ",
       "type": "episode",
-      "label": "The Silent Reduction Strategy - Listen and Learn",
-      "index": 211,
+      "label": "The Hidden Tactic Making Workers Quit #CorporateStrategy #MustWatch",
+      "index": 232,
       "video_id": "Ia2DU6MU2lQ"
     },
     {
       "id": "episode:OOJuo5p54Ns",
       "type": "episode",
-      "label": "The Agentic Insider June 2026",
-      "index": 212,
+      "label": "The Threat Nobody's Prepared For #AISecure #CorporateRisk #Leadership",
+      "index": 233,
       "video_id": "OOJuo5p54Ns"
     },
     {
       "id": "episode:YHqXhcVFLk0",
       "type": "episode",
       "label": "The Silent Front",
-      "index": 213,
+      "index": 234,
       "video_id": "YHqXhcVFLk0"
     },
     {
       "id": "episode:87QH-JQBsEg",
       "type": "episode",
       "label": "Always watch your AI",
-      "index": 214,
+      "index": 235,
       "video_id": "87QH-JQBsEg"
     },
     {
       "id": "episode:tYruV_XD7gw",
       "type": "episode",
       "label": "Don't leave work without The Human Workforce.",
-      "index": 215,
+      "index": 236,
       "video_id": "tYruV_XD7gw"
     },
     {
       "id": "episode:abb9z-xmwCQ",
       "type": "episode",
       "label": "Get Your Daily Dose of The Human Workforce",
-      "index": 216,
+      "index": 237,
       "video_id": "abb9z-xmwCQ"
     },
     {
       "id": "episode:VyIUAyvih28",
       "type": "episode",
-      "label": "Transform Yourself",
-      "index": 217,
+      "label": "One Decision Away from Changing Everything #TheHumanWorkforce #Success",
+      "index": 238,
       "video_id": "VyIUAyvih28"
     },
     {
       "id": "episode:iQ5XwLslkVY",
       "type": "episode",
       "label": "Thriving with AI at Work and in Life.",
-      "index": 218,
+      "index": 239,
       "video_id": "iQ5XwLslkVY"
     },
     {
       "id": "episode:gL8rNVaCo1w",
       "type": "episode",
       "label": "KZAK Endorses The Human Workforce Podcast Series",
-      "index": 219,
+      "index": 240,
       "video_id": "gL8rNVaCo1w"
     },
     {
       "id": "episode:dGzO4UjaJGw",
       "type": "episode",
       "label": "Don't leave work without The Human Workforce.",
-      "index": 220,
+      "index": 241,
       "video_id": "dGzO4UjaJGw"
     },
     {
       "id": "episode:12EsnHgZv3A",
       "type": "episode",
       "label": "Control your own AI",
-      "index": 221,
+      "index": 242,
       "video_id": "12EsnHgZv3A"
     },
     {
       "id": "episode:h9kzFqWObwc",
       "type": "episode",
       "label": "I am not an AI, I am a Human!",
-      "index": 222,
+      "index": 243,
       "video_id": "h9kzFqWObwc"
     },
     {
       "id": "episode:Xg3SLukLw-M",
       "type": "episode",
       "label": "Breaking News from The Human Workforce",
-      "index": 223,
+      "index": 244,
       "video_id": "Xg3SLukLw-M"
     },
     {
       "id": "episode:wf93FdfCSUw",
       "type": "episode",
       "label": "Thrive in the age of AI",
-      "index": 224,
+      "index": 245,
       "video_id": "wf93FdfCSUw"
     },
     {
       "id": "episode:I3--Bac_6Cw",
       "type": "episode",
       "label": "The Human Workforce, where humans drive the bus.",
-      "index": 225,
+      "index": 246,
       "video_id": "I3--Bac_6Cw"
     },
     {
       "id": "episode:fpOFPHPIDUA",
       "type": "episode",
-      "label": "New Book,  The Agentic Insider - July 2026",
-      "index": 226,
+      "label": "Corporate security just changed forever #AI #TheAgenticInsider #Security",
+      "index": 247,
       "video_id": "fpOFPHPIDUA"
     },
     {
       "id": "episode:qtABWs8updY",
       "type": "episode",
       "label": "Human Wisdom Matters More in the Age of AI",
-      "index": 227,
+      "index": 248,
       "video_id": "qtABWs8updY"
     },
     {
       "id": "episode:Qwp8KpXVt04",
       "type": "episode",
       "label": "Checkout The Human Workforce",
-      "index": 228,
+      "index": 249,
       "video_id": "Qwp8KpXVt04"
     },
     {
       "id": "episode:KEn2EDFl-eQ",
       "type": "episode",
       "label": "New Book Coming in July 2026, The Agentic Insider.",
-      "index": 229,
+      "index": 250,
       "video_id": "KEn2EDFl-eQ"
     },
     {
       "id": "episode:zYvbgp5n_vg",
       "type": "episode",
       "label": "Use AI as a Teammate, not an Enemy.",
-      "index": 230,
+      "index": 251,
       "video_id": "zYvbgp5n_vg"
     },
     {
       "id": "episode:iE6CaCswpS0",
       "type": "episode",
       "label": "Check out the Podcasts on The Human Workforce",
-      "index": 231,
+      "index": 252,
       "video_id": "iE6CaCswpS0"
     },
     {
       "id": "episode:U43XW09bys4",
       "type": "episode",
       "label": "Dont Leave Work Without The Human Workforce",
-      "index": 232,
+      "index": 253,
       "video_id": "U43XW09bys4"
     },
     {
       "id": "episode:smRqKqgcFnA",
       "type": "episode",
       "label": "New Book - The Human Disadvantage",
-      "index": 233,
+      "index": 254,
       "video_id": "smRqKqgcFnA"
     },
     {
       "id": "episode:gABVU6S5Yuo",
       "type": "episode",
       "label": "The Human Workforce - Wisdom is Rare",
-      "index": 234,
+      "index": 255,
       "video_id": "gABVU6S5Yuo"
     },
     {
       "id": "episode:kgfqUdMTGZ0",
       "type": "episode",
       "label": "Expert Insights on The Human Workforce Podcast",
-      "index": 235,
+      "index": 256,
       "video_id": "kgfqUdMTGZ0"
     },
     {
       "id": "episode:zMX_cTe9BT4",
       "type": "episode",
       "label": "How to Future-Proof Your Career Against AI",
-      "index": 236,
+      "index": 257,
       "video_id": "zMX_cTe9BT4"
     },
     {
       "id": "episode:Qjx6VlR8v1o",
       "type": "episode",
       "label": "AI Won't Replace You. But This Might.",
-      "index": 237,
+      "index": 258,
       "video_id": "Qjx6VlR8v1o"
     },
     {
       "id": "episode:qN_RvW8-uoI",
       "type": "episode",
       "label": "The Human Advantage in an AI Economy",
-      "index": 238,
+      "index": 259,
       "video_id": "qN_RvW8-uoI"
     },
     {
       "id": "episode:20GUMXxiT90",
       "type": "episode",
       "label": "The Career Survival Guide for the Age of AI",
-      "index": 239,
+      "index": 260,
       "video_id": "20GUMXxiT90"
     },
     {
       "id": "episode:RPtRYaR9luo",
       "type": "episode",
-      "label": "Checkout the human workforce podcast series",
-      "index": 240,
+      "label": "The Hidden Threats to Your Career #JobSecurity #AI",
+      "index": 261,
       "video_id": "RPtRYaR9luo"
     },
     {
       "id": "episode:TF5LGT--SH8",
       "type": "episode",
       "label": "Order The Human Disadvantage - Book       #books",
-      "index": 241,
+      "index": 262,
       "video_id": "TF5LGT--SH8"
     },
     {
       "id": "episode:_GiAI9stH7s",
       "type": "episode",
       "label": "Checkout The Human Workforce Podcast",
-      "index": 242,
+      "index": 263,
       "video_id": "_GiAI9stH7s"
     },
     {
       "id": "episode:dBH7bYLY_vk",
       "type": "episode",
       "label": "The Human Workforce Podcast Information - Subscribe Today",
-      "index": 243,
+      "index": 264,
       "video_id": "dBH7bYLY_vk"
     },
     {
       "id": "episode:iGZW5P0LnC8",
       "type": "episode",
       "label": "The Human Workforce Information",
-      "index": 244,
+      "index": 265,
       "video_id": "iGZW5P0LnC8"
     },
     {
       "id": "episode:NqVuxvUQS_U",
       "type": "episode",
       "label": "Your Human Potential",
-      "index": 245,
+      "index": 266,
       "video_id": "NqVuxvUQS_U"
     },
     {
       "id": "episode:-m1bNLvkQXA",
       "type": "episode",
       "label": "The Hidden Skill AI Can\u2019t Replace",
-      "index": 246,
+      "index": 267,
       "video_id": "-m1bNLvkQXA"
     },
     {
       "id": "episode:mUaVultbrHk",
       "type": "episode",
       "label": "The Human Disadvantage  - New Book, Now Available",
-      "index": 247,
+      "index": 268,
       "video_id": "mUaVultbrHk"
     },
     {
       "id": "episode:pleXqB0kqQc",
       "type": "episode",
       "label": "The Career Advice Nobody Is Giving",
-      "index": 248,
+      "index": 269,
       "video_id": "pleXqB0kqQc"
     },
     {
       "id": "episode:G3dcBK3U1xw",
       "type": "episode",
       "label": "The Human Workforce Podcast help define AI.",
-      "index": 249,
+      "index": 270,
       "video_id": "G3dcBK3U1xw"
     },
     {
       "id": "episode:705wfqD27CQ",
       "type": "episode",
       "label": "Humans Define Work",
-      "index": 250,
+      "index": 271,
       "video_id": "705wfqD27CQ"
     },
     {
       "id": "episode:RClgb3bcmhg",
       "type": "episode",
       "label": "Understanding AI in the Modern Workforce",
-      "index": 251,
+      "index": 272,
       "video_id": "RClgb3bcmhg"
     },
     {
       "id": "episode:iJBkSb1Luns",
       "type": "episode",
       "label": "Human Workforce with AI",
-      "index": 252,
+      "index": 273,
       "video_id": "iJBkSb1Luns"
     },
     {
       "id": "episode:3vODeyNSnOQ",
       "type": "episode",
       "label": "Honor of Memorial Day",
-      "index": 253,
+      "index": 274,
       "video_id": "3vODeyNSnOQ"
     },
     {
       "id": "episode:pxSq38VWjC8",
       "type": "episode",
       "label": "Understanding AI",
-      "index": 254,
+      "index": 275,
       "video_id": "pxSq38VWjC8"
     },
     {
       "id": "episode:SYRkP0qTFTM",
       "type": "episode",
       "label": "Honoring Memorial Day",
-      "index": 255,
+      "index": 276,
       "video_id": "SYRkP0qTFTM"
     },
     {
       "id": "episode:zgF2KHhBVoo",
       "type": "episode",
-      "label": "The AI Work Advantage",
-      "index": 256,
+      "label": "The Mindset Shift That Saved My Career #AI #Inspiration",
+      "index": 277,
       "video_id": "zgF2KHhBVoo"
     },
     {
       "id": "episode:HDXPbgBvhIE",
       "type": "episode",
-      "label": "AI with less stress.",
-      "index": 257,
+      "label": "This is why I'm not worried about AI anymore #Career #Confidence #Tech",
+      "index": 278,
       "video_id": "HDXPbgBvhIE"
     },
     {
       "id": "episode:daHAnK6JJ28",
       "type": "episode",
       "label": "AI's Essence of Work is Shifting",
-      "index": 258,
+      "index": 279,
       "video_id": "daHAnK6JJ28"
     },
     {
       "id": "episode:E0wKFjVR_0I",
       "type": "episode",
       "label": "Automation is not the Enemy!",
-      "index": 259,
+      "index": 280,
       "video_id": "E0wKFjVR_0I"
     },
     {
       "id": "episode:gIZUw45R-kQ",
       "type": "episode",
       "label": "The Human Workforce Insights.",
-      "index": 260,
+      "index": 281,
       "video_id": "gIZUw45R-kQ"
     },
     {
       "id": "episode:mqtWdDGzjCQ",
       "type": "episode",
       "label": "Humans Define Work",
-      "index": 261,
+      "index": 282,
       "video_id": "mqtWdDGzjCQ"
     },
     {
       "id": "episode:zj98MPWYmCI",
       "type": "episode",
       "label": "Short Video on the human workforce",
-      "index": 262,
+      "index": 283,
       "video_id": "zj98MPWYmCI"
     },
     {
       "id": "episode:afsP1GkSOPI",
       "type": "episode",
       "label": "The Last Job You'll Ever Hate",
-      "index": 263,
+      "index": 284,
       "video_id": "afsP1GkSOPI"
     },
     {
