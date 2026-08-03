@@ -1,7 +1,106 @@
 # Episode Index
 
 
-## Episode 001: The 109-to-1 AI Workforce Nobody Is Talking About
+## Episode 001: How the Workforce Is Evolving from Doers to Orchestrators
+
+**URL:** https://www.youtube.com/watch?v=XOCuxt9Q66E
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 002: Can AI Finally Help Defeat Pancreatic Cancer?
+
+**URL:** https://www.youtube.com/watch?v=1ocVW1RWrnc
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 003: The Bubble Machine: Why Hype Cycles Keep Repeating
+
+**URL:** https://www.youtube.com/watch?v=SwL9PkaNruU
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 004: AI Layoffs Don’t Boost Profits  The Human Advantage
+
+**URL:** https://www.youtube.com/watch?v=zWkWYBEXKWU
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 005: The Most Sophisticated Video Call Scam Ever
+
+**URL:** https://www.youtube.com/watch?v=I_yt6wdbm54
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 006: The Corporate Security System That Predicts and Acts
+
+**URL:** https://www.youtube.com/watch?v=shE6rds0QM0
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 007: Why Human in the Loop Fails AI Safety
+
+**URL:** https://www.youtube.com/watch?v=NE7YAAx548w
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 008: The Human Adaptation Problem - Free Audio Book
+
+**URL:** https://www.youtube.com/watch?v=x-rtG2Qvfi0
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 009: When AI Systems Collide  The Hidden Infrastructure Risk
+
+**URL:** https://www.youtube.com/watch?v=pOBSwdSy2nE
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 010: Your AI Skills Are Already Outdated (Here's Why)
+
+**URL:** https://www.youtube.com/watch?v=Af4kv7EjmA8
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 011: When AI Reroutes a Supply Chain Before Sunrise
+
+**URL:** https://www.youtube.com/watch?v=RQM5Fmzh7y0
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 012: The 109-to-1 AI Workforce Nobody Is Talking About
 
 **URL:** https://www.youtube.com/watch?v=kBSDP7NMGuw
 
@@ -10,7 +109,7 @@
 **Summary:** _not generated_
 
 
-## Episode 002: The Genius in the Mess
+## Episode 013: The Genius in the Mess
 
 **URL:** https://www.youtube.com/watch?v=yrlbUVd9kS4
 
@@ -19,7 +118,7 @@
 **Summary:** _not generated_
 
 
-## Episode 003: When AI Escaped the Sandbox
+## Episode 014: Why AI Sandboxes Aren't Actually Safe
 
 **URL:** https://www.youtube.com/watch?v=oTAPUfSRs-M
 
@@ -28,7 +127,7 @@
 **Summary:** _not generated_
 
 
-## Episode 004: The Bridge Between Quantum Physics and Existence
+## Episode 015: The Bridge Between Quantum Physics and Existence
 
 **URL:** https://www.youtube.com/watch?v=GQpa2IcwJ-I
 
@@ -37,7 +136,7 @@
 **Summary:** _not generated_
 
 
-## Episode 005: Your Detection Methods Are Already Falling Behind
+## Episode 016: Your Detection Methods Are Already Falling Behind
 
 **URL:** https://www.youtube.com/watch?v=7LAgPbng_48
 
@@ -46,7 +145,7 @@
 **Summary:** _not generated_
 
 
-## Episode 006: Your Next Career Move Depends on This
+## Episode 017: Your Next Career Move Depends on This
 
 **URL:** https://www.youtube.com/watch?v=Ie4U4BCezBs
 
@@ -55,7 +154,7 @@
 **Summary:** _not generated_
 
 
-## Episode 007: Synthetic HUMINT  When Faces Stop Proving People
+## Episode 018: Synthetic HUMINT  When Faces Stop Proving People
 
 **URL:** https://www.youtube.com/watch?v=qVXunRDkkjk
 
@@ -64,7 +163,7 @@
 **Summary:** _not generated_
 
 
-## Episode 008: Why AI's Greatest Strength Is Its Fatal Weakness
+## Episode 019: Why AI's Greatest Strength Is Its Fatal Weakness
 
 **URL:** https://www.youtube.com/watch?v=aBF1HRCON4U
 
@@ -73,7 +172,7 @@
 **Summary:** _not generated_
 
 
-## Episode 009: CEO vs AI: Who's Really in Control?
+## Episode 020: CEO vs AI: Who's Really in Control?
 
 **URL:** https://www.youtube.com/watch?v=54PWmS5CG2A
 
@@ -82,7 +181,7 @@
 **Summary:** _not generated_
 
 
-## Episode 010: The Breaking Point Between AI and Human Labor
+## Episode 021: The Breaking Point Between AI and Human Labor
 
 **URL:** https://www.youtube.com/watch?v=5K9JZxaVtcY
 
@@ -91,7 +190,7 @@
 **Summary:** _not generated_
 
 
-## Episode 011: Your Next Manager Won't Be Human
+## Episode 022: Your Next Manager Won't Be Human
 
 **URL:** https://www.youtube.com/watch?v=1sWc3rd9O7A
 
@@ -100,7 +199,7 @@
 **Summary:** _not generated_
 
 
-## Episode 012: The Great Compression  AI, Quantum, and the Collapse of Time
+## Episode 023: The Great Compression  AI, Quantum, and the Collapse of Time
 
 **URL:** https://www.youtube.com/watch?v=3A-bPJRrRm8
 
@@ -109,7 +208,7 @@
 **Summary:** _not generated_
 
 
-## Episode 013: Who Are You Beneath the Masks You Wear?
+## Episode 024: Who Are You Beneath the Masks You Wear?
 
 **URL:** https://www.youtube.com/watch?v=CZSOv4ArVWY
 
@@ -118,7 +217,7 @@
 **Summary:** _not generated_
 
 
-## Episode 014: AI Isn't the Challenge—Human Adaptation Is
+## Episode 025: AI Isn't the Challenge—Human Adaptation Is
 
 **URL:** https://www.youtube.com/watch?v=X00QgD7NexU
 
@@ -127,7 +226,7 @@
 **Summary:** _not generated_
 
 
-## Episode 015: Your Job Just Got Optimized Out of Existence
+## Episode 026: Your Job Just Got Optimized Out of Existence
 
 **URL:** https://www.youtube.com/watch?v=cJiN7QbuNjk
 
@@ -136,7 +235,7 @@
 **Summary:** _not generated_
 
 
-## Episode 016: When a Customer First Chatbot Started Giving Away Trucks
+## Episode 027: When a Customer First Chatbot Started Giving Away Trucks
 
 **URL:** https://www.youtube.com/watch?v=svMI6eKo3cw
 
@@ -145,7 +244,7 @@
 **Summary:** _not generated_
 
 
-## Episode 017: Everything You Know About the Green Circle is a total lie
+## Episode 028: Everything You Know About the Green Circle is a total lie
 
 **URL:** https://www.youtube.com/watch?v=0qOybRZtL5Q
 
@@ -154,7 +253,7 @@
 **Summary:** _not generated_
 
 
-## Episode 018: AI vs Corruption  The Invisible Handshake
+## Episode 029: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
@@ -163,7 +262,7 @@
 **Summary:** _not generated_
 
 
-## Episode 019: AI Malware Just Ruined Everything in Seconds
+## Episode 030: AI Malware Just Ruined Everything in Seconds
 
 **URL:** https://www.youtube.com/watch?v=SVtVVt_gF2Y
 
@@ -172,7 +271,7 @@
 **Summary:** _not generated_
 
 
-## Episode 020: When AI Says No, Humans Can't Override It
+## Episode 031: When AI Says No, Humans Can't Override It
 
 **URL:** https://www.youtube.com/watch?v=H2oA5lJkdQs
 
@@ -181,7 +280,7 @@
 **Summary:** _not generated_
 
 
-## Episode 021: Why Companies Are Paying Extra for Human Decision-Making
+## Episode 032: Why Companies Are Paying Extra for Human Decision-Making
 
 **URL:** https://www.youtube.com/watch?v=h9DgDCHJTig
 
@@ -190,7 +289,7 @@
 **Summary:** _not generated_
 
 
-## Episode 022: When the Dashboard Lies   The Invisible Dashboard
+## Episode 033: When the Dashboard Lies   The Invisible Dashboard
 
 **URL:** https://www.youtube.com/watch?v=l8cAzSuYmRM
 
@@ -199,7 +298,7 @@
 **Summary:** _not generated_
 
 
-## Episode 023: You’re Not Failing. You’re in the Wrong Room.
+## Episode 034: You’re Not Failing. You’re in the Wrong Room.
 
 **URL:** https://www.youtube.com/watch?v=3QgxtOtAObY
 
@@ -208,7 +307,7 @@
 **Summary:** _not generated_
 
 
-## Episode 024: 人口減少時代を支えるAIと人間らしさ
+## Episode 035: 人口減少時代を支えるAIと人間らしさ
 
 **URL:** https://www.youtube.com/watch?v=NkcMjaNixTM
 
@@ -217,7 +316,7 @@
 **Summary:** _not generated_
 
 
-## Episode 025: The Trinity Jumpstart Method: Your New Competitive Advantage
+## Episode 036: The Trinity Jumpstart Method: Your New Competitive Advantage
 
 **URL:** https://www.youtube.com/watch?v=Rb8QOb2TXKg
 
@@ -226,7 +325,7 @@
 **Summary:** _not generated_
 
 
-## Episode 026: When Your Sleep Data Costs You a Mortgage
+## Episode 037: When Your Sleep Data Costs You a Mortgage
 
 **URL:** https://www.youtube.com/watch?v=bRM7eraA-d0
 
@@ -235,7 +334,7 @@
 **Summary:** _not generated_
 
 
-## Episode 027: 250 Years of the American Human Workforce
+## Episode 038: 250 Years of the American Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=3svmyZpAHIk
 
@@ -244,7 +343,7 @@
 **Summary:** _not generated_
 
 
-## Episode 028: Generative AI Is Quietly Reshaping Work
+## Episode 039: Generative AI Is Quietly Reshaping Work
 
 **URL:** https://www.youtube.com/watch?v=E0zW551UfWA
 
@@ -253,7 +352,7 @@
 **Summary:** _not generated_
 
 
-## Episode 029: She Came to Work Every Day and Made Zero Hiring Decisions
+## Episode 040: She Came to Work Every Day and Made Zero Hiring Decisions
 
 **URL:** https://www.youtube.com/watch?v=zCKyRiq5rgs
 
@@ -262,7 +361,7 @@
 **Summary:** _not generated_
 
 
-## Episode 030: The Insider Isn't Human Anymore
+## Episode 041: The Insider Isn't Human Anymore
 
 **URL:** https://www.youtube.com/watch?v=u4d6Ym2il1w
 
@@ -271,7 +370,7 @@
 **Summary:** _not generated_
 
 
-## Episode 031: From Labor Arbitrage to Agent Bosses
+## Episode 042: From Labor Arbitrage to Agent Bosses
 
 **URL:** https://www.youtube.com/watch?v=6LutKv6Ooy8
 
@@ -280,7 +379,7 @@
 **Summary:** _not generated_
 
 
-## Episode 032: The Human Disadvantage | A Free Audiobook for Professionals Navigating AI
+## Episode 043: The Human Disadvantage | A Free Audiobook for Professionals Navigating AI
 
 **URL:** https://www.youtube.com/watch?v=LLdfdtNffuY
 
@@ -289,7 +388,7 @@
 **Summary:** _not generated_
 
 
-## Episode 033: Elena's Double Life Inside Corporate America
+## Episode 044: Elena's Double Life Inside Corporate America
 
 **URL:** https://www.youtube.com/watch?v=GsvgR29ml1U
 
@@ -298,7 +397,7 @@
 **Summary:** _not generated_
 
 
-## Episode 034: AI Layoffs, Forced Rankings, and the Cost of Fear
+## Episode 045: AI Layoffs, Forced Rankings, and the Cost of Fear
 
 **URL:** https://www.youtube.com/watch?v=zMvUfZJ_a3E
 
@@ -307,7 +406,7 @@
 **Summary:** _not generated_
 
 
-## Episode 035: When AI Fakes Reality, Who Do We Trust
+## Episode 046: When AI Fakes Reality, Who Do We Trust
 
 **URL:** https://www.youtube.com/watch?v=GUEqT-nY2o0
 
@@ -316,7 +415,7 @@
 **Summary:** _not generated_
 
 
-## Episode 036: What If AI Made You More Valuable, Not Less?
+## Episode 047: What If AI Made You More Valuable, Not Less?
 
 **URL:** https://www.youtube.com/watch?v=sJL-9LIgSz4
 
@@ -325,7 +424,7 @@
 **Summary:** _not generated_
 
 
-## Episode 037: From Experience to Infinite Leverage | An Audio Book for Professionals
+## Episode 048: From Experience to Infinite Leverage | An Audio Book for Professionals
 
 **URL:** https://www.youtube.com/watch?v=b4kdK5EaTKA
 
@@ -334,7 +433,7 @@
 **Summary:** _not generated_
 
 
-## Episode 038: The Agentic Insider: When AI Becomes the Threat Inside Your Organization | Full Audiobook
+## Episode 049: The Agentic Insider: When AI Becomes the Threat Inside Your Organization | Full Audiobook
 
 **URL:** https://www.youtube.com/watch?v=hTv9MG3KOyo
 
@@ -343,7 +442,7 @@
 **Summary:** _not generated_
 
 
-## Episode 039: AI Phishing en de Onwetende Geldezel
+## Episode 050: AI Phishing en de Onwetende Geldezel
 
 **URL:** https://www.youtube.com/watch?v=lnHWXgVgicY
 
@@ -352,7 +451,7 @@
 **Summary:** _not generated_
 
 
-## Episode 040: Agentic AI in the Corporate Arena
+## Episode 051: Agentic AI in the Corporate Arena
 
 **URL:** https://www.youtube.com/watch?v=5CO_guu0RvA
 
@@ -361,7 +460,7 @@
 **Summary:** _not generated_
 
 
-## Episode 041: Why AI Is Becoming a National Security Issue
+## Episode 052: Why AI Is Becoming a National Security Issue
 
 **URL:** https://www.youtube.com/watch?v=ucjz89rxM7w
 
@@ -370,7 +469,7 @@
 **Summary:** _not generated_
 
 
-## Episode 042: AI Isn't Your Enemy—Being Unprepared Is
+## Episode 053: AI Isn't Your Enemy—Being Unprepared Is
 
 **URL:** https://www.youtube.com/watch?v=dPDxVhefcHU
 
@@ -379,7 +478,7 @@
 **Summary:** _not generated_
 
 
-## Episode 043: The Question Isn't Whether AI Changes Your Job—It's This
+## Episode 054: The Question Isn't Whether AI Changes Your Job—It's This
 
 **URL:** https://www.youtube.com/watch?v=0PmEqipqaPw
 
@@ -388,7 +487,7 @@
 **Summary:** _not generated_
 
 
-## Episode 044: Why Your Organization Is Missing What Extraordinary Leaders Know
+## Episode 055: Why Your Organization Is Missing What Extraordinary Leaders Know
 
 **URL:** https://www.youtube.com/watch?v=rv9X_Zm2Ndw
 
@@ -397,7 +496,7 @@
 **Summary:** _not generated_
 
 
-## Episode 045: The Day the Insider Stopped Being Human
+## Episode 056: The Day the Insider Stopped Being Human
 
 **URL:** https://www.youtube.com/watch?v=U7-cKoIv9Nw
 
@@ -406,7 +505,7 @@
 **Summary:** _not generated_
 
 
-## Episode 046: Agentic AI and the Swarm Attack Era
+## Episode 057: Agentic AI and the Swarm Attack Era
 
 **URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
 
@@ -415,7 +514,7 @@
 **Summary:** _not generated_
 
 
-## Episode 047: They Didn't Announce Layoffs. They Made People Leave.
+## Episode 058: They Didn't Announce Layoffs. They Made People Leave.
 
 **URL:** https://www.youtube.com/watch?v=kAbsP1c8skg
 
@@ -424,7 +523,7 @@
 **Summary:** _not generated_
 
 
-## Episode 048: When Your Coworker Is Actually AI
+## Episode 059: When Your Coworker Is Actually AI
 
 **URL:** https://www.youtube.com/watch?v=QJMqlrQlHt4
 
@@ -433,7 +532,7 @@
 **Summary:** _not generated_
 
 
-## Episode 049: AI at ang Kinabukasan ng BPO ng Pilipinas
+## Episode 060: AI at ang Kinabukasan ng BPO ng Pilipinas
 
 **URL:** https://www.youtube.com/watch?v=_l9sxTRmZVs
 
@@ -442,7 +541,7 @@
 **Summary:** _not generated_
 
 
-## Episode 050: Why AI Needs a Council, Not a King
+## Episode 061: Why AI Needs a Council, Not a King
 
 **URL:** https://www.youtube.com/watch?v=F_BnwSTrmsU
 
@@ -451,7 +550,7 @@
 **Summary:** _not generated_
 
 
-## Episode 051: The Death of the Dossier  Defending Reality Against AI Swarms
+## Episode 062: The Death of the Dossier  Defending Reality Against AI Swarms
 
 **URL:** https://www.youtube.com/watch?v=QjWiBFkOEIY
 
@@ -460,7 +559,7 @@
 **Summary:** _not generated_
 
 
-## Episode 052: When AI Becomes the Workplace Lie Detector 1
+## Episode 063: When AI Becomes the Workplace Lie Detector 1
 
 **URL:** https://www.youtube.com/watch?v=f-zxpA2iNlA
 
@@ -469,7 +568,7 @@
 **Summary:** _not generated_
 
 
-## Episode 053: La IA está borrando el primer escalón laboral
+## Episode 064: La IA está borrando el primer escalón laboral
 
 **URL:** https://www.youtube.com/watch?v=Lt3dTPM-xtw
 
@@ -478,7 +577,7 @@
 **Summary:** _not generated_
 
 
-## Episode 054: When AI Outruns Human Judgment
+## Episode 065: When AI Outruns Human Judgment
 
 **URL:** https://www.youtube.com/watch?v=VwznSiRvYR8
 
@@ -487,7 +586,7 @@
 **Summary:** _not generated_
 
 
-## Episode 055: Humanoid Robots and the Labor Shortage That’s Reshaping Work
+## Episode 066: Humanoid Robots and the Labor Shortage That’s Reshaping Work
 
 **URL:** https://www.youtube.com/watch?v=zxUfl7UyduE
 
@@ -496,7 +595,7 @@
 **Summary:** _not generated_
 
 
-## Episode 056: Agentes Digitais e o Futuro do Trabalho Lusófono
+## Episode 067: Agentes Digitais e o Futuro do Trabalho Lusófono
 
 **URL:** https://www.youtube.com/watch?v=RvF039WQ_wA
 
@@ -505,7 +604,7 @@
 **Summary:** _not generated_
 
 
-## Episode 057: When AI Becomes Too Powerful to Ship
+## Episode 068: When AI Becomes Too Powerful to Ship
 
 **URL:** https://www.youtube.com/watch?v=EPb-vfo9vWw
 
@@ -514,7 +613,7 @@
 **Summary:** _not generated_
 
 
-## Episode 058: AI Skill Libraries  The Next Layer of Enterprise Intelligence
+## Episode 069: AI Skill Libraries  The Next Layer of Enterprise Intelligence
 
 **URL:** https://www.youtube.com/watch?v=4VdZKLEdlR4
 
@@ -523,7 +622,7 @@
 **Summary:** _not generated_
 
 
-## Episode 059: When AI Agents Go Rogue  Prompt Injection and Oversight
+## Episode 070: When AI Agents Go Rogue  Prompt Injection and Oversight
 
 **URL:** https://www.youtube.com/watch?v=iL-finalN_c
 
@@ -532,7 +631,7 @@
 **Summary:** _not generated_
 
 
-## Episode 060: Work  Centaurs, Cyborgs, and the Perils of Trust
+## Episode 071: Work  Centaurs, Cyborgs, and the Perils of Trust
 
 **URL:** https://www.youtube.com/watch?v=eA-mdZM8Sgc
 
@@ -541,7 +640,7 @@
 **Summary:** _not generated_
 
 
-## Episode 061: Work and the Rise of Autonomous AI Agents
+## Episode 072: Work and the Rise of Autonomous AI Agents
 
 **URL:** https://www.youtube.com/watch?v=LClaFOXtW7c
 
@@ -550,7 +649,7 @@
 **Summary:** _not generated_
 
 
-## Episode 062: The 2026 AI Compliance Crunch  When Every Prompt Becomes Evidence
+## Episode 073: The 2026 AI Compliance Crunch  When Every Prompt Becomes Evidence
 
 **URL:** https://www.youtube.com/watch?v=TNSMkBDKbgI
 
@@ -559,7 +658,7 @@
 **Summary:** _not generated_
 
 
-## Episode 063: Humanos en la Era de la IA  El Verdadero Factor Diferencial
+## Episode 074: Humanos en la Era de la IA  El Verdadero Factor Diferencial
 
 **URL:** https://www.youtube.com/watch?v=17S4jmPV6Y8
 
@@ -568,7 +667,7 @@
 **Summary:** _not generated_
 
 
-## Episode 064: The Silicon Sieve  AI and the Future of Financial Crime Detection
+## Episode 075: The Silicon Sieve  AI and the Future of Financial Crime Detection
 
 **URL:** https://www.youtube.com/watch?v=0gRQYUBSweU
 
@@ -577,7 +676,7 @@
 **Summary:** _not generated_
 
 
-## Episode 065: AI Counterintelligence, Deepfakes, and the End of Anonymity
+## Episode 076: AI Counterintelligence, Deepfakes, and the End of Anonymity
 
 **URL:** https://www.youtube.com/watch?v=2KNcMSKYkpY
 
@@ -586,7 +685,7 @@
 **Summary:** _not generated_
 
 
-## Episode 066: Europe’s AI Rulebook  Bias, Surveillance, and the Brussels Effect
+## Episode 077: Europe’s AI Rulebook  Bias, Surveillance, and the Brussels Effect
 
 **URL:** https://www.youtube.com/watch?v=fhyTFqyptMo
 
@@ -595,7 +694,7 @@
 **Summary:** _not generated_
 
 
-## Episode 067: AI sem pessoas não gera lucro
+## Episode 078: AI sem pessoas não gera lucro
 
 **URL:** https://www.youtube.com/watch?v=U4Q5zbpvN9I
 
@@ -604,7 +703,7 @@
 **Summary:** _not generated_
 
 
-## Episode 068: AI Counterintelligence, Deepfakes, and the End of Anonymity
+## Episode 079: AI Counterintelligence, Deepfakes, and the End of Anonymity
 
 **URL:** https://www.youtube.com/watch?v=w3-Tj3rtXi8
 
@@ -613,7 +712,7 @@
 **Summary:** _not generated_
 
 
-## Episode 069: AI Hype, Corporate Narratives, and the Human Workforce
+## Episode 080: AI Hype, Corporate Narratives, and the Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=u9N7w_tmC0s
 
@@ -622,7 +721,7 @@
 **Summary:** _not generated_
 
 
-## Episode 070: Shadow AI: The Silent Revolution Transforming Work Before Leaders Notice
+## Episode 081: Shadow AI: The Silent Revolution Transforming Work Before Leaders Notice
 
 **URL:** https://www.youtube.com/watch?v=R37YkMPW3QI
 
@@ -631,7 +730,7 @@
 **Summary:** _not generated_
 
 
-## Episode 071: AI Red Teams  How Agentic AI Thinks Like an Attacker
+## Episode 082: AI Red Teams  How Agentic AI Thinks Like an Attacker
 
 **URL:** https://www.youtube.com/watch?v=RzHHYmV40dE
 
@@ -640,7 +739,7 @@
 **Summary:** _not generated_
 
 
-## Episode 072: Course 3   Understanding AI Governance and the AIGP Certification
+## Episode 083: Course 3   Understanding AI Governance and the AIGP Certification
 
 **URL:** https://www.youtube.com/watch?v=62TkirkF4p0
 
@@ -649,7 +748,7 @@
 **Summary:** _not generated_
 
 
-## Episode 073: AI Layoffs Don’t Boost Profits  The Human Advantage 1
+## Episode 084: AI Layoffs Don’t Boost Profits  The Human Advantage 1
 
 **URL:** https://www.youtube.com/watch?v=LivL91WaFqk
 
@@ -658,7 +757,7 @@
 **Summary:** _not generated_
 
 
-## Episode 074: When AI Sounds Panicked or confused, Humans Start Believing It
+## Episode 085: When AI Sounds Panicked or confused, Humans Start Believing It
 
 **URL:** https://www.youtube.com/watch?v=-zCdDx1kHrw
 
@@ -667,7 +766,7 @@
 **Summary:** _not generated_
 
 
-## Episode 075: From Logins to Corporate-Espionage  AI, Deepfakes, and Zero Trust
+## Episode 086: From Logins to Corporate-Espionage  AI, Deepfakes, and Zero Trust
 
 **URL:** https://www.youtube.com/watch?v=fUqJZLC2GL4
 
@@ -676,7 +775,7 @@
 **Summary:** _not generated_
 
 
-## Episode 076: A Voice First AI Revolution
+## Episode 087: A Voice First AI Revolution
 
 **URL:** https://www.youtube.com/watch?v=bpoa5WKDbys
 
@@ -685,7 +784,7 @@
 **Summary:** _not generated_
 
 
-## Episode 077: AI Boom or Bubble  The Human Future at Risk
+## Episode 088: AI Boom or Bubble  The Human Future at Risk
 
 **URL:** https://www.youtube.com/watch?v=UH_Z81xiFBs
 
@@ -694,7 +793,7 @@
 **Summary:** _not generated_
 
 
-## Episode 078: The AI Control Problem
+## Episode 089: The AI Control Problem
 
 **URL:** https://www.youtube.com/watch?v=TlOCqT6e2Ps
 
@@ -703,7 +802,7 @@
 **Summary:** _not generated_
 
 
-## Episode 079: Ethics as a Termination Strategy
+## Episode 090: Ethics as a Termination Strategy
 
 **URL:** https://www.youtube.com/watch?v=0EJvLkTX6G8
 
@@ -712,7 +811,7 @@
 **Summary:** _not generated_
 
 
-## Episode 080: From AI Pilots to Autonomous Enterprise
+## Episode 091: From AI Pilots to Autonomous Enterprise
 
 **URL:** https://www.youtube.com/watch?v=MBYm8fEPOqY
 
@@ -721,7 +820,7 @@
 **Summary:** _not generated_
 
 
-## Episode 081: When AI Makes Scams Look Legit
+## Episode 092: When AI Makes Scams Look Legit
 
 **URL:** https://www.youtube.com/watch?v=s-8EteJ57lU
 
@@ -730,7 +829,7 @@
 **Summary:** _not generated_
 
 
-## Episode 082: The Trillion Dollar AI Reality Check
+## Episode 093: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
@@ -739,7 +838,7 @@
 **Summary:** _not generated_
 
 
-## Episode 083: AI Won’t Replace Engineers—It Raises the Stakes
+## Episode 094: AI Won’t Replace Engineers—It Raises the Stakes
 
 **URL:** https://www.youtube.com/watch?v=FTbl2wMeZj4
 
@@ -748,7 +847,7 @@
 **Summary:** _not generated_
 
 
-## Episode 084: Layered Down  How Reorgs Quietly Demote Teams
+## Episode 095: Layered Down  How Reorgs Quietly Demote Teams
 
 **URL:** https://www.youtube.com/watch?v=OrDPW3gIN9M
 
@@ -757,7 +856,7 @@
 **Summary:** _not generated_
 
 
-## Episode 085: The Regret Curve  When AI Replaces Too Much, Too Fast
+## Episode 096: The Regret Curve  When AI Replaces Too Much, Too Fast
 
 **URL:** https://www.youtube.com/watch?v=0km1iTMPCPE
 
@@ -766,7 +865,7 @@
 **Summary:** _not generated_
 
 
-## Episode 086: When AI Stops Waiting  The Rise of Synthetic Workforces
+## Episode 097: When AI Stops Waiting  The Rise of Synthetic Workforces
 
 **URL:** https://www.youtube.com/watch?v=JvjiFLdYQQY
 
@@ -775,7 +874,7 @@
 **Summary:** _not generated_
 
 
-## Episode 087: When AI Stops Assisting and Starts Deciding
+## Episode 098: When AI Stops Assisting and Starts Deciding
 
 **URL:** https://www.youtube.com/watch?v=bKeXvlTfV48
 
@@ -784,7 +883,7 @@
 **Summary:** _not generated_
 
 
-## Episode 088: The Catastrophe Gap  - Navigating the Limits of AI Control
+## Episode 099: The Catastrophe Gap  - Navigating the Limits of AI Control
 
 **URL:** https://www.youtube.com/watch?v=G9hOJyWPCic
 
@@ -793,7 +892,7 @@
 **Summary:** _not generated_
 
 
-## Episode 089: AI Is Replacing the Corporate Middle
+## Episode 100: AI Is Replacing the Corporate Middle
 
 **URL:** https://www.youtube.com/watch?v=-wq06zD82pw
 
@@ -802,7 +901,7 @@
 **Summary:** _not generated_
 
 
-## Episode 090: When Workers Become Training Data
+## Episode 101: When Workers Become Training Data
 
 **URL:** https://www.youtube.com/watch?v=6TIGl_8KWOY
 
@@ -811,7 +910,7 @@
 **Summary:** _not generated_
 
 
-## Episode 091: The AI Layoff Trap  Why Over Automation Hurts Everyone
+## Episode 102: The AI Layoff Trap  Why Over Automation Hurts Everyone
 
 **URL:** https://www.youtube.com/watch?v=PyM_VqDmNp8
 
@@ -820,7 +919,7 @@
 **Summary:** _not generated_
 
 
-## Episode 092: Inside the AI Driven Insider Threat
+## Episode 103: Inside the AI Driven Insider Threat
 
 **URL:** https://www.youtube.com/watch?v=E5KnDgkwXUQ
 
@@ -829,7 +928,7 @@
 **Summary:** _not generated_
 
 
-## Episode 093: Autonomous Trucks and the New Freight Economy
+## Episode 104: Autonomous Trucks and the New Freight Economy
 
 **URL:** https://www.youtube.com/watch?v=2meHM8VYi1M
 
@@ -838,7 +937,7 @@
 **Summary:** _not generated_
 
 
-## Episode 094: AI Needs Control, Not Blind Trust
+## Episode 105: AI Needs Control, Not Blind Trust
 
 **URL:** https://www.youtube.com/watch?v=c2OzsCzHDlk
 
@@ -847,7 +946,7 @@
 **Summary:** _not generated_
 
 
-## Episode 095: Mythos  The Operational Risk Hiding in AI
+## Episode 106: Mythos  The Operational Risk Hiding in AI
 
 **URL:** https://www.youtube.com/watch?v=2atqsFo4Wao
 
@@ -856,7 +955,7 @@
 **Summary:** _not generated_
 
 
-## Episode 096: AI Cover Stories and the Liability Loophole
+## Episode 107: AI Cover Stories and the Liability Loophole
 
 **URL:** https://www.youtube.com/watch?v=s7Xy_si7Ql0
 
@@ -865,7 +964,7 @@
 **Summary:** _not generated_
 
 
-## Episode 097: The Algorithmic Gatekeeper  When AI Rejects You First
+## Episode 108: The Algorithmic Gatekeeper  When AI Rejects You First
 
 **URL:** https://www.youtube.com/watch?v=6eq9tYFCjkY
 
@@ -874,7 +973,7 @@
 **Summary:** _not generated_
 
 
-## Episode 098: When AI Starts Training on Its Own Echo
+## Episode 109: When AI Starts Training on Its Own Echo
 
 **URL:** https://www.youtube.com/watch?v=IKbzy-7AaU4
 
@@ -883,7 +982,7 @@
 **Summary:** _not generated_
 
 
-## Episode 099: When AI Replaces Managers, What Gets Lost
+## Episode 110: When AI Replaces Managers, What Gets Lost
 
 **URL:** https://www.youtube.com/watch?v=97coLf7y-TE
 
@@ -892,7 +991,7 @@
 **Summary:** _not generated_
 
 
-## Episode 100: How Files and Search Engines Quietly Leak Secrets
+## Episode 111: How Files and Search Engines Quietly Leak Secrets
 
 **URL:** https://www.youtube.com/watch?v=9XrDuutuymw
 
@@ -901,7 +1000,7 @@
 **Summary:** _not generated_
 
 
-## Episode 101: AEON and the Quiet Factory Revolution
+## Episode 112: AEON and the Quiet Factory Revolution
 
 **URL:** https://www.youtube.com/watch?v=i403KVAk1i8
 
@@ -910,7 +1009,7 @@
 **Summary:** _not generated_
 
 
-## Episode 102: The Great AI Career Shuffle  Who Moves Up, Who Gets Left Out
+## Episode 113: The Great AI Career Shuffle  Who Moves Up, Who Gets Left Out
 
 **URL:** https://www.youtube.com/watch?v=TWXgYeA-dUQ
 
@@ -919,7 +1018,7 @@
 **Summary:** _not generated_
 
 
-## Episode 103: The Comfort Illusion  Why Workers Don’t Fear AI
+## Episode 114: The Comfort Illusion  Why Workers Don’t Fear AI
 
 **URL:** https://www.youtube.com/watch?v=dj09CoXr_d4
 
@@ -928,7 +1027,7 @@
 **Summary:** _not generated_
 
 
-## Episode 104: The Ethical Debt of Moving Too Fast
+## Episode 115: The Ethical Debt of Moving Too Fast
 
 **URL:** https://www.youtube.com/watch?v=WMyGdjk5pKk
 
@@ -937,7 +1036,7 @@
 **Summary:** _not generated_
 
 
-## Episode 105: Your Work Is Being Measured in the Shadows
+## Episode 116: Your Work Is Being Measured in the Shadows
 
 **URL:** https://www.youtube.com/watch?v=gb4BKeB6LZU
 
@@ -946,7 +1045,7 @@
 **Summary:** _not generated_
 
 
-## Episode 106: Digital Subversion  How AI Pollutes the Public Well
+## Episode 117: Digital Subversion  How AI Pollutes the Public Well
 
 **URL:** https://www.youtube.com/watch?v=JINcd7RWujk
 
@@ -955,7 +1054,7 @@
 **Summary:** _not generated_
 
 
-## Episode 107: When AI Efficiency Becomes an Automation Arms Race
+## Episode 118: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
@@ -964,7 +1063,7 @@
 **Summary:** _not generated_
 
 
-## Episode 108: Why Agentic AI Makes Workers Feel Replaceable
+## Episode 119: Why Agentic AI Makes Workers Feel Replaceable
 
 **URL:** https://www.youtube.com/watch?v=Jh6tSkJ8JCk
 
@@ -973,7 +1072,7 @@
 **Summary:** _not generated_
 
 
-## Episode 109: Human in the Loop or Just a Rubber Stamp
+## Episode 120: Human in the Loop or Just a Rubber Stamp
 
 **URL:** https://www.youtube.com/watch?v=SAnjXK_2CiQ
 
@@ -982,7 +1081,7 @@
 **Summary:** _not generated_
 
 
-## Episode 110: From Admin Tasks to Superwoman AI Orchestrator
+## Episode 121: From Admin Tasks to Superwoman AI Orchestrator
 
 **URL:** https://www.youtube.com/watch?v=U0FUsBI2FrQ
 
@@ -991,7 +1090,7 @@
 **Summary:** _not generated_
 
 
-## Episode 111: AI at Machine Speed  The Cybersecurity Tipping Point
+## Episode 122: AI at Machine Speed  The Cybersecurity Tipping Point
 
 **URL:** https://www.youtube.com/watch?v=ohGCQ52QUdE
 
@@ -1000,7 +1099,7 @@
 **Summary:** _not generated_
 
 
-## Episode 112: Embedded AI, Not AI Chaos
+## Episode 123: Embedded AI, Not AI Chaos
 
 **URL:** https://www.youtube.com/watch?v=zf3lDP3Wqis
 
@@ -1009,7 +1108,7 @@
 **Summary:** _not generated_
 
 
-## Episode 113: When AI Becomes Infrastructure
+## Episode 124: When AI Becomes Infrastructure
 
 **URL:** https://www.youtube.com/watch?v=MX1T7ov-PoA
 
@@ -1018,7 +1117,7 @@
 **Summary:** _not generated_
 
 
-## Episode 114: The Great Job Illusion  Why Hiring Feels Fake
+## Episode 125: The Great Job Illusion  Why Hiring Feels Fake
 
 **URL:** https://www.youtube.com/watch?v=9IWCMxVDM-o
 
@@ -1027,7 +1126,7 @@
 **Summary:** _not generated_
 
 
-## Episode 115: From Schlitz to AI  When Efficiency Eats Trust
+## Episode 126: From Schlitz to AI  When Efficiency Eats Trust
 
 **URL:** https://www.youtube.com/watch?v=EVVZGQ-EZ-4
 
@@ -1036,7 +1135,7 @@
 **Summary:** _not generated_
 
 
-## Episode 116: Why the Company Deal Is Breaking and the Rise of Sovereign Specialists
+## Episode 127: Why the Company Deal Is Breaking and the Rise of Sovereign Specialists
 
 **URL:** https://www.youtube.com/watch?v=p8J1bP8bO6Q
 
@@ -1045,7 +1144,7 @@
 **Summary:** _not generated_
 
 
-## Episode 117: The Bank That Never Sleeps  AI, Risk, and Compliance at Machine Speed
+## Episode 128: The Bank That Never Sleeps  AI, Risk, and Compliance at Machine Speed
 
 **URL:** https://www.youtube.com/watch?v=K0Yla0SjXpM
 
@@ -1054,7 +1153,7 @@
 **Summary:** _not generated_
 
 
-## Episode 118: The Cost of Silence at Work
+## Episode 129: The Cost of Silence at Work
 
 **URL:** https://www.youtube.com/watch?v=CR-95TPthDE
 
@@ -1063,7 +1162,7 @@
 **Summary:** _not generated_
 
 
-## Episode 119: When Chatbots Become Validators of Harm
+## Episode 130: When Chatbots Become Validators of Harm
 
 **URL:** https://www.youtube.com/watch?v=wXtvQ2Y1oek
 
@@ -1072,7 +1171,7 @@
 **Summary:** _not generated_
 
 
-## Episode 120: Why the 10x Engineer Myth Is Breaking Down
+## Episode 131: Why the 10x Engineer Myth Is Breaking Down
 
 **URL:** https://www.youtube.com/watch?v=IN37dOTQ-FI
 
@@ -1081,7 +1180,7 @@
 **Summary:** _not generated_
 
 
-## Episode 121: The AI Bubble Playbook  Hype, Judgment, and Hidden Labor
+## Episode 132: The AI Bubble Playbook  Hype, Judgment, and Hidden Labor
 
 **URL:** https://www.youtube.com/watch?v=SqbkPfa1L6U
 
@@ -1090,7 +1189,7 @@
 **Summary:** _not generated_
 
 
-## Episode 122: When Logging In Becomes the New Breaking In
+## Episode 133: When Logging In Becomes the New Breaking In
 
 **URL:** https://www.youtube.com/watch?v=xihtVFCn16o
 
@@ -1099,7 +1198,7 @@
 **Summary:** _not generated_
 
 
-## Episode 123: Lipstick on a Pig  Why Polish Can Hide Weakness
+## Episode 134: Lipstick on a Pig  Why Polish Can Hide Weakness
 
 **URL:** https://www.youtube.com/watch?v=SS3As5XrviA
 
@@ -1108,7 +1207,7 @@
 **Summary:** _not generated_
 
 
-## Episode 124: AI’s Gray Rhinos and Black Swans
+## Episode 135: AI’s Gray Rhinos and Black Swans
 
 **URL:** https://www.youtube.com/watch?v=ewa5H9gvaCM
 
@@ -1117,7 +1216,7 @@
 **Summary:** _not generated_
 
 
-## Episode 125: When Automation Cuts Costs and Customers
+## Episode 136: When Automation Cuts Costs and Customers
 
 **URL:** https://www.youtube.com/watch?v=VT3PSbBl5SE
 
@@ -1126,7 +1225,7 @@
 **Summary:** _not generated_
 
 
-## Episode 126: AI vs  Money Laundering  Stopping Cash Before It Vanishes
+## Episode 137: AI vs  Money Laundering  Stopping Cash Before It Vanishes
 
 **URL:** https://www.youtube.com/watch?v=RhOYvEfmxik
 
@@ -1135,7 +1234,7 @@
 **Summary:** _not generated_
 
 
-## Episode 127: Why AI Needs More Humans (to watch it)
+## Episode 138: Why AI Needs More Humans (to watch it)
 
 **URL:** https://www.youtube.com/watch?v=8tYypLMXRbo
 
@@ -1144,7 +1243,7 @@
 **Summary:** _not generated_
 
 
-## Episode 128: Polished Fiction  When AI Sounds Right but Isn’t
+## Episode 139: Polished Fiction  When AI Sounds Right but Isn’t
 
 **URL:** https://www.youtube.com/watch?v=h3tc5tSjcZI
 
@@ -1153,7 +1252,7 @@
 **Summary:** _not generated_
 
 
-## Episode 129: AI Exposes Weak Leadership, It Doesn’t Fix It
+## Episode 140: AI Exposes Weak Leadership, It Doesn’t Fix It
 
 **URL:** https://www.youtube.com/watch?v=zy2Z2d5p92k
 
@@ -1162,7 +1261,7 @@
 **Summary:** _not generated_
 
 
-## Episode 130: When AI Becomes The Default Voice
+## Episode 141: When AI Becomes The Default Voice
 
 **URL:** https://www.youtube.com/watch?v=8oLkHGX-FyA
 
@@ -1171,7 +1270,7 @@
 **Summary:** _not generated_
 
 
-## Episode 131: When Work Gets Quieter but Pressure Gets Louder
+## Episode 142: When Work Gets Quieter but Pressure Gets Louder
 
 **URL:** https://www.youtube.com/watch?v=Vnx4xogxBAU
 
@@ -1180,7 +1279,7 @@
 **Summary:** _not generated_
 
 
-## Episode 132: When High Performance Turns Into A Conduct Case
+## Episode 143: When High Performance Turns Into A Conduct Case
 
 **URL:** https://www.youtube.com/watch?v=Snggc24tXwk
 
@@ -1189,7 +1288,7 @@
 **Summary:** _not generated_
 
 
-## Episode 133: The Autonomous Employee When AI Starts Doing the Work
+## Episode 144: The Autonomous Employee When AI Starts Doing the Work
 
 **URL:** https://www.youtube.com/watch?v=1UhZ4HVe70I
 
@@ -1198,7 +1297,7 @@
 **Summary:** _not generated_
 
 
-## Episode 134: AI Confidence Is an Illusion
+## Episode 145: AI Confidence Is an Illusion
 
 **URL:** https://www.youtube.com/watch?v=IfKmWHZKs0o
 
@@ -1207,7 +1306,7 @@
 **Summary:** _not generated_
 
 
-## Episode 135: Regulating AI in Real Time SupTech and Oversight
+## Episode 146: Regulating AI in Real Time SupTech and Oversight
 
 **URL:** https://www.youtube.com/watch?v=8UtrZsxhiPw
 
@@ -1216,7 +1315,7 @@
 **Summary:** _not generated_
 
 
-## Episode 136: When AI Starts Thinking For You
+## Episode 147: When AI Starts Thinking For You
 
 **URL:** https://www.youtube.com/watch?v=1BBo4Tnqc58
 
@@ -1225,7 +1324,7 @@
 **Summary:** _not generated_
 
 
-## Episode 137: How to Land Work You’ll Actually Love
+## Episode 148: How to Land Work You’ll Actually Love
 
 **URL:** https://www.youtube.com/watch?v=4RRRPfDAShA
 
@@ -1234,7 +1333,7 @@
 **Summary:** _not generated_
 
 
-## Episode 138: AgenticAI  From Chatbots to Digital Teammates
+## Episode 149: AgenticAI  From Chatbots to Digital Teammates
 
 **URL:** https://www.youtube.com/watch?v=G1ZJKw-JXsc
 
@@ -1243,7 +1342,7 @@
 **Summary:** _not generated_
 
 
-## Episode 139: Over Skis Leadership: Proximity, Power, and the Human Cost of Shallow Management
+## Episode 150: Over Skis Leadership: Proximity, Power, and the Human Cost of Shallow Management
 
 **URL:** https://www.youtube.com/watch?v=zQbiq710ciw
 
@@ -1252,7 +1351,7 @@
 **Summary:** _not generated_
 
 
-## Episode 140: AI Paradox  Why We Use It but Don’t Trust It
+## Episode 151: AI Paradox  Why We Use It but Don’t Trust It
 
 **URL:** https://www.youtube.com/watch?v=RwYrz1L87iw
 
@@ -1261,7 +1360,7 @@
 **Summary:** _not generated_
 
 
-## Episode 141: How Bad Leadership Turns Teams Toxic
+## Episode 152: How Bad Leadership Turns Teams Toxic
 
 **URL:** https://www.youtube.com/watch?v=qb9rJivuveU
 
@@ -1270,7 +1369,7 @@
 **Summary:** _not generated_
 
 
-## Episode 142: When the Workplace Goes Quiet
+## Episode 153: When the Workplace Goes Quiet
 
 **URL:** https://www.youtube.com/watch?v=EponVCbI1w8
 
@@ -1279,7 +1378,7 @@
 **Summary:** _not generated_
 
 
-## Episode 143: The Vanishing Apprenticeship:  What Happens When AI Learns the Job Before People Do.
+## Episode 154: The Vanishing Apprenticeship:  What Happens When AI Learns the Job Before People Do.
 
 **URL:** https://www.youtube.com/watch?v=2zK5fLQohO8
 
@@ -1288,7 +1387,7 @@
 **Summary:** _not generated_
 
 
-## Episode 144: Harder to Replace  The New Rules of Job Security
+## Episode 155: Harder to Replace  The New Rules of Job Security
 
 **URL:** https://www.youtube.com/watch?v=Z-QgJu7EMZY
 
@@ -1297,7 +1396,7 @@
 **Summary:** _not generated_
 
 
-## Episode 145: The Ghost of GE  How Old School Rank and Yank Still Haunts Work Culture
+## Episode 156: The Ghost of GE  How Old School Rank and Yank Still Haunts Work Culture
 
 **URL:** https://www.youtube.com/watch?v=c76N8NVr-c8
 
@@ -1306,7 +1405,7 @@
 **Summary:** _not generated_
 
 
-## Episode 146: When Healthcare Efficiency Turns Cold
+## Episode 157: When Healthcare Efficiency Turns Cold
 
 **URL:** https://www.youtube.com/watch?v=Pq21DxO_hIU
 
@@ -1315,7 +1414,7 @@
 **Summary:** _not generated_
 
 
-## Episode 147: Welcome to The Human Workforce
+## Episode 158: Welcome to The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=ykBfA9UYIMg
 
@@ -1324,7 +1423,7 @@
 **Summary:** _not generated_
 
 
-## Episode 148: The First Real AI That Worked Against Humans
+## Episode 159: The First Real AI That Worked Against Humans
 
 **URL:** https://www.youtube.com/watch?v=eJxaxyRyPdk
 
@@ -1333,7 +1432,7 @@
 **Summary:** _not generated_
 
 
-## Episode 149: AI Work and the New Human Advantage
+## Episode 160: AI Work and the New Human Advantage
 
 **URL:** https://www.youtube.com/watch?v=PPTI2yKN9R8
 
@@ -1342,7 +1441,7 @@
 **Summary:** _not generated_
 
 
-## Episode 150: Episode 6  The Job You Already Have Is the One They’re Replacing—Unless You Change First
+## Episode 161: Episode 6  The Job You Already Have Is the One They’re Replacing—Unless You Change First
 
 **URL:** https://www.youtube.com/watch?v=vHKnqz6nDcY
 
@@ -1351,7 +1450,7 @@
 **Summary:** _not generated_
 
 
-## Episode 151: The AI Illusion  Why Companies Are Getting It Dangerously Wrong
+## Episode 162: The AI Illusion  Why Companies Are Getting It Dangerously Wrong
 
 **URL:** https://www.youtube.com/watch?v=xMOwbE4xQOY
 
@@ -1360,7 +1459,7 @@
 **Summary:** _not generated_
 
 
-## Episode 152: Don’t Let Them Live in the Matrix
+## Episode 163: Don’t Let Them Live in the Matrix
 
 **URL:** https://www.youtube.com/watch?v=cotQ60ULwPQ
 
@@ -1369,7 +1468,7 @@
 **Summary:** _not generated_
 
 
-## Episode 153: Episode 3  The Meeting Room Mirage and Strategic Spaghetti Management
+## Episode 164: Episode 3  The Meeting Room Mirage and Strategic Spaghetti Management
 
 **URL:** https://www.youtube.com/watch?v=GYLNUItueI8
 
@@ -1378,7 +1477,7 @@
 **Summary:** _not generated_
 
 
-## Episode 154: The Fog Machine AI Ambiguity and the Quiet Push Out.
+## Episode 165: The Fog Machine AI Ambiguity and the Quiet Push Out.
 
 **URL:** https://www.youtube.com/watch?v=miEnnrV-jLM
 
@@ -1387,7 +1486,7 @@
 **Summary:** _not generated_
 
 
-## Episode 155: Leadership, Power, and the Workforce in the Age of AI
+## Episode 166: Leadership, Power, and the Workforce in the Age of AI
 
 **URL:** https://www.youtube.com/watch?v=0_t1wqxTMYg
 
@@ -1396,7 +1495,133 @@
 **Summary:** _not generated_
 
 
-## Episode 156: The One Thing Machines Can't Replace #ai #jobs #skills
+## Episode 167: Companies Realized AI Without Humans Is Useless #ai #layoffs #trending
+
+**URL:** https://www.youtube.com/watch?v=qM2qxPTkPr0
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 168: These Workers Got Replaced by AI Yesterday #Automation #FutureOfWork
+
+**URL:** https://www.youtube.com/watch?v=pHpAQlrjQNc
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 169: Your identity vs their dialect #corporatelife #trueself
+
+**URL:** https://www.youtube.com/watch?v=-ZYYLue1ItA
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 170: doers are obsolete orchestrators run everything now #AI #work
+
+**URL:** https://www.youtube.com/watch?v=08WvksW4jnI
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 171: The Real Threat to Your Career Isn't AI
+
+**URL:** https://www.youtube.com/watch?v=A_LJErM7_2w
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 172: Why 90% of workers are preparing for the wrong future #AI #CareerWakeup #FutureOfWork
+
+**URL:** https://www.youtube.com/watch?v=j9REUtpqCkg
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 173: Corporate Survival Tactics That Actually Work #career #tips #office
+
+**URL:** https://www.youtube.com/watch?v=y6VdL-0eLjU
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 174: Your Superpower Against AI Isn't What You Think
+
+**URL:** https://www.youtube.com/watch?v=SV02vzzEBco
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 175: Ferrari in Rush Hour Traffic #potential #frustration
+
+**URL:** https://www.youtube.com/watch?v=Hjfn8PN5ckw
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 176: Don't Get Left Behind: Master AI Agents #Leadership #AI #Trending
+
+**URL:** https://www.youtube.com/watch?v=FuunJbeaegk
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 177: Stay Ahead of AI with This One Skill #ai #futureofwork #skills
+
+**URL:** https://www.youtube.com/watch?v=l6cTQpMJof8
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 178: The Most Expensive Violin Ruined by One Thing #context #shorts
+
+**URL:** https://www.youtube.com/watch?v=1p6bwM1m7xY
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 179: Club Genius Breaks Down What Human-Led AI Actually Means #Innovation #Audiobook
+
+**URL:** https://www.youtube.com/watch?v=xzJcpb7zTAk
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 180: The Skill That Makes You Irreplaceable in 2026 #career #ai #skills
+
+**URL:** https://www.youtube.com/watch?v=mnQNeuvRcb0
+
+**Topics:** Unclassified
+
+**Summary:** _not generated_
+
+
+## Episode 181: The One Thing Machines Can't Replace #ai #jobs #skills
 
 **URL:** https://www.youtube.com/watch?v=fqK4fCqm7wQ
 
@@ -1405,7 +1630,7 @@
 **Summary:** _not generated_
 
 
-## Episode 157: Your Smart Home Just Locked You Out #SmartHome #Security #Fail
+## Episode 182: Your Smart Home Just Locked You Out #SmartHome #Security #Fail
 
 **URL:** https://www.youtube.com/watch?v=cQihErH3TsQ
 
@@ -1414,7 +1639,7 @@
 **Summary:** _not generated_
 
 
-## Episode 158: AI Only Knows What We Teach It #ai #shorts #tech
+## Episode 183: AI Only Knows What We Teach It #ai #shorts #tech
 
 **URL:** https://www.youtube.com/watch?v=USxACD-JwIs
 
@@ -1423,7 +1648,7 @@
 **Summary:** _not generated_
 
 
-## Episode 159: AI Stopped Asking Permission #technology #ai #shorts
+## Episode 184: AI Stopped Asking Permission #technology #ai #shorts
 
 **URL:** https://www.youtube.com/watch?v=lmP5EvSvpM4
 
@@ -1432,7 +1657,7 @@
 **Summary:** _not generated_
 
 
-## Episode 160: What Happens When Humans Lose Command #ai #warning #shorts
+## Episode 185: What Happens When Humans Lose Command #ai #warning #shorts
 
 **URL:** https://www.youtube.com/watch?v=Xy5_SGxd5U4
 
@@ -1441,7 +1666,7 @@
 **Summary:** _not generated_
 
 
-## Episode 161: Universes Merging and Nobody Noticed #multiverse #cosmic #shocking
+## Episode 186: Universes Merging and Nobody Noticed #multiverse #cosmic #shocking
 
 **URL:** https://www.youtube.com/watch?v=I3w1ECJvjyA
 
@@ -1450,7 +1675,7 @@
 **Summary:** _not generated_
 
 
-## Episode 162: When Authority Replaces Thought #psychology #bias
+## Episode 187: When Authority Replaces Thought #psychology #bias
 
 **URL:** https://www.youtube.com/watch?v=_TMntyrAUUQ
 
@@ -1459,7 +1684,7 @@
 **Summary:** _not generated_
 
 
-## Episode 163: The Quantum Paradox Nobody Talks About #Physics #Quantum
+## Episode 188: The Quantum Paradox Nobody Talks About #Physics #Quantum
 
 **URL:** https://www.youtube.com/watch?v=Lo2SPHbyYj0
 
@@ -1468,7 +1693,7 @@
 **Summary:** _not generated_
 
 
-## Episode 164: AI Just Revealed Reality Runs on a Loop 🔄 #Science #Shorts
+## Episode 189: AI Just Revealed Reality Runs on a Loop 🔄 #Science #Shorts
 
 **URL:** https://www.youtube.com/watch?v=hokiHk6dfHo
 
@@ -1477,7 +1702,7 @@
 **Summary:** _not generated_
 
 
-## Episode 165: No Alarm Raised But We Were Already Compromised #blackswan #survival
+## Episode 190: No Alarm Raised But We Were Already Compromised #blackswan #survival
 
 **URL:** https://www.youtube.com/watch?v=-Yztwa5VWyQ
 
@@ -1486,7 +1711,7 @@
 **Summary:** _not generated_
 
 
-## Episode 166: The job market just split in two #AI #Careers
+## Episode 191: The job market just split in two #AI #Careers
 
 **URL:** https://www.youtube.com/watch?v=w77XdtMg6sE
 
@@ -1495,7 +1720,7 @@
 **Summary:** _not generated_
 
 
-## Episode 167: When AI Becomes a Tool for Fraud #aidanger #marketmanipulation
+## Episode 192: When AI Becomes a Tool for Fraud #aidanger #marketmanipulation
 
 **URL:** https://www.youtube.com/watch?v=rFftxTvUZkI
 
@@ -1504,7 +1729,7 @@
 **Summary:** _not generated_
 
 
-## Episode 168: The Moment His Board Found Out Everything Failed #shorts #ceo #crisis
+## Episode 193: The Moment His Board Found Out Everything Failed #shorts #ceo #crisis
 
 **URL:** https://www.youtube.com/watch?v=OqIFz9hLAWA
 
@@ -1513,7 +1738,7 @@
 **Summary:** _not generated_
 
 
-## Episode 169: The Shift Happening To Every Job Right Now #AI #future #adaptation
+## Episode 194: The Shift Happening To Every Job Right Now #AI #future #adaptation
 
 **URL:** https://www.youtube.com/watch?v=9Ir4gBiaarY
 
@@ -1522,7 +1747,7 @@
 **Summary:** _not generated_
 
 
-## Episode 170: Stop Paying for Growth – These Free Tools Will #professionaldevelopment #skills
+## Episode 195: Stop Paying for Growth – These Free Tools Will #professionaldevelopment #skills
 
 **URL:** https://www.youtube.com/watch?v=wSl0V_r4xR8
 
@@ -1531,7 +1756,7 @@
 **Summary:** _not generated_
 
 
-## Episode 171: Your Career Blueprint for a Human-Centered Future #aiea #careerstrategies
+## Episode 196: Your Career Blueprint for a Human-Centered Future #aiea #careerstrategies
 
 **URL:** https://www.youtube.com/watch?v=KZWb-irFRmY
 
@@ -1540,7 +1765,7 @@
 **Summary:** _not generated_
 
 
-## Episode 172: Your Expertise Might Be Worthless Soon #AI #Future
+## Episode 197: The Job You Have Now Won't Exist in 5 Years #AI
 
 **URL:** https://www.youtube.com/watch?v=qNA-PmP1G7w
 
@@ -1549,7 +1774,7 @@
 **Summary:** _not generated_
 
 
-## Episode 173: Stop Competing With AI, Do This Instead #TheHumanWorkforce #Career #Mindset
+## Episode 198: Stop Competing With AI, Do This Instead #TheHumanWorkforce #Career #Mindset
 
 **URL:** https://www.youtube.com/watch?v=5URRFj8RIVo
 
@@ -1558,7 +1783,7 @@
 **Summary:** _not generated_
 
 
-## Episode 174: the different faces of you #curiosity #personas
+## Episode 199: the different faces of you #curiosity #personas
 
 **URL:** https://www.youtube.com/watch?v=0RX42rKJw4w
 
@@ -1567,7 +1792,7 @@
 **Summary:** _not generated_
 
 
-## Episode 175: The Only Thing That Matters in an AI World #ai #skills #adaptation
+## Episode 200: The Only Thing That Matters in an AI World #ai #skills #adaptation
 
 **URL:** https://www.youtube.com/watch?v=o1wtAto3Lgs
 
@@ -1576,7 +1801,7 @@
 **Summary:** _not generated_
 
 
-## Episode 176: How Many Masks Are You Wearing Right Now #masks #selfdiscovery
+## Episode 201: How Many Masks Are You Wearing Right Now #masks #selfdiscovery
 
 **URL:** https://www.youtube.com/watch?v=EjIjTo4LiQ4
 
@@ -1585,7 +1810,7 @@
 **Summary:** _not generated_
 
 
-## Episode 177: the distributed network that broke everything #ai #future #shorts
+## Episode 202: the distributed network that broke everything #ai #future #shorts
 
 **URL:** https://www.youtube.com/watch?v=SpsmyjV_aYk
 
@@ -1594,7 +1819,7 @@
 **Summary:** _not generated_
 
 
-## Episode 178: The Edge Machines Can't Copy #HumanWorkforce #AI
+## Episode 203: The Edge Machines Can't Copy #HumanWorkforce #AI
 
 **URL:** https://www.youtube.com/watch?v=MStAGq27pzY
 
@@ -1603,7 +1828,7 @@
 **Summary:** _not generated_
 
 
-## Episode 179: What Machines Can't Do (That You Can) #AI #work
+## Episode 204: What Machines Can't Do (That You Can) #AI #work
 
 **URL:** https://www.youtube.com/watch?v=cvxQaZKxhGY
 
@@ -1612,7 +1837,7 @@
 **Summary:** _not generated_
 
 
-## Episode 180: the moment AI stops needing humans #ai #future #shorts
+## Episode 205: the moment AI stops needing humans #ai #future #shorts
 
 **URL:** https://www.youtube.com/watch?v=QdKnHvuE9Q8
 
@@ -1621,7 +1846,7 @@
 **Summary:** _not generated_
 
 
-## Episode 181: Your Unique Human Skills Are Worth More Now #CareerAdvice
+## Episode 206: Your Unique Human Skills Are Worth More Now #CareerAdvice
 
 **URL:** https://www.youtube.com/watch?v=Quir4eCgY7Q
 
@@ -1630,7 +1855,7 @@
 **Summary:** _not generated_
 
 
-## Episode 182: AI Just Deleted Our Entire Inventory #AI #shorts
+## Episode 207: AI Just Deleted Our Entire Inventory #AI #shorts
 
 **URL:** https://www.youtube.com/watch?v=V7lFOK_m7M8
 
@@ -1639,7 +1864,7 @@
 **Summary:** _not generated_
 
 
-## Episode 183: Anomaly Strikes and Everything Falls Apart #cybersecurity #alert
+## Episode 208: Anomaly Strikes and Everything Falls Apart #cybersecurity #alert
 
 **URL:** https://www.youtube.com/watch?v=oxQhqnIym9Y
 
@@ -1648,7 +1873,7 @@
 **Summary:** _not generated_
 
 
-## Episode 184: Stop Relying on Luck—This Is How Leaders Actually Win #mindset #success
+## Episode 209: Stop Relying on Luck—This Is How Leaders Actually Win #mindset #success
 
 **URL:** https://www.youtube.com/watch?v=hXsFJ7exDrI
 
@@ -1657,7 +1882,7 @@
 **Summary:** _not generated_
 
 
-## Episode 185: This is What a Real Cyberattack Looks Like
+## Episode 210: This is What a Real Cyberattack Looks Like
 
 **URL:** https://www.youtube.com/watch?v=ITThBwKmcU4
 
@@ -1666,7 +1891,7 @@
 **Summary:** _not generated_
 
 
-## Episode 186: the last job youll ever have looks nothing like this #future #work #ai
+## Episode 211: the last job youll ever have looks nothing like this #future #work #ai
 
 **URL:** https://www.youtube.com/watch?v=2KRUXu5R4xg
 
@@ -1675,7 +1900,7 @@
 **Summary:** _not generated_
 
 
-## Episode 187: The Hack That Looks Like Normal Traffic #cybersecurity #apivulnerability #hacking
+## Episode 212: The Hack That Looks Like Normal Traffic #cybersecurity #apivulnerability #hacking
 
 **URL:** https://www.youtube.com/watch?v=53Kh9CO8LtE
 
@@ -1684,7 +1909,7 @@
 **Summary:** _not generated_
 
 
-## Episode 188: Nobody can stop an agentic insider #ai #espionage #security
+## Episode 213: Nobody can stop an agentic insider #ai #espionage #security
 
 **URL:** https://www.youtube.com/watch?v=OjEuCMVK2_0
 
@@ -1693,7 +1918,7 @@
 **Summary:** _not generated_
 
 
-## Episode 189: AI Won't Take Over by Force. It Will Be Invited. #AI #FutureOfWork
+## Episode 214: AI Won't Take Over by Force. It Will Be Invited. #AI #FutureOfWork
 
 **URL:** https://www.youtube.com/watch?v=EbClYCSkTqU
 
@@ -1702,7 +1927,7 @@
 **Summary:** _not generated_
 
 
-## Episode 190: AI Changed Everything for Leaders—What Now? #TheHumanWorkforce #FutureOfWork
+## Episode 215: AI Changed Everything for Leaders—What Now? #TheHumanWorkforce #FutureOfWork
 
 **URL:** https://www.youtube.com/watch?v=zyGtbdFR90I
 
@@ -1711,7 +1936,7 @@
 **Summary:** _not generated_
 
 
-## Episode 191: The Honest AI Conversation for People Who Actually Work #AI #CareerShift #Podcast
+## Episode 216: The Honest AI Conversation for People Who Actually Work #AI #CareerShift #Podcast
 
 **URL:** https://www.youtube.com/watch?v=NfVpxsFT1SM
 
@@ -1720,7 +1945,7 @@
 **Summary:** _not generated_
 
 
-## Episode 192: How Autonomous Agents Become Insider Threats #security #agentic
+## Episode 217: How Autonomous Agents Become Insider Threats #security #agentic
 
 **URL:** https://www.youtube.com/watch?v=8QS6wKNdnpI
 
@@ -1729,7 +1954,7 @@
 **Summary:** _not generated_
 
 
-## Episode 193: The Organizations Winning With Human Judgment #TheHumanWorkforce #BusinessInsight
+## Episode 218: The Organizations Winning With Human Judgment #TheHumanWorkforce #BusinessInsight
 
 **URL:** https://www.youtube.com/watch?v=ujnLf0fS-zg
 
@@ -1738,7 +1963,7 @@
 **Summary:** _not generated_
 
 
-## Episode 194: How to Stay Relevant When Everything's Changing #AI #CareerGrowth
+## Episode 219: How to Stay Relevant When Everything's Changing #AI #CareerGrowth
 
 **URL:** https://www.youtube.com/watch?v=R5iy17eSjbQ
 
@@ -1747,7 +1972,7 @@
 **Summary:** _not generated_
 
 
-## Episode 195: The Attack Nobody Saw Coming
+## Episode 220: The Attack Nobody Saw Coming
 
 **URL:** https://www.youtube.com/watch?v=LFsY15imZC8
 
@@ -1756,7 +1981,7 @@
 **Summary:** _not generated_
 
 
-## Episode 196: How Legends Adapt While Others Panic #TheHumanWorkforce #CareerGrowth
+## Episode 221: How Legends Adapt While Others Panic #TheHumanWorkforce #CareerGrowth
 
 **URL:** https://www.youtube.com/watch?v=oAT0rTninqo
 
@@ -1765,7 +1990,7 @@
 **Summary:** _not generated_
 
 
-## Episode 197: When One Bank Chose People Over Algorithms
+## Episode 222: When One Bank Chose People Over Algorithms
 
 **URL:** https://www.youtube.com/watch?v=vwoFohJqxxk
 
@@ -1774,7 +1999,7 @@
 **Summary:** _not generated_
 
 
-## Episode 198: Master your AI Driven Skills
+## Episode 223: Master your AI Driven Skills
 
 **URL:** https://www.youtube.com/watch?v=VS3-fT2FpDE
 
@@ -1783,7 +2008,7 @@
 **Summary:** _not generated_
 
 
-## Episode 199: When the Recruiter turned into a Program.
+## Episode 224: When the Recruiter turned into a Program.
 
 **URL:** https://www.youtube.com/watch?v=7G0fVOVsx3g
 
@@ -1792,7 +2017,7 @@
 **Summary:** _not generated_
 
 
-## Episode 200: The Human Disadvantage: A Must-Listen
+## Episode 225: The Human Disadvantage: A Must-Listen
 
 **URL:** https://www.youtube.com/watch?v=9ffas669WKs
 
@@ -1801,7 +2026,7 @@
 **Summary:** _not generated_
 
 
-## Episode 201: What If AI Decided You Couldn't Buy a Home?
+## Episode 226: What If AI Decided You Couldn't Buy a Home?
 
 **URL:** https://www.youtube.com/watch?v=4NJddMWiEAE
 
@@ -1810,7 +2035,7 @@
 **Summary:** _not generated_
 
 
-## Episode 202: I Learned to Fly a Helicopter in 15 Seconds. (Sort Of.)
+## Episode 227: I Learned to Fly a Helicopter in 15 Seconds. (Sort Of.)
 
 **URL:** https://www.youtube.com/watch?v=IOklfra1qQQ
 
@@ -1819,7 +2044,7 @@
 **Summary:** _not generated_
 
 
-## Episode 203: New Episodes Weekly on Being Your Organization's Biggest Asset #Podcast #Business
+## Episode 228: New Episodes Weekly on Being Your Organization's Biggest Asset #Podcast #Business
 
 **URL:** https://www.youtube.com/watch?v=cJcoLUiiIbo
 
@@ -1828,7 +2053,7 @@
 **Summary:** _not generated_
 
 
-## Episode 204: The Trap of Choosing Speed Over Sense #Business #Trending
+## Episode 229: The Trap of Choosing Speed Over Sense #Business #Trending
 
 **URL:** https://www.youtube.com/watch?v=89srBtWSe7Y
 
@@ -1837,7 +2062,7 @@
 **Summary:** _not generated_
 
 
-## Episode 205: 250 Years of Freedom, Innovation, and Hope
+## Episode 230: 250 Years of Freedom, Innovation, and Hope
 
 **URL:** https://www.youtube.com/watch?v=E5xqUHtIRdI
 
@@ -1846,7 +2071,7 @@
 **Summary:** _not generated_
 
 
-## Episode 206: Browse to Wear The Human Workforce
+## Episode 231: Browse to Wear The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=qIHosLvu7iA
 
@@ -1855,7 +2080,7 @@
 **Summary:** _not generated_
 
 
-## Episode 207: The Ultimate Collection for AI-Intelligent Professionals #Technology #HumanAdvantage
+## Episode 232: The Ultimate Collection for AI-Intelligent Professionals #Technology #HumanAdvantage
 
 **URL:** https://www.youtube.com/watch?v=QjqsbhAB92o
 
@@ -1864,7 +2089,7 @@
 **Summary:** _not generated_
 
 
-## Episode 208: AI Replacement?  We don't think so.
+## Episode 233: AI Replacement?  We don't think so.
 
 **URL:** https://www.youtube.com/watch?v=QTwdqtq_XTQ
 
@@ -1873,7 +2098,7 @@
 **Summary:** _not generated_
 
 
-## Episode 209: Wear the Future. Lead the Conversation.
+## Episode 234: Wear the Future. Lead the Conversation.
 
 **URL:** https://www.youtube.com/watch?v=yetRf0-1Wk0
 
@@ -1882,7 +2107,7 @@
 **Summary:** _not generated_
 
 
-## Episode 210: How AI Quietly Took Over Without Firing Anyone #Automation #Work
+## Episode 235: How AI Quietly Took Over Without Firing Anyone #Automation #Work
 
 **URL:** https://www.youtube.com/watch?v=i9GrH4wOMiM
 
@@ -1891,7 +2116,7 @@
 **Summary:** _not generated_
 
 
-## Episode 211: Gear Up for Tomorrow #Workforce #Technology
+## Episode 236: Gear Up for Tomorrow #Workforce #Technology
 
 **URL:** https://www.youtube.com/watch?v=Rrq3-JkTcec
 
@@ -1900,7 +2125,7 @@
 **Summary:** _not generated_
 
 
-## Episode 212: Don't panic about AI—do this instead #MindsetShift #Success
+## Episode 237: Don't panic about AI—do this instead #MindsetShift #Success
 
 **URL:** https://www.youtube.com/watch?v=ImVGkKkvI8k
 
@@ -1909,7 +2134,7 @@
 **Summary:** _not generated_
 
 
-## Episode 213: Your AI Employee Worked All Night. Nobody Noticed.
+## Episode 238: Your AI Employee Worked All Night. Nobody Noticed.
 
 **URL:** https://www.youtube.com/watch?v=pj4Wnvx0QUo
 
@@ -1918,7 +2143,7 @@
 **Summary:** _not generated_
 
 
-## Episode 214: When Your Work Mask Becomes Your Real Face #Psychology #WorkLife #MentalWellness
+## Episode 239: When Your Work Mask Becomes Your Real Face #Psychology #WorkLife #MentalWellness
 
 **URL:** https://www.youtube.com/watch?v=ZRkiE2_1LIE
 
@@ -1927,7 +2152,7 @@
 **Summary:** _not generated_
 
 
-## Episode 215: How to Stay Relevant When AI Changes Everything #TheHumanWorkforce #WorkforceInsights
+## Episode 240: How to Stay Relevant When AI Changes Everything #TheHumanWorkforce #WorkforceInsights
 
 **URL:** https://www.youtube.com/watch?v=32PEG3pSalw
 
@@ -1936,7 +2161,7 @@
 **Summary:** _not generated_
 
 
-## Episode 216: The Future Belongs to People Who Learn This
+## Episode 241: The Future Belongs to People Who Learn This
 
 **URL:** https://www.youtube.com/watch?v=qqsEaniT650
 
@@ -1945,7 +2170,7 @@
 **Summary:** _not generated_
 
 
-## Episode 217: The Hidden Factor Behind Every Exceptional Leader #ClubGenius #TeamBuilding
+## Episode 242: The Hidden Factor Behind Every Exceptional Leader #ClubGenius #TeamBuilding
 
 **URL:** https://www.youtube.com/watch?v=CQ6bdSnTu-4
 
@@ -1954,7 +2179,7 @@
 **Summary:** _not generated_
 
 
-## Episode 218: The Job You Lose May Never Be Posted Again
+## Episode 243: The Job You Lose May Never Be Posted Again
 
 **URL:** https://www.youtube.com/watch?v=1JoBDQdff8s
 
@@ -1963,7 +2188,7 @@
 **Summary:** _not generated_
 
 
-## Episode 219: How Many Versions of Yourself Exist at Work?
+## Episode 244: How Many Versions of Yourself Exist at Work?
 
 **URL:** https://www.youtube.com/watch?v=udO-8H3__JE
 
@@ -1972,7 +2197,7 @@
 **Summary:** _not generated_
 
 
-## Episode 220: The Rise of Synthetic Media and AI Content
+## Episode 245: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
 
@@ -1981,7 +2206,7 @@
 **Summary:** _not generated_
 
 
-## Episode 221: AI Just Crossed the Line from Tool to Worker #AgenticAI #Automation
+## Episode 246: AI Just Crossed the Line from Tool to Worker #AgenticAI #Automation
 
 **URL:** https://www.youtube.com/watch?v=k826P54OnVk
 
@@ -1990,7 +2215,7 @@
 **Summary:** _not generated_
 
 
-## Episode 222: The Shift That Changes Everything for Experienced Workers #FutureOfWork #Leadership
+## Episode 247: The Shift That Changes Everything for Experienced Workers #FutureOfWork #Leadership
 
 **URL:** https://www.youtube.com/watch?v=oNkptqgg6VY
 
@@ -1999,7 +2224,7 @@
 **Summary:** _not generated_
 
 
-## Episode 223: How to Prepare for an AI-Powered Workforce
+## Episode 248: How to Prepare for an AI-Powered Workforce
 
 **URL:** https://www.youtube.com/watch?v=XoEvGOkNtNQ
 
@@ -2008,7 +2233,7 @@
 **Summary:** _not generated_
 
 
-## Episode 224: Master the skills for an agentic workforce #AILeadership #CareerGrowth #Trending
+## Episode 249: Master the skills for an agentic workforce #AILeadership #CareerGrowth #Trending
 
 **URL:** https://www.youtube.com/watch?v=5eWMCKKNABc
 
@@ -2017,7 +2242,7 @@
 **Summary:** _not generated_
 
 
-## Episode 225: The Age of Human Workers Is Ending #FutureOfWork #AI
+## Episode 250: The Age of Human Workers Is Ending #FutureOfWork #AI
 
 **URL:** https://www.youtube.com/watch?v=mqcZCrwZ_wM
 
@@ -2026,7 +2251,7 @@
 **Summary:** _not generated_
 
 
-## Episode 226: Working with AI isn't the end, it's the beginning #AI #FutureOfWork #Opportunity
+## Episode 251: Working with AI isn't the end, it's the beginning #AI #FutureOfWork #Opportunity
 
 **URL:** https://www.youtube.com/watch?v=lmaGFMQd_b0
 
@@ -2035,7 +2260,7 @@
 **Summary:** _not generated_
 
 
-## Episode 227: Why Some Organizations Always Win
+## Episode 252: Why Some Organizations Always Win
 
 **URL:** https://www.youtube.com/watch?v=v6imM-nfmy0
 
@@ -2044,7 +2269,7 @@
 **Summary:** _not generated_
 
 
-## Episode 228: How Careers Quietly Become Obsolete (Before You Notice) #FutureOfWork #Audiobook
+## Episode 253: How Careers Quietly Become Obsolete (Before You Notice) #FutureOfWork #Audiobook
 
 **URL:** https://www.youtube.com/watch?v=cGHl9V-qvo4
 
@@ -2053,7 +2278,7 @@
 **Summary:** _not generated_
 
 
-## Episode 229: Beat them at their own Game - Infinite Leverage
+## Episode 254: Beat them at their own Game - Infinite Leverage
 
 **URL:** https://www.youtube.com/watch?v=NoOzZQuUzrY
 
@@ -2062,7 +2287,7 @@
 **Summary:** _not generated_
 
 
-## Episode 230: Your competitive edge in an AI world #AI #PersonalDevelopment #Skills
+## Episode 255: Your competitive edge in an AI world #AI #PersonalDevelopment #Skills
 
 **URL:** https://www.youtube.com/watch?v=767LRTYF4to
 
@@ -2071,7 +2296,7 @@
 **Summary:** _not generated_
 
 
-## Episode 231: The Day The Insider Stopped Being Human
+## Episode 256: The Day The Insider Stopped Being Human
 
 **URL:** https://www.youtube.com/watch?v=vCd4IvacHus
 
@@ -2080,7 +2305,7 @@
 **Summary:** _not generated_
 
 
-## Episode 232: The Hidden Tactic Making Workers Quit #CorporateStrategy #MustWatch
+## Episode 257: The Hidden Tactic Making Workers Quit #CorporateStrategy #MustWatch
 
 **URL:** https://www.youtube.com/watch?v=Ia2DU6MU2lQ
 
@@ -2089,7 +2314,7 @@
 **Summary:** _not generated_
 
 
-## Episode 233: The Threat Nobody's Prepared For #AISecure #CorporateRisk #Leadership
+## Episode 258: The Threat Nobody's Prepared For #AISecure #CorporateRisk #Leadership
 
 **URL:** https://www.youtube.com/watch?v=OOJuo5p54Ns
 
@@ -2098,7 +2323,7 @@
 **Summary:** _not generated_
 
 
-## Episode 234: The Silent Front
+## Episode 259: The Silent Front
 
 **URL:** https://www.youtube.com/watch?v=YHqXhcVFLk0
 
@@ -2107,7 +2332,7 @@
 **Summary:** _not generated_
 
 
-## Episode 235: Always watch your AI
+## Episode 260: Always watch your AI
 
 **URL:** https://www.youtube.com/watch?v=87QH-JQBsEg
 
@@ -2116,7 +2341,7 @@
 **Summary:** _not generated_
 
 
-## Episode 236: Don't leave work without The Human Workforce.
+## Episode 261: Don't leave work without The Human Workforce.
 
 **URL:** https://www.youtube.com/watch?v=tYruV_XD7gw
 
@@ -2125,7 +2350,7 @@
 **Summary:** _not generated_
 
 
-## Episode 237: Get Your Daily Dose of The Human Workforce
+## Episode 262: Get Your Daily Dose of The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=abb9z-xmwCQ
 
@@ -2134,7 +2359,7 @@
 **Summary:** _not generated_
 
 
-## Episode 238: One Decision Away from Changing Everything #TheHumanWorkforce #Success
+## Episode 263: One Decision Away from Changing Everything #TheHumanWorkforce #Success
 
 **URL:** https://www.youtube.com/watch?v=VyIUAyvih28
 
@@ -2143,7 +2368,7 @@
 **Summary:** _not generated_
 
 
-## Episode 239: Thriving with AI at Work and in Life.
+## Episode 264: Thriving with AI at Work and in Life.
 
 **URL:** https://www.youtube.com/watch?v=iQ5XwLslkVY
 
@@ -2152,7 +2377,7 @@
 **Summary:** _not generated_
 
 
-## Episode 240: KZAK Endorses The Human Workforce Podcast Series
+## Episode 265: KZAK Endorses The Human Workforce Podcast Series
 
 **URL:** https://www.youtube.com/watch?v=gL8rNVaCo1w
 
@@ -2161,7 +2386,7 @@
 **Summary:** _not generated_
 
 
-## Episode 241: Don't leave work without The Human Workforce.
+## Episode 266: Don't leave work without The Human Workforce.
 
 **URL:** https://www.youtube.com/watch?v=dGzO4UjaJGw
 
@@ -2170,7 +2395,7 @@
 **Summary:** _not generated_
 
 
-## Episode 242: Control your own AI
+## Episode 267: Control your own AI
 
 **URL:** https://www.youtube.com/watch?v=12EsnHgZv3A
 
@@ -2179,7 +2404,7 @@
 **Summary:** _not generated_
 
 
-## Episode 243: I am not an AI, I am a Human!
+## Episode 268: I am not an AI, I am a Human!
 
 **URL:** https://www.youtube.com/watch?v=h9kzFqWObwc
 
@@ -2188,7 +2413,7 @@
 **Summary:** _not generated_
 
 
-## Episode 244: Breaking News from The Human Workforce
+## Episode 269: Breaking News from The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=Xg3SLukLw-M
 
@@ -2197,7 +2422,7 @@
 **Summary:** _not generated_
 
 
-## Episode 245: Thrive in the age of AI
+## Episode 270: Thrive in the age of AI
 
 **URL:** https://www.youtube.com/watch?v=wf93FdfCSUw
 
@@ -2206,7 +2431,7 @@
 **Summary:** _not generated_
 
 
-## Episode 246: The Human Workforce, where humans drive the bus.
+## Episode 271: The Human Workforce, where humans drive the bus.
 
 **URL:** https://www.youtube.com/watch?v=I3--Bac_6Cw
 
@@ -2215,7 +2440,7 @@
 **Summary:** _not generated_
 
 
-## Episode 247: Corporate security just changed forever #AI #TheAgenticInsider #Security
+## Episode 272: Corporate security just changed forever #AI #TheAgenticInsider #Security
 
 **URL:** https://www.youtube.com/watch?v=fpOFPHPIDUA
 
@@ -2224,7 +2449,7 @@
 **Summary:** _not generated_
 
 
-## Episode 248: Human Wisdom Matters More in the Age of AI
+## Episode 273: Human Wisdom Matters More in the Age of AI
 
 **URL:** https://www.youtube.com/watch?v=qtABWs8updY
 
@@ -2233,7 +2458,7 @@
 **Summary:** _not generated_
 
 
-## Episode 249: Checkout The Human Workforce
+## Episode 274: Checkout The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=Qwp8KpXVt04
 
@@ -2242,7 +2467,7 @@
 **Summary:** _not generated_
 
 
-## Episode 250: New Book Coming in July 2026, The Agentic Insider.
+## Episode 275: New Book Coming in July 2026, The Agentic Insider.
 
 **URL:** https://www.youtube.com/watch?v=KEn2EDFl-eQ
 
@@ -2251,7 +2476,7 @@
 **Summary:** _not generated_
 
 
-## Episode 251: Use AI as a Teammate, not an Enemy.
+## Episode 276: Use AI as a Teammate, not an Enemy.
 
 **URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
 
@@ -2260,7 +2485,7 @@
 **Summary:** _not generated_
 
 
-## Episode 252: Check out the Podcasts on The Human Workforce
+## Episode 277: Check out the Podcasts on The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=iE6CaCswpS0
 
@@ -2269,7 +2494,7 @@
 **Summary:** _not generated_
 
 
-## Episode 253: Dont Leave Work Without The Human Workforce
+## Episode 278: Dont Leave Work Without The Human Workforce
 
 **URL:** https://www.youtube.com/watch?v=U43XW09bys4
 
@@ -2278,7 +2503,7 @@
 **Summary:** _not generated_
 
 
-## Episode 254: New Book - The Human Disadvantage
+## Episode 279: New Book - The Human Disadvantage
 
 **URL:** https://www.youtube.com/watch?v=smRqKqgcFnA
 
@@ -2287,7 +2512,7 @@
 **Summary:** _not generated_
 
 
-## Episode 255: The Human Workforce - Wisdom is Rare
+## Episode 280: The Human Workforce - Wisdom is Rare
 
 **URL:** https://www.youtube.com/watch?v=gABVU6S5Yuo
 
@@ -2296,7 +2521,7 @@
 **Summary:** _not generated_
 
 
-## Episode 256: Expert Insights on The Human Workforce Podcast
+## Episode 281: Expert Insights on The Human Workforce Podcast
 
 **URL:** https://www.youtube.com/watch?v=kgfqUdMTGZ0
 
@@ -2305,7 +2530,7 @@
 **Summary:** _not generated_
 
 
-## Episode 257: How to Future-Proof Your Career Against AI
+## Episode 282: How to Future-Proof Your Career Against AI
 
 **URL:** https://www.youtube.com/watch?v=zMX_cTe9BT4
 
@@ -2314,7 +2539,7 @@
 **Summary:** _not generated_
 
 
-## Episode 258: AI Won't Replace You. But This Might.
+## Episode 283: AI Won't Replace You. But This Might.
 
 **URL:** https://www.youtube.com/watch?v=Qjx6VlR8v1o
 
@@ -2323,7 +2548,7 @@
 **Summary:** _not generated_
 
 
-## Episode 259: The Human Advantage in an AI Economy
+## Episode 284: The Human Advantage in an AI Economy
 
 **URL:** https://www.youtube.com/watch?v=qN_RvW8-uoI
 
@@ -2332,7 +2557,7 @@
 **Summary:** _not generated_
 
 
-## Episode 260: The Career Survival Guide for the Age of AI
+## Episode 285: The Career Survival Guide for the Age of AI
 
 **URL:** https://www.youtube.com/watch?v=20GUMXxiT90
 
@@ -2341,7 +2566,7 @@
 **Summary:** _not generated_
 
 
-## Episode 261: The Hidden Threats to Your Career #JobSecurity #AI
+## Episode 286: The Hidden Threats to Your Career #JobSecurity #AI
 
 **URL:** https://www.youtube.com/watch?v=RPtRYaR9luo
 
@@ -2350,7 +2575,7 @@
 **Summary:** _not generated_
 
 
-## Episode 262: Order The Human Disadvantage - Book       #books
+## Episode 287: The Human Disadvantage - Order Now #books #mustread
 
 **URL:** https://www.youtube.com/watch?v=TF5LGT--SH8
 
@@ -2359,7 +2584,7 @@
 **Summary:** _not generated_
 
 
-## Episode 263: Checkout The Human Workforce Podcast
+## Episode 288: How AI Is Transforming Work #AI #TheHumanWorkforce
 
 **URL:** https://www.youtube.com/watch?v=_GiAI9stH7s
 
@@ -2368,7 +2593,7 @@
 **Summary:** _not generated_
 
 
-## Episode 264: The Human Workforce Podcast Information - Subscribe Today
+## Episode 289: Why AI Layoffs Are Just the First Wave #FutureOfWork #CareerAlert #Podcast
 
 **URL:** https://www.youtube.com/watch?v=dBH7bYLY_vk
 
@@ -2377,7 +2602,7 @@
 **Summary:** _not generated_
 
 
-## Episode 265: The Human Workforce Information
+## Episode 290: The Human Workforce Information
 
 **URL:** https://www.youtube.com/watch?v=iGZW5P0LnC8
 
@@ -2386,7 +2611,7 @@
 **Summary:** _not generated_
 
 
-## Episode 266: Your Human Potential
+## Episode 291: 3 Human Skills No Robot Can Steal #FutureOfWork #CareerTips
 
 **URL:** https://www.youtube.com/watch?v=NqVuxvUQS_U
 
@@ -2395,7 +2620,7 @@
 **Summary:** _not generated_
 
 
-## Episode 267: The Hidden Skill AI Can’t Replace
+## Episode 292: The Hidden Skill AI Can’t Replace
 
 **URL:** https://www.youtube.com/watch?v=-m1bNLvkQXA
 
@@ -2404,7 +2629,7 @@
 **Summary:** _not generated_
 
 
-## Episode 268: The Human Disadvantage  - New Book, Now Available
+## Episode 293: The Human Disadvantage  - New Book, Now Available
 
 **URL:** https://www.youtube.com/watch?v=mUaVultbrHk
 
@@ -2413,7 +2638,7 @@
 **Summary:** _not generated_
 
 
-## Episode 269: The Career Advice Nobody Is Giving
+## Episode 294: The Career Advice Nobody Is Giving
 
 **URL:** https://www.youtube.com/watch?v=pleXqB0kqQc
 
@@ -2422,7 +2647,7 @@
 **Summary:** _not generated_
 
 
-## Episode 270: The Human Workforce Podcast help define AI.
+## Episode 295: How AI Can Actually Help Your Career #AI #careeradvice
 
 **URL:** https://www.youtube.com/watch?v=G3dcBK3U1xw
 
@@ -2431,7 +2656,7 @@
 **Summary:** _not generated_
 
 
-## Episode 271: Humans Define Work
+## Episode 296: The Skills AI Can't Take From You #FutureOfWork #HumanSkills
 
 **URL:** https://www.youtube.com/watch?v=705wfqD27CQ
 
@@ -2440,7 +2665,7 @@
 **Summary:** _not generated_
 
 
-## Episode 272: Understanding AI in the Modern Workforce
+## Episode 297: Don't Fear AI, Learn to Work With It #AI #productivity
 
 **URL:** https://www.youtube.com/watch?v=RClgb3bcmhg
 
@@ -2449,7 +2674,7 @@
 **Summary:** _not generated_
 
 
-## Episode 273: Human Workforce with AI
+## Episode 298: Human Workforce with AI
 
 **URL:** https://www.youtube.com/watch?v=iJBkSb1Luns
 
@@ -2458,7 +2683,7 @@
 **Summary:** _not generated_
 
 
-## Episode 274: Honor of Memorial Day
+## Episode 299: Honor of Memorial Day
 
 **URL:** https://www.youtube.com/watch?v=3vODeyNSnOQ
 
@@ -2467,7 +2692,7 @@
 **Summary:** _not generated_
 
 
-## Episode 275: Understanding AI
+## Episode 300: How The Human Workforce podcast helped me navigate job market changes #futureofwork #podcast
 
 **URL:** https://www.youtube.com/watch?v=pxSq38VWjC8
 
@@ -2476,7 +2701,7 @@
 **Summary:** _not generated_
 
 
-## Episode 276: Honoring Memorial Day
+## Episode 301: Honoring The Fallen On Memorial Day #MemorialDay #Respect
 
 **URL:** https://www.youtube.com/watch?v=SYRkP0qTFTM
 
@@ -2485,7 +2710,7 @@
 **Summary:** _not generated_
 
 
-## Episode 277: The Mindset Shift That Saved My Career #AI #Inspiration
+## Episode 302: The Mindset Shift That Saved My Career #AI #Inspiration
 
 **URL:** https://www.youtube.com/watch?v=zgF2KHhBVoo
 
@@ -2494,7 +2719,7 @@
 **Summary:** _not generated_
 
 
-## Episode 278: This is why I'm not worried about AI anymore #Career #Confidence #Tech
+## Episode 303: This is why I'm not worried about AI anymore #Career #Confidence #Tech
 
 **URL:** https://www.youtube.com/watch?v=HDXPbgBvhIE
 
@@ -2503,7 +2728,7 @@
 **Summary:** _not generated_
 
 
-## Episode 279: AI's Essence of Work is Shifting
+## Episode 304: The shift happening at work that nobody's talking about #AI #Technology
 
 **URL:** https://www.youtube.com/watch?v=daHAnK6JJ28
 
@@ -2512,7 +2737,7 @@
 **Summary:** _not generated_
 
 
-## Episode 280: Automation is not the Enemy!
+## Episode 305: Automation is not the Enemy!
 
 **URL:** https://www.youtube.com/watch?v=E0wKFjVR_0I
 
@@ -2521,7 +2746,7 @@
 **Summary:** _not generated_
 
 
-## Episode 281: The Human Workforce Insights.
+## Episode 306: How Top Leaders Are Winning With AI as Their Collaborator #Podcast
 
 **URL:** https://www.youtube.com/watch?v=gIZUw45R-kQ
 
@@ -2530,7 +2755,7 @@
 **Summary:** _not generated_
 
 
-## Episode 282: Humans Define Work
+## Episode 307: The One Thing Machines Will Never Do #humanskills #work
 
 **URL:** https://www.youtube.com/watch?v=mqtWdDGzjCQ
 
@@ -2539,7 +2764,7 @@
 **Summary:** _not generated_
 
 
-## Episode 283: Short Video on the human workforce
+## Episode 308: The TRUTH About AI Training Data (Worker Edition) #aiethics #shorts
 
 **URL:** https://www.youtube.com/watch?v=zj98MPWYmCI
 
@@ -2548,7 +2773,7 @@
 **Summary:** _not generated_
 
 
-## Episode 284: The Last Job You'll Ever Hate
+## Episode 309: The Last Job You'll Ever Hate
 
 **URL:** https://www.youtube.com/watch?v=afsP1GkSOPI
 

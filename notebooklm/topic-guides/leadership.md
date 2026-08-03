@@ -3,18 +3,18 @@
 *4 episode(s) cover this topic.*
 
 
-## Episode 018: AI vs Corruption  The Invisible Handshake
+## Episode 029: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 046: Agentic AI and the Swarm Attack Era
+## Episode 057: Agentic AI and the Swarm Attack Era
 
 **URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
 
-## Episode 082: The Trillion Dollar AI Reality Check
+## Episode 093: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 107: When AI Efficiency Becomes an Automation Arms Race
+## Episode 118: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc

@@ -1,6 +1,6 @@
 # Human Workforce Master Index
 
-**Total Episodes:** 284
+**Total Episodes:** 309
 
 **Topics Covered:** 15
 
@@ -11,101 +11,101 @@
 
 ### Agentic AI
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Automation
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Compliance
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 220
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 245
 
 ### Cybersecurity
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
 
 ### Digital Labor
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Enterprise Transformation
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Future of Work
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 220
-- [KZAK Endorses The Human Workforce Podcast Series](https://www.youtube.com/watch?v=gL8rNVaCo1w) — Episode 240
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 245
+- [KZAK Endorses The Human Workforce Podcast Series](https://www.youtube.com/watch?v=gL8rNVaCo1w) — Episode 265
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Generative AI
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 220
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 245
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Governance
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 220
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 245
 
 ### Human Skills
 
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [KZAK Endorses The Human Workforce Podcast Series](https://www.youtube.com/watch?v=gL8rNVaCo1w) — Episode 240
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [KZAK Endorses The Human Workforce Podcast Series](https://www.youtube.com/watch?v=gL8rNVaCo1w) — Episode 265
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Leadership
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
 
 ### Operational Resilience
 
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
 
 ### Organizational Design
 
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 251
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [Use AI as a Teammate, not an Enemy.](https://www.youtube.com/watch?v=zYvbgp5n_vg) — Episode 276
 
 ### Productivity
 
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
 
 ### Risk Management
 
-- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 018
-- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 046
-- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 082
-- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 107
-- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 220
+- [AI vs Corruption  The Invisible Handshake](https://www.youtube.com/watch?v=hLcQfL5VSk4) — Episode 029
+- [Agentic AI and the Swarm Attack Era](https://www.youtube.com/watch?v=3oL3KUwkqkw) — Episode 057
+- [The Trillion Dollar AI Reality Check](https://www.youtube.com/watch?v=YXxf_3euA8c) — Episode 093
+- [When AI Efficiency Becomes an Automation Arms Race](https://www.youtube.com/watch?v=_4Cayu-GHMc) — Episode 118
+- [The Rise of Synthetic Media and AI Content](https://www.youtube.com/watch?v=ccBJlt_Tflo) — Episode 245
 
 
 ## Most Referenced Concepts
