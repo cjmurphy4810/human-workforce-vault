@@ -3,21 +3,21 @@
 *Recurring concepts and technologies across The Human Workforce content.*
 
 
+## Artificial Intelligence
+
+*Referenced in 4 episode(s).*
+
+_Definition to be added._
+
+
 ## Ai
 
-*Referenced in 3 episode(s).*
+*Referenced in 4 episode(s).*
 
 _Definition to be added._
 
 
 ## Synthetic Media
-
-*Referenced in 2 episode(s).*
-
-_Definition to be added._
-
-
-## Artificial Intelligence
 
 *Referenced in 2 episode(s).*
 
@@ -424,6 +424,48 @@ _Definition to be added._
 
 
 ## Plausible Deniability
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Ai Training
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Data Bias
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Human Influence On Ai
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Prompts
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Objectives
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Autonomous Behavior
 
 *Referenced in 1 episode(s).*
 

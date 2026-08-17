@@ -249,5 +249,44 @@
       "governance framework",
       "disciplined augmentation"
     ]
+  },
+  "USxACD-JwIs": {
+    "people": [
+      "Simon"
+    ],
+    "organizations": [],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "AI training",
+      "data bias",
+      "human influence on AI"
+    ],
+    "technologies": [
+      "AI"
+    ],
+    "methodologies": [],
+    "frameworks": []
+  },
+  "lmP5EvSvpM4": {
+    "people": [],
+    "organizations": [],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "artificial intelligence",
+      "prompts",
+      "objectives",
+      "autonomous behavior"
+    ],
+    "technologies": [
+      "artificial intelligence"
+    ],
+    "methodologies": [],
+    "frameworks": []
   }
 }

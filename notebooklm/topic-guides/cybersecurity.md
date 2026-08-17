@@ -3,10 +3,10 @@
 *2 episode(s) cover this topic.*
 
 
-## Episode 040: AI vs Corruption  The Invisible Handshake
+## Episode 049: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 068: Agentic AI and the Swarm Attack Era
+## Episode 077: Agentic AI and the Swarm Attack Era
 
 **URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
