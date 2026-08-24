@@ -3,8 +3,20 @@
 
 ## Simon Carver
 
-_Not yet mentioned in transcripts._
+**Episodes mentioned in:** 1
 
+
+**Primary Expertise Areas:**
+
+- Generative AI (1 episodes)
+- Leadership (1 episodes)
+- Governance (1 episodes)
+- Risk Management (1 episodes)
+- Enterprise Transformation (1 episodes)
+
+**Episodes:**
+
+- [Episode 169: Polished Fiction  When AI Sounds Right but Isn’t](https://www.youtube.com/watch?v=h3tc5tSjcZI) — Generative AI, Leadership, Governance
 
 ## Lachlan Reed
 

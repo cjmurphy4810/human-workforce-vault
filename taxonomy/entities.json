@@ -288,5 +288,37 @@
     ],
     "methodologies": [],
     "frameworks": []
+  },
+  "h3tc5tSjcZI": {
+    "people": [
+      "Simon Carver",
+      "Lochlan Reed"
+    ],
+    "organizations": [],
+    "products": [],
+    "platforms": [
+      "YouTube"
+    ],
+    "concepts": [
+      "Large language models",
+      "Pattern engines",
+      "Structured fiction",
+      "Authority bias",
+      "Speed over scrutiny"
+    ],
+    "technologies": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "methodologies": [
+      "Two-by-two matrix",
+      "Maturity model",
+      "Phased transformation"
+    ],
+    "frameworks": [
+      "Risk framework",
+      "Operating model",
+      "Maturity curve"
+    ]
   }
 }

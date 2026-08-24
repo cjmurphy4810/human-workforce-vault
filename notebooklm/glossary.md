@@ -3,14 +3,14 @@
 *Recurring concepts and technologies across The Human Workforce content.*
 
 
-## Artificial Intelligence
+## Ai
 
-*Referenced in 4 episode(s).*
+*Referenced in 5 episode(s).*
 
 _Definition to be added._
 
 
-## Ai
+## Artificial Intelligence
 
 *Referenced in 4 episode(s).*
 
@@ -472,6 +472,41 @@ _Definition to be added._
 _Definition to be added._
 
 
+## Large Language Models
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Pattern Engines
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Structured Fiction
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Authority Bias
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Speed Over Scrutiny
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
 ## Ai Systems
 
 *Referenced in 1 episode(s).*
@@ -620,6 +655,13 @@ _Definition to be added._
 
 
 ## Behavioral Monitoring
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Artificial Intelligence
 
 *Referenced in 1 episode(s).*
 

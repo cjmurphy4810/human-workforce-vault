@@ -12,6 +12,9 @@
 - **intelligence framework** (1 episodes)
 - **governance framework** (1 episodes)
 - **disciplined augmentation** (1 episodes)
+- **Risk framework** (1 episodes)
+- **Operating model** (1 episodes)
+- **Maturity curve** (1 episodes)
 
 
 ## Methodologies
@@ -33,3 +36,6 @@
 - **behavioral anomaly analysis** (1 episodes)
 - **cross-reference analysis** (1 episodes)
 - **augmentation** (1 episodes)
+- **Two-by-two matrix** (1 episodes)
+- **Maturity model** (1 episodes)
+- **Phased transformation** (1 episodes)

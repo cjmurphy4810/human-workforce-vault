@@ -1,39 +1,43 @@
 # Topic Guide: Generative AI
 
-*5 episode(s) cover this topic.*
+*6 episode(s) cover this topic.*
 
 
-## Episode 113: The Trillion Dollar AI Reality Check
+## Episode 123: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 138: When AI Efficiency Becomes an Automation Arms Race
+## Episode 148: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
-## Episode 219: AI Only Knows What We Teach It #ai #shorts #tech
+## Episode 169: Polished Fiction  When AI Sounds Right but Isn’t
 
-**URL:** https://www.youtube.com/watch?v=USxACD-JwIs
+**URL:** https://www.youtube.com/watch?v=h3tc5tSjcZI
 
 
-# Summary: AI Only Knows What We Teach It #ai #shorts #tech
+# Summary: Polished Fiction  When AI Sounds Right but Isn’t
 
-**Video ID:** USxACD-JwIs
-**URL:** https://www.youtube.com/watch?v=USxACD-JwIs
-**Episode:** 219
-**Source:** youtube/transcripts/episode-219-ai-only-knows-what-we-teach-it-ai-shorts-tech.md
+**Video ID:** h3tc5tSjcZI
+**URL:** https://www.youtube.com/watch?v=h3tc5tSjcZI
+**Episode:** 169
+**Source:** youtube/transcripts/episode-169-polished-fiction-when-ai-sounds-right-but-isnt.md
 
 ---
 
 # Executive Summary
 
-This brief but foundational episode emphasizes a critical principle in AI development and deployment: artificial intelligence systems are not autonomous entities but rather products of human design, data, and intent. The sp...
+This episode explores a critical failure mode in AI-assisted business decision-making: the production of "polished fiction"—outputs that sound authoritative, appear rigorous, and arrive in professional formats, yet lack gr...
 
 
-## Episode 281: The Rise of Synthetic Media and AI Content
+## Episode 237: AI Only Knows What We Teach It #ai #shorts #tech
+
+**URL:** https://www.youtube.com/watch?v=USxACD-JwIs
+
+## Episode 299: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
 
-## Episode 312: Use AI as a Teammate, not an Enemy.
+## Episode 330: Use AI as a Teammate, not an Enemy.
 
 **URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
