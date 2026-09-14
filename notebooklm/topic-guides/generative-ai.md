@@ -3,26 +3,26 @@
 *6 episode(s) cover this topic.*
 
 
-## Episode 136: The Trillion Dollar AI Reality Check
+## Episode 141: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 161: When AI Efficiency Becomes an Automation Arms Race
+## Episode 166: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
-## Episode 182: Polished Fiction  When AI Sounds Right but Isn’t
+## Episode 187: Polished Fiction  When AI Sounds Right but Isn’t
 
 **URL:** https://www.youtube.com/watch?v=h3tc5tSjcZI
 
-## Episode 269: AI Only Knows What We Teach It #ai #shorts #tech
+## Episode 279: AI Only Knows What We Teach It #ai #shorts #tech
 
 **URL:** https://www.youtube.com/watch?v=USxACD-JwIs
 
-## Episode 331: The Rise of Synthetic Media and AI Content
+## Episode 341: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
 
-## Episode 362: Use AI as a Teammate, not an Enemy.
+## Episode 372: Use AI as a Teammate, not an Enemy.
 
 **URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
