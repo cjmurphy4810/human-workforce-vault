@@ -5,7 +5,7 @@
 
 ## Ai
 
-*Referenced in 5 episode(s).*
+*Referenced in 7 episode(s).*
 
 _Definition to be added._
 
@@ -18,6 +18,13 @@ _Definition to be added._
 
 
 ## Synthetic Media
+
+*Referenced in 2 episode(s).*
+
+_Definition to be added._
+
+
+## Human Workforce
 
 *Referenced in 2 episode(s).*
 
@@ -304,13 +311,6 @@ _Definition to be added._
 _Definition to be added._
 
 
-## Human Workforce
-
-*Referenced in 1 episode(s).*
-
-_Definition to be added._
-
-
 ## Bribery
 
 *Referenced in 1 episode(s).*
@@ -501,6 +501,13 @@ _Definition to be added._
 
 
 ## Speed Over Scrutiny
+
+*Referenced in 1 episode(s).*
+
+_Definition to be added._
+
+
+## Jobs
 
 *Referenced in 1 episode(s).*
 

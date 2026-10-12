@@ -1,20 +1,39 @@
 # Topic Guide: Automation
 
-*4 episode(s) cover this topic.*
+*5 episode(s) cover this topic.*
 
 
-## Episode 096: AI vs Corruption  The Invisible Handshake
+## Episode 102: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 160: The Trillion Dollar AI Reality Check
+## Episode 166: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 185: When AI Efficiency Becomes an Automation Arms Race
+## Episode 191: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
-## Episode 398: Use AI as a Teammate, not an Enemy.
+## Episode 395: Thriving with AI at Work and in Life.
+
+**URL:** https://www.youtube.com/watch?v=iQ5XwLslkVY
+
+
+# Summary: Thriving with AI at Work and in Life.
+
+**Video ID:** iQ5XwLslkVY
+**URL:** https://www.youtube.com/watch?v=iQ5XwLslkVY
+**Episode:** 395
+**Source:** youtube/transcripts/episode-395-thriving-with-ai-at-work-and-in-life.md
+
+---
+
+# Executive Summary
+
+I appreciate your request, but I must be transparent: the transcript provided is incomplete and insufficient for producing a meaningful analysis. The available content consists only of a brief introductory caption ("Ever wonder how AI changes ...
+
+
+## Episode 407: Use AI as a Teammate, not an Enemy.
 
 **URL:** https://www.youtube.com/watch?v=zYvbgp5n_vg
