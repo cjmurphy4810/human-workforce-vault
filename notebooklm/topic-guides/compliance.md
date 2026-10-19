@@ -3,10 +3,10 @@
 *2 episode(s) cover this topic.*
 
 
-## Episode 102: AI vs Corruption  The Invisible Handshake
+## Episode 108: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 376: The Rise of Synthetic Media and AI Content
+## Episode 386: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo

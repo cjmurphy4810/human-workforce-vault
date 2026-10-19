@@ -3,30 +3,30 @@
 *7 episode(s) cover this topic.*
 
 
-## Episode 102: AI vs Corruption  The Invisible Handshake
+## Episode 108: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 130: Agentic AI and the Swarm Attack Era
+## Episode 136: Agentic AI and the Swarm Attack Era
 
 **URL:** https://www.youtube.com/watch?v=3oL3KUwkqkw
 
-## Episode 166: The Trillion Dollar AI Reality Check
+## Episode 172: The Trillion Dollar AI Reality Check
 
 **URL:** https://www.youtube.com/watch?v=YXxf_3euA8c
 
-## Episode 191: When AI Efficiency Becomes an Automation Arms Race
+## Episode 197: When AI Efficiency Becomes an Automation Arms Race
 
 **URL:** https://www.youtube.com/watch?v=_4Cayu-GHMc
 
-## Episode 212: Polished Fiction  When AI Sounds Right but Isn’t
+## Episode 218: Polished Fiction  When AI Sounds Right but Isn’t
 
 **URL:** https://www.youtube.com/watch?v=h3tc5tSjcZI
 
-## Episode 315: AI Stopped Asking Permission #technology #ai #shorts
+## Episode 325: AI Stopped Asking Permission #technology #ai #shorts
 
 **URL:** https://www.youtube.com/watch?v=lmP5EvSvpM4
 
-## Episode 376: The Rise of Synthetic Media and AI Content
+## Episode 386: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
