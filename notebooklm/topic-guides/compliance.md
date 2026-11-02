@@ -3,10 +3,10 @@
 *2 episode(s) cover this topic.*
 
 
-## Episode 114: AI vs Corruption  The Invisible Handshake
+## Episode 118: AI vs Corruption  The Invisible Handshake
 
 **URL:** https://www.youtube.com/watch?v=hLcQfL5VSk4
 
-## Episode 395: The Rise of Synthetic Media and AI Content
+## Episode 404: The Rise of Synthetic Media and AI Content
 
 **URL:** https://www.youtube.com/watch?v=ccBJlt_Tflo
